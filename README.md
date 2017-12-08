@@ -8,9 +8,11 @@ Collect Web components library
 - [UIW](http://uiw-react.github.io/) - A high quality UI Toolkit, A Component Library for React. [![Open-Source Software][OSS Icon]](https://github.com/uiw-react/uiw)
 - [ANT DESIGN](https://ant.design/index-cn/) - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365. [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
+- [Amaze UI React](http://amazeui.org/react/) - Amaze UI components built with React.js.  [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-react)
 - [Blueprint](http://blueprintjs.com/) - Blueprint is a React-based UI toolkit for the web.  [![Open-Source Software][OSS Icon]](https://github.com/palantir/blueprint)
 - [Element React](https://eleme.github.io/element-react/) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/eleme/element-react)
 - [Zent](https://www.youzanyun.com/zanui/zent) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/youzan/zent)
+- [React-WeUI](https://weui.github.io/react-weui/docs/) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/weui/react-weui/)
 - [Ring UI](https://jetbrains.org/ring-ui/index.html) - A collection of JetBrains Web UI components. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/ring-ui)
 - [React UI](http://lobos.github.io/react-ui/) - React Components，base on bootstrap 4.0. [![Open-Source Software][OSS Icon]](https://github.com/Lobos/react-ui)
 - [React-Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React. [![Open-Source Software][OSS Icon]](https://github.com/react-bootstrap/react-bootstrap)
@@ -54,9 +56,15 @@ _Support React, Vue and Angular_
 - [Bootstrap](http://getbootstrap.com) - Create beautiful apps with modular and customizable UI components. [![Open-Source Software][OSS Icon]](https://github.com/twbs/bootstrap)
 - [Material](https://material.io) - Create beautiful apps with modular and customizable UI components. [![Open-Source Software][OSS Icon]](https://github.com/material-components)
 - [SUI](http://m.sui.taobao.org/) - A framework based on the development of Framework7 UI library. [![Open-Source Software][OSS Icon]](https://github.com/sdc-alibaba/SUI-Mobile)
+- [weui](https://weui.io/) - tailor-made for WeChat web service. [![Open-Source Software][OSS Icon]](https://github.com/Tencent/weui)
 - [Pure.css](https://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project. [![Open-Source Software][OSS Icon]](https://github.com/yahoo/pure/)
 - [Bulma](https://purecss.io/) - is a free and open source CSS framework based on Flexbox. [![Open-Source Software][OSS Icon]](https://github.com/jgthms/bulma)
 - [DXY-UI](https://dxy-f2e.github.io/dxy-ui/docs/) - DXY-UI是一套适用于桌面端的前端UI库，不包含任何JS，仅仅关注样式。 [![Open-Source Software][OSS Icon]](https://github.com/jgthms/bulma)
+- [Layui](http://www.layui.com/) - 一款采用自身模块规范编写的情怀型前端UI框架. [![Open-Source Software][OSS Icon]](https://github.com/sentsin/layui/)
+- [ZUI](http://zui.sexy/) - 一个基于 Bootstrap 深度定制开源前端实践方案，帮助你快速构建现代跨屏应用。. [![Open-Source Software][OSS Icon]](https://github.com/easysoft/zuis/)
+- [SuperUI](http://www.supermgr.cn/) - 让体验变得如此完美，开发变得如此简单。 [![Open-Source Software][OSS Icon]](https://github.com/tzhsweet/superui)
+- [MDUI](https://www.mdui.org/) - 一套用于开发 Material Design 网页的前端框架。 [![Open-Source Software][OSS Icon]](https://github.com/zdhxiong/mdui)
+- [AUI](http://www.auicss.com/) - 移动端UI快速布局解决方案，一个靠谱的高性能移动前端框架。 [![Open-Source Software][OSS Icon]](https://github.com/liulangnan/aui)
 
 
 
