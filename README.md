@@ -1,7 +1,7 @@
 Awesome UIKit
 ===
 
-Collect Web components library
+Collect Web components library and Admin Template.
 
 ## React
 
@@ -9,7 +9,7 @@ Collect Web components library
 
 - [UIW](http://uiw-react.github.io/) - A high quality UI Toolkit, A Component Library for React. [![Open-Source Software][OSS Icon]](https://github.com/uiw-react/uiw)
 - [ANT DESIGN](https://ant.design/index-cn/) - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
-- [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building experiences that fit seamlessly into Office and Office 365. [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
+- [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building that fit into Office and Office 365. . [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
 - [Amaze UI React](http://amazeui.org/react/) - Amaze UI components built with React.js.  [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-react)
 - [Blueprint](http://blueprintjs.com/) - Blueprint is a React-based UI toolkit for the web.  [![Open-Source Software][OSS Icon]](https://github.com/palantir/blueprint)
 - [Element React](https://eleme.github.io/element-react/) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/eleme/element-react)
