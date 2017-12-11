@@ -40,6 +40,7 @@ Collect Web components library and Admin Template.
 - [cube-ui](https://didi.github.io/cube-ui/) - A fantastic mobile ui lib implement by Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/veui)
 - [HeyUI](http://www.heyui.top/) - UI Toolkit for Web, Vue2.0 [![Open-Source Software][OSS Icon]](https://github.com/heyui/heyui)
 - [amaze-vue](https://sunshineji.github.io/amaze-vue-docs/) - UI Toolkit for Web, Vue2.0 [![Open-Source Software][OSS Icon]](https://github.com/sunshineJi/amaze-vue)
+- [fish-ui](https://myliang.github.io/fish-ui/) - A Vue.js 2.0 UI Toolkit for Web [![Open-Source Software][OSS Icon]](https://github.com/myliang/fish-ui)
 
 ## Angular
 
