@@ -46,7 +46,6 @@ Collect Web components library and Admin Template.
 *[Angular](https://github.com/angular/angular) based component library.*
 
 - [Material](https://ng.ant.design/#/docs/angular/introduce) - Material Design components for Angular [![Open-Source Software][OSS Icon]](https://github.com/angular/material2)
-- [ng-alain](http://ng-alain.com/) - ng-zorro-antd admin panel front-end framework. [![Open-Source Software][OSS Icon]](https://github.com/cipchk/ng-alain/)
 - [ngOfficeUIFabric](https://ng.ant.design/#/docs/angular/introduce) - A community-driven project that simplifies implementing Fabric in Angular-based apps [![Open-Source Software][OSS Icon]](https://github.com/ngOfficeUIFabric/ng-officeuifabric)
 - [NG-ZORRO](https://material.angular.io) - Ant Design of Angular [![Open-Source Software][OSS Icon]](https://github.com/NG-ZORRO/ng-zorro-antd)
 
@@ -76,6 +75,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 ## Admin Template
 
 - [ant-design-pro](https://preview.pro.ant.design/) An out-of-box UI solution for enterprise applications. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-pro)
+- [ng-alain](http://ng-alain.com/) - ng-zorro-antd admin panel front-end framework. [![Open-Source Software][OSS Icon]](https://github.com/cipchk/ng-alain/)
 - [gentelella](https://colorlib.com/polygon/gentelella/index.html) Free Bootstrap 3 Admin Template. [![Open-Source Software][OSS Icon]](https://github.com/puikinsh/gentelella)
 - [ngx-admin](http://akveo.com/ngx-admin/) Admin dashboard template based on Angular 4+, Bootstrap 4. [![Open-Source Software][OSS Icon]](https://github.com/akveo/ngx-admin)
 - [blur-admin](http://akveo.com/blur-admin-mint/#/dashboard) Angular Bootstrap Admin Panel Framework. [![Open-Source Software][OSS Icon]](https://github.com/akveo/blur-admin)
@@ -105,6 +105,8 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 - [react-antd-admin](http://jxy.me/react-antd-admin/) 用React和Ant Design搭建的一个通用管理后台. [![Open-Source Software][OSS Icon]](https://github.com/jiangxy/react-antd-admin)
 - [react-antd](http://antd.sosout.com/home) 基于react + redux + immutable + less + ES6/7 + webpack2.0 + fetch + react-router + antd(1.x)实现的SPA后台管理系统模板. [![Open-Source Software][OSS Icon]](https://github.com/sosout/react-antd)
 - [react-material-admin-template](https://rafaelhz.github.io/react-material-admin-template/) A simple responsive admin template using react and material-ui. [![Open-Source Software][OSS Icon]](https://github.com/rafaelhz/react-material-admin-template)
+- [Vali Admin](http://pratikborsadiya.in/vali-admin/) Vali is a free, modular and easy to customize admin theme built using Bootstrap, SASS and Pug.js. [![Open-Source Software][OSS Icon]](https://github.com/pratikborsadiya/vali-admin)
+- [vue-quasar-admin-example](https://quasar-admin.firebaseapp.com/#/) Example of quasar admin. [![Open-Source Software][OSS Icon]](https://github.com/odranoelBR/vue-quasar-admin-example)
 
 
 
