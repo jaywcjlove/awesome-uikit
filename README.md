@@ -8,6 +8,7 @@ Collect Web components library and Admin Template.
 *[React](https://github.com/facebook/react) based component library.*
 
 - [UIW](http://uiw-react.github.io/) - A high quality UI Toolkit, A Component Library for React. [![Open-Source Software][OSS Icon]](https://github.com/uiw-react/uiw)
+- [React Bootstrap](https://reactstrap.github.io) - Simple React Bootstrap 4 components. [![Open-Source Software][OSS Icon]](https://github.com/reactstrap/reactstrap)
 - [ANT DESIGN](https://ant.design/index-cn/) - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building that fit into Office and Office 365. . [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
 - [Amaze UI React](http://amazeui.org/react/) - Amaze UI components built with React.js.  [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-react)
@@ -25,7 +26,11 @@ Collect Web components library and Admin Template.
 - [Blue](https://github.com/helpscout/blue) - A React UI Component Suites living for enterprise application. [![Open-Source Software][OSS Icon]](https://github.com/helpscout/blue)
 - [Pivotal UI](https://styleguide.pivotal.io/) - Pivotal UI is a collection of React components that are styled for the Pivotal brand. [![Open-Source Software][OSS Icon]](https://github.com/pivotal-cf/pivotal-ui)
 - [Semantic UI](https://react.semantic-ui.com) - The official Semantic-UI-React integration. [![Open-Source Software][OSS Icon]](https://github.com/pivotal-cf/pivotal-ui)
-- [Foundation](https://react.foundation) -  Foundation as React components. [![Open-Source Software][OSS Icon]](https://github.com/nordsoftware/react-foundation)
+- [Foundation](https://react.foundation) - Foundation as React components. [![Open-Source Software][OSS Icon]](https://github.com/nordsoftware/react-foundation)
+- [react-materialize](https://react-materialize.github.io) - Material design for react, powered by materializecss. [![Open-Source Software][OSS Icon]](https://github.com/react-materialize/react-materialize)
+- [React-Ionic](http://reactionic.github.io/) - React Ionic: We are looking for a new maintainer!  [![Open-Source Software][OSS Icon]](https://github.com/reactionic/reactionic)
+- [React-UWP](https://www.react-uwp.com) - React Components that Implement Microsoft's UWP Design & Fluent Design. [![Open-Source Software][OSS Icon]](https://github.com/reactionic/reactionic)
+- [react-uikit-components](http://otissv.github.io/react-uikit-components/) - React UIkit Components for the UIKit CSS framework. [![Open-Source Software][OSS Icon]](https://github.com/otissv/react-uikit-components)
 
 ## Vue
 
