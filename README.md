@@ -80,39 +80,50 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 ## Admin Template
 
+#### React
+
 - [ant-design-pro](https://preview.pro.ant.design/) An out-of-box UI solution for enterprise applications. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-pro)
-- [ng-alain](http://ng-alain.com/) - ng-zorro-antd admin panel front-end framework. [![Open-Source Software][OSS Icon]](https://github.com/cipchk/ng-alain/)
-- [gentelella](https://colorlib.com/polygon/gentelella/index.html) Free Bootstrap 3 Admin Template. [![Open-Source Software][OSS Icon]](https://github.com/puikinsh/gentelella)
-- [ngx-admin](http://akveo.com/ngx-admin/) Admin dashboard template based on Angular 4+, Bootstrap 4. [![Open-Source Software][OSS Icon]](https://github.com/akveo/ngx-admin)
-- [blur-admin](http://akveo.com/blur-admin-mint/#/dashboard) Angular Bootstrap Admin Panel Framework. [![Open-Source Software][OSS Icon]](https://github.com/akveo/blur-admin)
-- [vue-element-admin](http://panjiachen.github.io/vue-element-admin/) vue2.0 admin / a management system template. [![Open-Source Software][OSS Icon]](https://github.com/PanJiaChen/vue-element-admin)
-- [vue-admin](https://admin.vuebulma.com) Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3. [![Open-Source Software][OSS Icon]](https://github.com/vue-bulma/vue-admin)
-- [AdminLTE](https://adminlte.io/themes/AdminLTE/index2.html) AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x. [![Open-Source Software][OSS Icon]](https://github.com/almasaeed2010/AdminLTE)
-- [Free Bootstrap Admin Template](http://coreui.io/demo/Ajax_Demo/) CoreUI is free bootstrap admin template with Angular2, AngularJS, React.js & Vue.js support. [![Open-Source Software][OSS Icon]](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template)
-- [startbootstrap-sb-admin-2](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html) A free, open source, Bootstrap admin theme created by Start Bootstrap. [![Open-Source Software][OSS Icon]](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2)
-- [rdash-angular](http://rdash.github.io/#/) AngularJS implementation of the RDash admin dashboard theme. [![Open-Source Software][OSS Icon]](https://github.com/rdash/rdash-angular)
-- [ng-admin](http://marmelab.com/ng-admin-demo/) Add an AngularJS admin GUI to any RESTful API. [![Open-Source Software][OSS Icon]](https://github.com/marmelab/ng-admin)
-- [iview-admin](https://iview.github.io/iview-admin) Vue 2.0 admin management system template based on iView. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview-admin)
-- [antd-admin](http://antd-admin.zuiidea.com/) A admin dashboard application demo built upon Ant Design and Dva.js. [![Open-Source Software][OSS Icon]](https://github.com/zuiidea/antd-admin)
-- [admin-on-rest](https://marmelab.com/admin-on-rest-demo/) A frontend framework for building admin SPAs on top of REST services, using React and Material Design. [![Open-Source Software][OSS Icon]](https://github.com/marmelab/admin-on-rest)
-- [vue-admin](https://taylorchen709.github.io/vue-admin/) admin template based on vuejs2 and element. [![Open-Source Software][OSS Icon]](https://github.com/taylorchen709/vue-admin)
-- [vuestic-admin](http://vuestic.epicmax.co/) Vue.js admin dashboard [![Open-Source Software][OSS Icon]](https://github.com/epicmaxco/vuestic-admin)
-- [Bootstrap-Admin-Template](https://colorlib.com/polygon/metis/) Metis - Free Bootstrap Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/puikinsh/Bootstrap-Admin-Template)
-- [ace](http://ace.jeka.by/) Metis - Free Bootstrap Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/bopoda/ace)
-- [flakes](http://getflakes.com/preview/dashboard.html) Flakes is an Admin Template Framework. A combination of CSS Libraries, JavaScript Libraries and Design files that help you build business tools very quickly. [![Open-Source Software][OSS Icon]](https://github.com/kumailht/flakes)
-- [CoPilot](https://copilot.mistergf.io/) Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js. [![Open-Source Software][OSS Icon]](https://github.com/misterGF/CoPilot)
-- [Bootstrap-Admin-Theme](http://vinceg.github.io/Bootstrap-Admin-Theme/) A generic admin theme built with Bootstrap free for both personal and commercial use. [![Open-Source Software][OSS Icon]](https://github.com/VinceG/Bootstrap-Admin-Theme)
-- [lumber](https://doc.forestadmin.com/developer-guide/lumber.html) The Admin Interface Framework. [![Open-Source Software][OSS Icon]](https://github.com/ForestAdmin/lumber)
-- [modular-admin-html](https://modularcode.io/modular-admin-html/) The Admin Interface Framework. [![Open-Source Software][OSS Icon]](https://github.com/modularcode/modular-admin-html)
-- [react-admin](http://cheng_haohao.oschina.io/reactadmin/#/app/dashboard/index) react-admin system solution. [![Open-Source Software][OSS Icon]](https://github.com/yezihaohao/react-admin)
-- [angular-material-dashboard](http://flatlogic.github.io/angular-material-dashboard) Angular admin dashboard with material design. [![Open-Source Software][OSS Icon]](https://github.com/flatlogic/angular-material-dashboard)
-- [vue-framework-wz](http://herozhou.coding.me/vue-framework-wz) This project is a background management framework, integrated rights management, login function, industrial UI components, node-cli and other functions, it is recommended to use. [![Open-Source Software][OSS Icon]](https://github.com/herozhou/vue-framework-wz)
-- [dva-admin](https://pmg1989.github.io/login) dva admin antd dashboard . [![Open-Source Software][OSS Icon]](https://github.com/pmg1989/dva-admin)
 - [react-antd-admin](http://jxy.me/react-antd-admin/) 用React和Ant Design搭建的一个通用管理后台. [![Open-Source Software][OSS Icon]](https://github.com/jiangxy/react-antd-admin)
 - [react-antd](http://antd.sosout.com/home) 基于react + redux + immutable + less + ES6/7 + webpack2.0 + fetch + react-router + antd(1.x)实现的SPA后台管理系统模板. [![Open-Source Software][OSS Icon]](https://github.com/sosout/react-antd)
 - [react-material-admin-template](https://rafaelhz.github.io/react-material-admin-template/) A simple responsive admin template using react and material-ui. [![Open-Source Software][OSS Icon]](https://github.com/rafaelhz/react-material-admin-template)
-- [Vali Admin](http://pratikborsadiya.in/vali-admin/) Vali is a free, modular and easy to customize admin theme built using Bootstrap, SASS and Pug.js. [![Open-Source Software][OSS Icon]](https://github.com/pratikborsadiya/vali-admin)
+- [react-admin](http://cheng_haohao.oschina.io/reactadmin/#/app/ui/gallery) react-admin system solution. [![Open-Source Software][OSS Icon]](https://github.com/yezihaohao/react-admin)
+- [antd-admin](http://antd-admin.zuiidea.com/) A admin dashboard application demo built upon Ant Design and Dva.js. [![Open-Source Software][OSS Icon]](https://github.com/zuiidea/antd-admin)
+- [Free Bootstrap Admin Template](http://coreui.io/demo/Ajax_Demo/) CoreUI is free bootstrap admin template with Angular2, AngularJS, React.js & Vue.js support. [![Open-Source Software][OSS Icon]](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template)
+- [admin-on-rest](https://marmelab.com/admin-on-rest-demo/) A frontend framework for building admin SPAs on top of REST services, using React and Material Design. [![Open-Source Software][OSS Icon]](https://github.com/marmelab/admin-on-rest)
+
+#### Vue
+
+- [vue-element-admin](http://panjiachen.github.io/vue-element-admin/) vue2.0 admin / a management system template. [![Open-Source Software][OSS Icon]](https://github.com/PanJiaChen/vue-element-admin)
+- [vue-admin](https://admin.vuebulma.com) Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3. [![Open-Source Software][OSS Icon]](https://github.com/vue-bulma/vue-admin)
+- [iview-admin](https://iview.github.io/iview-admin) Vue 2.0 admin management system template based on iView. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview-admin)
+- [vue-admin](https://taylorchen709.github.io/vue-admin/) admin template based on vuejs2 and element. [![Open-Source Software][OSS Icon]](https://github.com/taylorchen709/vue-admin)
+- [vuestic-admin](http://vuestic.epicmax.co/) Vue.js admin dashboard [![Open-Source Software][OSS Icon]](https://github.com/epicmaxco/vuestic-admin)
+- [vue-framework-wz](http://herozhou.coding.me/vue-framework-wz) This project is a background management framework, integrated rights management, login function, industrial UI components, node-cli and other functions, it is recommended to use. [![Open-Source Software][OSS Icon]](https://github.com/herozhou/vue-framework-wz)
 - [vue-quasar-admin-example](https://quasar-admin.firebaseapp.com/#/) Example of quasar admin. [![Open-Source Software][OSS Icon]](https://github.com/odranoelBR/vue-quasar-admin-example)
+- [CoPilot](https://copilot.mistergf.io/) Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js. [![Open-Source Software][OSS Icon]](https://github.com/misterGF/CoPilot)
+
+#### Angular
+
+- [ng-alain](http://ng-alain.com/) - ng-zorro-antd admin panel front-end framework. [![Open-Source Software][OSS Icon]](https://github.com/cipchk/ng-alain/)
+- [ngx-admin](http://akveo.com/ngx-admin/) Admin dashboard template based on Angular 4+, Bootstrap 4. [![Open-Source Software][OSS Icon]](https://github.com/akveo/ngx-admin)
+- [blur-admin](http://akveo.com/blur-admin-mint/#/dashboard) Angular Bootstrap Admin Panel Framework. [![Open-Source Software][OSS Icon]](https://github.com/akveo/blur-admin)
+- [rdash-angular](http://rdash.github.io/#/) AngularJS implementation of the RDash admin dashboard theme. [![Open-Source Software][OSS Icon]](https://github.com/rdash/rdash-angular)
+- [ng-admin](http://marmelab.com/ng-admin-demo/) Add an AngularJS admin GUI to any RESTful API. [![Open-Source Software][OSS Icon]](https://github.com/marmelab/ng-admin)
+- [angular-material-dashboard](http://flatlogic.github.io/angular-material-dashboard) Angular admin dashboard with material design. [![Open-Source Software][OSS Icon]](https://github.com/flatlogic/angular-material-dashboard)
+
+#### Other
+
+- [gentelella](https://colorlib.com/polygon/gentelella/index.html) Free Bootstrap 3 Admin Template. [![Open-Source Software][OSS Icon]](https://github.com/puikinsh/gentelella)
+- [AdminLTE](https://adminlte.io/themes/AdminLTE/index2.html) AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x. [![Open-Source Software][OSS Icon]](https://github.com/almasaeed2010/AdminLTE)
+- [startbootstrap-sb-admin-2](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html) A free, open source, Bootstrap admin theme created by Start Bootstrap. [![Open-Source Software][OSS Icon]](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2)
+- [Bootstrap-Admin-Template](https://colorlib.com/polygon/metis/) Metis - Free Bootstrap Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/puikinsh/Bootstrap-Admin-Template)
+- [ace](http://ace.jeka.by/) Metis - Free Bootstrap Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/bopoda/ace)
+- [flakes](http://getflakes.com/preview/dashboard.html) Flakes is an Admin Template Framework. A combination of CSS Libraries, JavaScript Libraries and Design files that help you build business tools very quickly. [![Open-Source Software][OSS Icon]](https://github.com/kumailht/flakes)
+- [Bootstrap-Admin-Theme](http://vinceg.github.io/Bootstrap-Admin-Theme/) A generic admin theme built with Bootstrap free for both personal and commercial use. [![Open-Source Software][OSS Icon]](https://github.com/VinceG/Bootstrap-Admin-Theme)
+- [lumber](https://doc.forestadmin.com/developer-guide/lumber.html) The Admin Interface Framework. [![Open-Source Software][OSS Icon]](https://github.com/ForestAdmin/lumber)
+- [modular-admin-html](https://modularcode.io/modular-admin-html/) The Admin Interface Framework. [![Open-Source Software][OSS Icon]](https://github.com/modularcode/modular-admin-html)
+- [dva-admin](https://pmg1989.github.io/login) dva admin antd dashboard . [![Open-Source Software][OSS Icon]](https://github.com/pmg1989/dva-admin)
+- [Vali Admin](http://pratikborsadiya.in/vali-admin/) Vali is a free, modular and easy to customize admin theme built using Bootstrap, SASS and Pug.js. [![Open-Source Software][OSS Icon]](https://github.com/pratikborsadiya/vali-admin)
 
 
 
