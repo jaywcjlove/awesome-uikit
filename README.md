@@ -12,6 +12,7 @@ Collect Web components library and Admin Template.
 - [ANT DESIGN](https://ant.design/index-cn/) - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building that fit into Office and Office 365. . [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
 - [Amaze UI React](http://amazeui.org/react/) - Amaze UI components built with React.js.  [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-react)
+- [RSUITE](https://rsuitejs.com/) - A suite of React components .  [![Open-Source Software][OSS Icon]](https://github.com/rsuite/rsuite)
 - [Blueprint](http://blueprintjs.com/) - Blueprint is a React-based UI toolkit for the web.  [![Open-Source Software][OSS Icon]](https://github.com/palantir/blueprint)
 - [Element React](https://eleme.github.io/element-react/) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/eleme/element-react)
 - [Zent](https://www.youzanyun.com/zanui/zent) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/youzan/zent)
