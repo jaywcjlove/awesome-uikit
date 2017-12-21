@@ -102,6 +102,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 - [vue-framework-wz](http://herozhou.coding.me/vue-framework-wz) This project is a background management framework, integrated rights management, login function, industrial UI components, node-cli and other functions, it is recommended to use. [![Open-Source Software][OSS Icon]](https://github.com/herozhou/vue-framework-wz)
 - [vue-quasar-admin-example](https://quasar-admin.firebaseapp.com/#/) Example of quasar admin. [![Open-Source Software][OSS Icon]](https://github.com/odranoelBR/vue-quasar-admin-example)
 - [CoPilot](https://copilot.mistergf.io/) Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js. [![Open-Source Software][OSS Icon]](https://github.com/misterGF/CoPilot)
+- [Flow-UI](http://refined-x.com/Flow-UI/dashboard/index.html) 是一套组件化UI框架，支持定制主题，主要服务于前台及中后台产品。. [![Open-Source Software][OSS Icon]](https://github.com/tower1229/Flow-UI)
 
 #### Angular
 
