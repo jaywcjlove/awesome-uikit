@@ -91,6 +91,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 - [antd-admin](http://antd-admin.zuiidea.com/) A admin dashboard application demo built upon Ant Design and Dva.js. [![Open-Source Software][OSS Icon]](https://github.com/zuiidea/antd-admin)
 - [Free Bootstrap Admin Template](http://coreui.io/demo/Ajax_Demo/) CoreUI is free bootstrap admin template with Angular2, AngularJS, React.js & Vue.js support. [![Open-Source Software][OSS Icon]](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template)
 - [admin-on-rest](https://marmelab.com/admin-on-rest-demo/) A frontend framework for building admin SPAs on top of REST services, using React and Material Design. [![Open-Source Software][OSS Icon]](https://github.com/marmelab/admin-on-rest)
+- [reactSPA](https://muyunyun.github.io/reactSPA) 一个后台管理系统模板 [![Open-Source Software][OSS Icon]](https://github.com/MuYunyun/reactSPA)
 
 #### Vue
 
