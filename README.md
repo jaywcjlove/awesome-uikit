@@ -37,7 +37,10 @@ Collect Web components library and Admin Template.
 
 *[Vue](https://github.com/vuejs/vue) based component library.*
 
+- [vue-beauty](https://fe-driver.github.io/vue-beauty) -Beautiful UI components build with vue and ant design. [![Open-Source Software][OSS Icon]](https://github.com/FE-Driver/vue-beauty)
 - [iView](https://www.iviewui.com/) - A high quality UI Toolkit based on Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview)
+- [vuetify](https://vuetifyjs.com) - Material Component Framework for Vue.js 2. [![Open-Source Software][OSS Icon]](https://github.com/vuetifyjs/vuetify)
+- [Quasar Framework](http://quasar-framework.org/) - Material Component Framework for Vue.js 2. [![Open-Source Software][OSS Icon]](https://github.com/quasarframework/quasar)
 - [Element](http://element.eleme.io/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/elemefe)
 - [Vant](https://www.youzanyun.com/zanui) - A Vue.js 2.0 Mobile UI at YouZan. [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant)
 - [Antue](https://zzuu666.github.io/antue/) - A set of enterprise-class Vue UI components. [![Open-Source Software][OSS Icon]](https://github.com/zzuu666/antue)
@@ -48,6 +51,12 @@ Collect Web components library and Admin Template.
 - [amaze-vue](https://sunshineji.github.io/amaze-vue-docs/) - UI Toolkit for Web, Vue2.0 .[![Open-Source Software][OSS Icon]](https://github.com/sunshineJi/amaze-vue)
 - [fish-ui](https://myliang.github.io/fish-ui/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/myliang/fish-ui)
 - [x-vui](https://brickies.github.io/vui/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/Brickies/vui)
+- [Mint UI](http://mint-ui.github.io/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/ElemeFE/mint-ui)
+- [ATUI](https://aliqin.github.io/atui/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/aliqin/atui)
+- [vue-weui](http://adcentury.github.io/vue-weui/) - WeUI Components with love of vue.js. [![Open-Source Software][OSS Icon]](https://github.com/adcentury/vue-weui)
+- [Rubik UI](https://ccforward.github.io/rubik/#/) - Material Design 风格的 Vue.js UI 组件库. [![Open-Source Software][OSS Icon]](https://github.com/ccforward/rubik)
+- [WDUI](https://wdfe.github.io/wdui/#/) - Mobile UI Components Library based on Vue 2.0 at Weidian. [![Open-Source Software][OSS Icon]](https://github.com/wdfe/wdui)
+- [Semantic UI Vue](https://semantic-ui-vue.github.io/#/) - Semantic UI Vue is the Vue integration for Semantic UI. [![Open-Source Software][OSS Icon]](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue)
 
 ## Angular
 
