@@ -47,7 +47,7 @@ Collect Web components library and Admin Template.
 - [HeyUI](http://www.heyui.top/) - UI Toolkit for Web, Vue2.0 . [![Open-Source Software][OSS Icon]](https://github.com/heyui/heyui)
 - [amaze-vue](https://sunshineji.github.io/amaze-vue-docs/) - UI Toolkit for Web, Vue2.0 .[![Open-Source Software][OSS Icon]](https://github.com/sunshineJi/amaze-vue)
 - [fish-ui](https://myliang.github.io/fish-ui/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/myliang/fish-ui)
-- [vui](https://brickies.github.io/vui/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/Brickies/vui)
+- [x-vui](https://brickies.github.io/vui/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/Brickies/vui)
 
 ## Angular
 
