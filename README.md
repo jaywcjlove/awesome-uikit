@@ -37,16 +37,17 @@ Collect Web components library and Admin Template.
 
 *[Vue](https://github.com/vuejs/vue) based component library.*
 
-- [iView](https://www.iviewui.com/) - A high quality UI Toolkit based on Vue.js [![Open-Source Software][OSS Icon]](https://github.com/iview/iview)
-- [Element](http://element.eleme.io/) - A Vue.js 2.0 UI Toolkit for Web [![Open-Source Software][OSS Icon]](https://github.com/elemefe)
-- [Vant](https://www.youzanyun.com/zanui) - A Vue.js 2.0 Mobile UI at YouZan [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant)
+- [iView](https://www.iviewui.com/) - A high quality UI Toolkit based on Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview)
+- [Element](http://element.eleme.io/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/elemefe)
+- [Vant](https://www.youzanyun.com/zanui) - A Vue.js 2.0 Mobile UI at YouZan. [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant)
 - [Antue](https://zzuu666.github.io/antue/) - A set of enterprise-class Vue UI components. [![Open-Source Software][OSS Icon]](https://github.com/zzuu666/antue)
 - [Vuikit](https://vuikit.js.org) - UIkit with all the power of Vue. [![Open-Source Software][OSS Icon]](https://github.com/vuikit/vuikit)
 - [Enterprise UI](https://ecomfe.github.io/veui/components/) - Enterprise UI for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/veui)
 - [cube-ui](https://didi.github.io/cube-ui/) - A fantastic mobile ui lib implement by Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/veui)
-- [HeyUI](http://www.heyui.top/) - UI Toolkit for Web, Vue2.0 [![Open-Source Software][OSS Icon]](https://github.com/heyui/heyui)
-- [amaze-vue](https://sunshineji.github.io/amaze-vue-docs/) - UI Toolkit for Web, Vue2.0 [![Open-Source Software][OSS Icon]](https://github.com/sunshineJi/amaze-vue)
-- [fish-ui](https://myliang.github.io/fish-ui/) - A Vue.js 2.0 UI Toolkit for Web [![Open-Source Software][OSS Icon]](https://github.com/myliang/fish-ui)
+- [HeyUI](http://www.heyui.top/) - UI Toolkit for Web, Vue2.0 . [![Open-Source Software][OSS Icon]](https://github.com/heyui/heyui)
+- [amaze-vue](https://sunshineji.github.io/amaze-vue-docs/) - UI Toolkit for Web, Vue2.0 .[![Open-Source Software][OSS Icon]](https://github.com/sunshineJi/amaze-vue)
+- [fish-ui](https://myliang.github.io/fish-ui/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/myliang/fish-ui)
+- [vui](https://brickies.github.io/vui/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/Brickies/vui)
 
 ## Angular
 
