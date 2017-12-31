@@ -72,6 +72,7 @@ Collect Web components library and Admin Template.
 - [fuel-ui](http://fuelinteractive.github.io/fuel-ui/#/) Bootstrap 4 components and directives for use in Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/FuelInteractive/fuel-ui)
 - [Teradata covalent](https://teradata.github.io/covalent/#/) - UI Platform built on @angular/material 2.0 [![Open-Source Software][OSS Icon]](https://github.com/Teradata/covalent)
 - [ngSemantic](https://ng-semantic.herokuapp.com/#/) - UI components based on Semantic UI [![Open-Source Software][OSS Icon]](https://github.com/vladotesanovic/ngSemantic)
+- [vmware clarity](https://vmware.github.io/clarity/) - Mostly a CSS only framework but some components are ported to Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/vmware/clarity)
 
 ## All In
 
