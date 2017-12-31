@@ -67,6 +67,7 @@ Collect Web components library and Admin Template.
 - [NG-ZORRO](https://material.angular.io) - Ant Design of Angular [![Open-Source Software][OSS Icon]](https://github.com/NG-ZORRO/ng-zorro-antd)
 - [Element Angular](https://element-angular.faas.ele.me) - Element Design components built on top of Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/eleme/element-angular)
 - [ng2-bootstrap](https://valor-software.com/ngx-bootstrap/#/) Native Angular2 Bootstrap 3&4 components [![Open-Source Software][OSS Icon]](https://github.com/valor-software/ngx-bootstrap)
+- [ng-lightning](http://ng-lightning.github.io/ng-lightning/) Native Angular 2 components & directives for Lightning Design System [![Open-Source Software][OSS Icon]](https://github.com/ng-lightning/ng-lightning)
 
 ## All In
 
