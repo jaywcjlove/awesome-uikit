@@ -65,6 +65,7 @@ Collect Web components library and Admin Template.
 - [Material](https://ng.ant.design/#/docs/angular/introduce) - Material Design components for Angular [![Open-Source Software][OSS Icon]](https://github.com/angular/material2)
 - [ngOfficeUIFabric](https://ng.ant.design/#/docs/angular/introduce) - A community-driven project that simplifies implementing Fabric in Angular-based apps [![Open-Source Software][OSS Icon]](https://github.com/ngOfficeUIFabric/ng-officeuifabric)
 - [NG-ZORRO](https://material.angular.io) - Ant Design of Angular [![Open-Source Software][OSS Icon]](https://github.com/NG-ZORRO/ng-zorro-antd)
+- [Element Angular](https://element-angular.faas.ele.me) - Element Design components built on top of Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/eleme/element-angular)
 
 ## All In
 
