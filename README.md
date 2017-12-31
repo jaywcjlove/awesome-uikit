@@ -70,6 +70,7 @@ Collect Web components library and Admin Template.
 - [ng-lightning](http://ng-lightning.github.io/ng-lightning/) Native Angular 2 components & directives for Lightning Design System [![Open-Source Software][OSS Icon]](https://github.com/ng-lightning/ng-lightning)
 - [prime-ng](https://www.primefaces.org/primeng/#/) Collection of rich UI components for Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/primefaces/primeng)
 - [fuel-ui](http://fuelinteractive.github.io/fuel-ui/#/) Bootstrap 4 components and directives for use in Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/FuelInteractive/fuel-ui)
+- [Teradata covalent](https://teradata.github.io/covalent/#/) - UI Platform built on @angular/material 2.0 [![Open-Source Software][OSS Icon]](https://github.com/Teradata/covalent)
 
 ## All In
 
