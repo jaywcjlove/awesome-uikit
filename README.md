@@ -74,7 +74,7 @@ Collect Web components library and Admin Template.
 - [ngSemantic](https://ng-semantic.herokuapp.com/#/) - UI components based on Semantic UI [![Open-Source Software][OSS Icon]](https://github.com/vladotesanovic/ngSemantic)
 - [vmware clarity](https://vmware.github.io/clarity/) - Mostly a CSS only framework but some components are ported to Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/vmware/clarity)
 - [ngx-ui](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond! [![Open-Source Software][OSS Icon]](https://swimlane.github.io/ngx-ui/)
-- [ng-bootstrap](https://ng-bootstrap.github.io/#/home) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team (https://github.com/ng-bootstrap/ng-bootstrap)
+- [ng-bootstrap](https://ng-bootstrap.github.io/#/home) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team [![Open-Source Software][OSS Icon]](https://github.com/ng-bootstrap/ng-bootstrap)
 
 ## All In
 
