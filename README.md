@@ -73,6 +73,7 @@ Contents
 - [vuetify](https://vuetifyjs.com) - Material Component Framework for Vue.js 2. [![Open-Source Software][OSS Icon]](https://github.com/vuetifyjs/vuetify)
 - [Quasar Framework](http://quasar-framework.org/) - Material Component Framework for Vue.js 2. [![Open-Source Software][OSS Icon]](https://github.com/quasarframework/quasar)
 - [Element](http://element.eleme.io/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/elemefe)
+- [jsmod-pc-vue](https://github.com/chaogao/jsmod-pc-vue) - high scalability && freedom vue ui components. [![Open-Source Software][OSS Icon]](https://github.com/chaogao/jsmod-pc-vue)
 - [Vant](https://www.youzanyun.com/zanui) - A Vue.js 2.0 Mobile UI at YouZan. [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant)
 - [Antue](https://zzuu666.github.io/antue/) - A set of enterprise-class Vue UI components. [![Open-Source Software][OSS Icon]](https://github.com/zzuu666/antue)
 - [Vuikit](https://vuikit.js.org) - UIkit with all the power of Vue. [![Open-Source Software][OSS Icon]](https://github.com/vuikit/vuikit)
