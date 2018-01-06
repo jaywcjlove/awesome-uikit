@@ -152,7 +152,8 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 ### Tradition
 
 - [weui.js](https://weui.io) - A lightweight javascript library for WeUI. [![Open-Source Software][OSS Icon]](https://github.com/Tencent/weui)
-- [AUI](http://www.auicss.com/) - 移动端UI快速布局解决方案，一个靠谱的高性能移动前端框架。 [![Open-Source Software][OSS Icon]](https://github.com/liulangnan/aui)
+- [AUI](http://www.auicss.com) - 移动端UI快速布局解决方案，一个靠谱的高性能移动前端框架。 [![Open-Source Software][OSS Icon]](https://github.com/liulangnan/aui)
+- [FrozenUI](http://frozenui.github.io) - FrozenUI的CSS组件库，基于腾讯手Q样式规范，腾讯QXD出品。 [![Open-Source Software][OSS Icon]](https://github.com/frozenui/frozenui)
 
 ## Admin Template
 
