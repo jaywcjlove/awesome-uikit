@@ -164,7 +164,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 - [ant-design-pro](https://preview.pro.ant.design/) An out-of-box UI solution for enterprise applications. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-pro)
 - [react-antd-admin](http://jxy.me/react-antd-admin/) 用React和Ant Design搭建的一个通用管理后台. [![Open-Source Software][OSS Icon]](https://github.com/jiangxy/react-antd-admin)
-- [react-antd](http://antd.sosout.com/home) 基于react + redux + immutable + less + ES6/7 + webpack2.0 + fetch + react-router + antd(1.x)实现的SPA后台管理系统模板. [![Open-Source Software][OSS Icon]](https://github.com/sosout/react-antd)
+- [react-antd](http://antd.sosout.com/home) 基于react + antd(1.x)实现的SPA后台管理系统模板. [![Open-Source Software][OSS Icon]](https://github.com/sosout/react-antd)
 - [react-material-admin-template](https://rafaelhz.github.io/react-material-admin-template/) A simple responsive admin template using react and material-ui. [![Open-Source Software][OSS Icon]](https://github.com/rafaelhz/react-material-admin-template)
 - [react-admin](http://cheng_haohao.oschina.io/reactadmin/#/app/ui/gallery) react-admin system solution. [![Open-Source Software][OSS Icon]](https://github.com/yezihaohao/react-admin)
 - [antd-admin](http://antd-admin.zuiidea.com/) A admin dashboard application demo built upon Ant Design and Dva.js. [![Open-Source Software][OSS Icon]](https://github.com/zuiidea/antd-admin)
