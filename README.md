@@ -19,9 +19,11 @@ Contents
   - [All In](#all-in)
   - [Tradition](#tradition)
 - [Mobile UI Components](#mobile-ui-components)
+  - [Vue](#vue-1)
+  - [Tradition](#tradition-1)
 - [Admin Template](#admin-template)
   - [React](#react-1)
-  - [Vue](#vue-1)
+  - [Vue](#vue-2)
   - [Angular](#angular-1)
   - [Other](#other)
 
@@ -86,7 +88,6 @@ Contents
 - [ATUI](https://aliqin.github.io/atui/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/aliqin/atui)
 - [vue-weui](http://adcentury.github.io/vue-weui/) - WeUI Components with love of vue.js. [![Open-Source Software][OSS Icon]](https://github.com/adcentury/vue-weui)
 - [Rubik UI](https://ccforward.github.io/rubik/#/) - Material Design 风格的 Vue.js UI 组件库. [![Open-Source Software][OSS Icon]](https://github.com/ccforward/rubik)
-- [WDUI](https://wdfe.github.io/wdui/#/) - Mobile UI Components Library based on Vue 2.0 at Weidian. [![Open-Source Software][OSS Icon]](https://github.com/wdfe/wdui)
 - [Semantic UI Vue](https://semantic-ui-vue.github.io/#/) - Semantic UI Vue is the Vue integration for Semantic UI. [![Open-Source Software][OSS Icon]](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue)
 
 ### Angular
@@ -134,8 +135,14 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 ## Mobile UI Components
 
-- [weui.js](https://weui.io) - A lightweight javascript library for WeUI. [![Open-Source Software][OSS Icon]](https://github.com/Tencent/weui)
+### Vue
+
+- [WDUI](https://wdfe.github.io/wdui/#/) - Mobile UI Components Library based on Vue 2.0 at Weidian. [![Open-Source Software][OSS Icon]](https://github.com/wdfe/wdui)
 - [vux](https://vux.li/) - Mobile UI Components based on Vue & WeUI. [![Open-Source Software][OSS Icon]](https://github.com/airyland/vux)
+
+### Tradition
+
+- [weui.js](https://weui.io) - A lightweight javascript library for WeUI. [![Open-Source Software][OSS Icon]](https://github.com/Tencent/weui)
 
 ## Admin Template
 
