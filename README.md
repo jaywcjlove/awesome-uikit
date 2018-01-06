@@ -5,7 +5,7 @@ Awesome UIKit
 
 Collect Web components library and Admin Template.
 
-<img src="./assets/react.svg" height="64px" /> <img src="./assets/vue.svg" height="64px" /> <img src="./assets/angular-icon.svg" height="64px" /> <img src="./assets/bootstrap.svg" height="64px" />
+<img src="./assets/react.svg" height="64px" /> <img src="./assets/vue.svg" height="64px" /> <img src="./assets/angular-icon.svg" height="64px" /> <img src="./assets/bootstrap.svg" height="64px" /> <img src="./assets/antd.svg" height="64px" /> <img src="./assets/iview.png" height="64px" /> <img src="./assets/Blueprin.svg" height="64px" /> 
 
 Contents
 ---
@@ -40,7 +40,7 @@ Contents
 
 - [UIW](http://uiw-react.github.io/) - A high quality UI Toolkit, A Component Library for React. [![Open-Source Software][OSS Icon]](https://github.com/uiw-react/uiw)
 - [React Bootstrap](https://reactstrap.github.io) - Simple React Bootstrap 4 components. [![Open-Source Software][OSS Icon]](https://github.com/reactstrap/reactstrap)
-- [ANT DESIGN](https://ant.design/index-cn/) - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
+- [ANT DESIGN](https://ant.design/index-cn) - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - The official front-end framework for building that fit into Office and Office 365. . [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
 - [Amaze UI React](http://amazeui.org/react/) - Amaze UI components built with React.js.  [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-react)
 - [RSUITE](https://rsuitejs.com/) - A suite of React components .  [![Open-Source Software][OSS Icon]](https://github.com/rsuite/rsuite)
