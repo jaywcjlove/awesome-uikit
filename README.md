@@ -76,15 +76,11 @@ Contents
 - [Quasar Framework](http://quasar-framework.org/) - Material Component Framework for Vue.js 2. [![Open-Source Software][OSS Icon]](https://github.com/quasarframework/quasar)
 - [Element](http://element.eleme.io/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/elemefe)
 - [jsmod-pc-vue](https://github.com/chaogao/jsmod-pc-vue) - high scalability && freedom vue ui components. [![Open-Source Software][OSS Icon]](https://github.com/chaogao/jsmod-pc-vue)
-- [Vant](https://www.youzanyun.com/zanui) - A Vue.js 2.0 Mobile UI at YouZan. [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant)
 - [Antue](https://zzuu666.github.io/antue/) - A set of enterprise-class Vue UI components. [![Open-Source Software][OSS Icon]](https://github.com/zzuu666/antue)
 - [Vuikit](https://vuikit.js.org) - UIkit with all the power of Vue. [![Open-Source Software][OSS Icon]](https://github.com/vuikit/vuikit)
 - [Enterprise UI](https://ecomfe.github.io/veui/components/) - Enterprise UI for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/veui)
-- [cube-ui](https://didi.github.io/cube-ui/) - A fantastic mobile ui lib implement by Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/veui)
 - [HeyUI](http://www.heyui.top/) - UI Toolkit for Web, Vue2.0 . [![Open-Source Software][OSS Icon]](https://github.com/heyui/heyui)
 - [amaze-vue](https://sunshineji.github.io/amaze-vue-docs/) - UI Toolkit for Web, Vue2.0 .[![Open-Source Software][OSS Icon]](https://github.com/sunshineJi/amaze-vue)
-- [x-vui](https://brickies.github.io/vui/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/Brickies/vui)
-- [Mint UI](http://mint-ui.github.io/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/ElemeFE/mint-ui)
 - [ATUI](https://aliqin.github.io/atui/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/aliqin/atui)
 - [vue-weui](http://adcentury.github.io/vue-weui/) - WeUI Components with love of vue.js. [![Open-Source Software][OSS Icon]](https://github.com/adcentury/vue-weui)
 - [Rubik UI](https://ccforward.github.io/rubik/#/) - Material Design 风格的 Vue.js UI 组件库. [![Open-Source Software][OSS Icon]](https://github.com/ccforward/rubik)
@@ -137,8 +133,13 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 ### Vue
 
+- [Vue Carbon](http://www.myronliu.com/vue-carbon) - Mobile UI Components Library based on Vue 2.0 at Weidian. [![Open-Source Software][OSS Icon]](https://github.com/myronliu347/vue-carbon)
 - [WDUI](https://wdfe.github.io/wdui/#/) - Mobile UI Components Library based on Vue 2.0 at Weidian. [![Open-Source Software][OSS Icon]](https://github.com/wdfe/wdui)
 - [vux](https://vux.li/) - Mobile UI Components based on Vue & WeUI. [![Open-Source Software][OSS Icon]](https://github.com/airyland/vux)
+- [Vant](https://www.youzanyun.com/zanui) - A Vue.js 2.0 Mobile UI at YouZan. [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant)
+- [cube-ui](https://didi.github.io/cube-ui/) - A fantastic mobile ui lib implement by Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/veui)
+- [x-vui](https://brickies.github.io/vui/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/Brickies/vui)
+- [Mint UI](http://mint-ui.github.io/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/ElemeFE/mint-ui)
 
 ### Tradition
 
