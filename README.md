@@ -172,7 +172,7 @@ Components for React Native applications
 - [WDUI](https://wdfe.github.io/wdui/#/) - Mobile UI Components Library based on Vue 2.0 at Weidian. [![Open-Source Software][OSS Icon]](https://github.com/wdfe/wdui)
 - [vux](https://vux.li/) - Mobile UI Components based on Vue & WeUI. [![Open-Source Software][OSS Icon]](https://github.com/airyland/vux)
 - [Vant](https://www.youzanyun.com/zanui) - A Vue.js 2.0 Mobile UI at YouZan. [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant)
-- [cube-ui](https://didi.github.io/cube-ui/) - A fantastic mobile ui lib implement by Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/veui)
+- [cube-ui](https://didi.github.io/cube-ui/) - A fantastic mobile ui lib implement by Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/didi/cube-ui)
 - [x-vui](https://brickies.github.io/vui/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/Brickies/vui)
 - [Mint UI](http://mint-ui.github.io/) - A personal Vue UI component library for Mobile. [![Open-Source Software][OSS Icon]](https://github.com/ElemeFE/mint-ui)
 - [ml-ui](http://www.zdliu.com/) - A personal 基于 Vue 2.0 的 Mobile 组件库 ml-ui. [![Open-Source Software][OSS Icon]](https://github.com/zdliuccit/ml-ui)
