@@ -158,7 +158,6 @@ Components for React Native applications
 - [kittenTricks](https://akveo.github.io/react-native-ui-kitten/) - A react native mobile starter kit with over 40 screens and theme hot reload support. [![Open-Source Software][OSS Icon]](https://github.com/akveo/kittenTricks)
 - [Shoutem UI](https://shoutem.github.io) - Customizable set of components for React Native applications. [![Open-Source Software][OSS Icon]](https://github.com/shoutem/ui)
 - [Nachos UI](https://avocode.com/nachos-ui/) - Nachos UI is a React Native component library.. [![Open-Source Software][OSS Icon]](https://avocode.com/nachos-ui/)
-- [react-native-ui-kitten](https://akveo.github.io/react-native-ui-kitten/) - Customizable and reusable react-native component kit. [![Open-Source Software][OSS Icon]](https://github.com/akveo/react-native-ui-kitten)
 - [react-native-material-design](http://react-native-material-design.github.io/components/checkbox) - React Native UI Components for Material Design. [![Open-Source Software][OSS Icon]](https://github.com/react-native-material-design/react-native-material-design)
 - [rnx-ui](https://github.com/rnxteam/rnx-ui) - A UI Lib for React Native. [![Open-Source Software][OSS Icon]](https://github.com/rnxteam/rnx-ui)
 - [react-native-uikit](https://github.com/andyfen/react-native-uikit) - This project is no longer maintained. A box of UI components. [![Open-Source Software][OSS Icon]](https://github.com/andyfen/react-native-uikit)
