@@ -143,18 +143,19 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 ### React 
 
 - [mazeui-touch](http://t.amazeui.org/) - Web Components for mobile devices based on React. [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-touch)
-- [Ant Design Mobile](https://mobile.ant.design) - A configurable Mobile UI. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-mobile)
 - [nowui](http://nowui.ivweb.io/) - A React.js UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/iv-web/nowui)
 
 ### React Native 
 
 Components for React Native applications
 
+- [Ant Design Mobile](https://mobile.ant.design) - A configurable Mobile UI. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-mobile)
 - [Rax](https://alibaba.github.io/rax) - A universal React-compatible render engine. [![Open-Source Software][OSS Icon]](https://github.com/alibaba/rax)
 - [blankapp/ui](http://blankapp.org/) - Highly customizable and theming components for React Native. [![Open-Source Software][OSS Icon]](https://github.com/GeekyAnts/NativeBase)
 - [carbon-native](http://getcarbonnative.com/) - Essential cross-platform UI components for React Native. [![Open-Source Software][OSS Icon]](https://github.com/carbon-native/carbon-native)
 - [NativeBase](https://nativebase.io/) - Essential cross-platform UI components for React Native. [![Open-Source Software][OSS Icon]](https://github.com/GeekyAnts/NativeBase)
 - [react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native. [![Open-Source Software][OSS Icon]](https://github.com/wix/react-native-ui-lib)
+- [kittenTricks](https://akveo.github.io/react-native-ui-kitten/) - A react native mobile starter kit with over 40 screens and theme hot reload support. [![Open-Source Software][OSS Icon]](https://github.com/akveo/kittenTricks)
 - [Shoutem UI](https://shoutem.github.io) - Customizable set of components for React Native applications. [![Open-Source Software][OSS Icon]](https://github.com/shoutem/ui)
 - [Nachos UI](https://avocode.com/nachos-ui/) - Nachos UI is a React Native component library.. [![Open-Source Software][OSS Icon]](https://avocode.com/nachos-ui/)
 - [react-native-ui-kitten](https://akveo.github.io/react-native-ui-kitten/) - Customizable and reusable react-native component kit. [![Open-Source Software][OSS Icon]](https://github.com/akveo/react-native-ui-kitten)
