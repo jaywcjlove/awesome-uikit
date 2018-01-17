@@ -72,6 +72,7 @@ Contents
 - [iView](https://www.iviewui.com/) - A high quality UI Toolkit based on Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview)
 - [vue-material](http://vuematerial.io) - Material design for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/vuematerial/vue-material)
 - [muse-ui](https://museui.github.io) - Material Design UI library for Vuejs 2.0. [![Open-Source Software][OSS Icon]](https://github.com/museui/muse-ui)
+- [zircleUI](http://zircle.io) - A circular zooming UI library. [![Open-Source Software][OSS Icon]](https://github.com/zircleUI/zircleUI)
 - [at-ui](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0. [![Open-Source Software][OSS Icon]](https://github.com/AT-UI/at-ui)
 - [Buefy](https://buefy.github.io) - Material Design UI library for Vuejs 2.0. [![Open-Source Software][OSS Icon]](https://github.com/rafaelpimpa/buefy)
 - [fish-ui](https://myliang.github.io/fish-ui/) - A Vue.js 2.0 UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/myliang/fish-ui)
