@@ -225,6 +225,7 @@ Components for React Native applications
 ### Other
 
 - [gentelella](https://colorlib.com/polygon/gentelella/index.html) Free Bootstrap 3 Admin Template. [![Open-Source Software][OSS Icon]](https://github.com/puikinsh/gentelella)
+- [Dashboard](https://github.com/twbs/bootstrap/tree/v4-dev/docs/4.0/examples/dashboard) Dashboard Template for Bootstrap. [![Open-Source Software][OSS Icon]](https://getbootstrap.com/docs/4.0/examples/dashboard/)
 - [AdminLTE](https://adminlte.io/themes/AdminLTE/index2.html) AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x. [![Open-Source Software][OSS Icon]](https://github.com/almasaeed2010/AdminLTE)
 - [startbootstrap-sb-admin-2](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/pages/index.html) A free, open source, Bootstrap admin theme created by Start Bootstrap. [![Open-Source Software][OSS Icon]](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2)
 - [Bootstrap-Admin-Template](https://colorlib.com/polygon/metis/) Metis - Free Bootstrap Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/puikinsh/Bootstrap-Admin-Template)
