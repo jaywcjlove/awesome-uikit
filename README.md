@@ -39,6 +39,8 @@ Contents
 
 ## Frameworks
 
+Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+
 ### The Big Three
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react/)
