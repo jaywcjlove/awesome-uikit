@@ -73,6 +73,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 - [AppRun](https://github.com/yysun/apprun) - AppRun is a 3K library for developing applications using the elm style model-view-update architecture based on event pub and sub pattern. [![Open-Source Software][OSS Icon]](https://yysun.github.com/apprun) 
 - [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Reactive data-binding for Scala. [![Open-Source Software][OSS Icon]](https://github.com/ThoughtWorksInc/Binding.scala) 
+- [avalon](http://avalonjs.coding.me/) - An elegant efficient express mvvm framework. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/avalon) 
 - [Bobril](http://bobril.com/) - Component oriented framework inspired by Mithril and ReactJs (already usable). [![Open-Source Software][OSS Icon]](https://github.com/Bobris/Bobril) ![hot][hot Icon] 
 - [Choo](https://choo.io/) - sturdy 4kb frontend framework. [![Open-Source Software][OSS Icon]](https://github.com/choojs/choo) 
 - [Cycle.js](https://cycle.js.org/) - A functional and reactive JavaScript framework for predictable code. [![Open-Source Software][OSS Icon]](https://github.com/cyclejs/cyclejs) 
