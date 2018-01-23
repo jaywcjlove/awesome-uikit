@@ -72,7 +72,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Cycle.js](https://cycle.js.org/) - A functional and reactive JavaScript framework for predictable code. [![Open-Source Software][OSS Icon]](https://github.com/cyclejs/cyclejs) 
 - [DIO](https://dio.js.org/) - a library for building user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/thysultan/dio.js) 🔥 
 - [Dojo](https://dojo.io/) - meta information for the project. [![Open-Source Software][OSS Icon]](https://github.com/dojo/meta) 
-- [Domvm](http://leeoniya.github.io/domvm/) - [![Open-Source Software][OSS Icon]](https://github.com/leeoniya/domvm) 🔥
+- [Domvm](http://leeoniya.github.io/domvm/) - DOM ViewModel - A thin, fast, dependency-free vdom view layer. [![Open-Source Software][OSS Icon]](https://github.com/leeoniya/domvm) 🔥
 - [dva](https://github.com/dvajs/dva) -  React and redux based, lightweight and elm-style framework. [![Open-Source Software][OSS Icon]](https://github.com/dvajs/dva) 
 - [Etch](https://github.com/atom/etch) - Builds components using a simple and explicit API around virtual-dom. [![Open-Source Software][OSS Icon]](https://github.com/atom/etch) 
 - [Gruu](https://gruujs.com/) - JavaScript library for creating dynamic content. [![Open-Source Software][OSS Icon]](https://github.com/MarekLabuz/gruu) 
