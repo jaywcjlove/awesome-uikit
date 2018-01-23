@@ -65,6 +65,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Inferno](https://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/infernojs/inferno) ![hot][hot Icon] 
 - [Polymer](https://www.polymer-project.org/) - Build modern apps using web components. [![Open-Source Software][OSS Icon]](https://github.com/Polymer/polymer)
 - [Preact](https://preactjs.com/) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/developit/preact/) 
+- [anu](https://rubylouvre.github.io/anu/) - he React16-compat mini library. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/anu) 
 - [ReasonML](https://reasonml.github.io/) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems. [![Open-Source Software][OSS Icon]](http://reasonml.github.io) 
 - [Svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework. [![Open-Source Software][OSS Icon]](https://svelte.technology) ![hot][hot Icon]
 
