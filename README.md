@@ -100,7 +100,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [San](https://ecomfe.github.io/san/) - A Flexible JavaScript Component Framework. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san) 
 - [Simulacra.js](https://simulacra.js.org/) - Data-binding function for the DOM. [![Open-Source Software][OSS Icon]](https://github.com/daliwali/simulacra) 
 - [Slim.js](http://slimjs.com) - Fast & Robust Front-End Micro-framework based on modern standards. [![Open-Source Software][OSS Icon]](https://github.com/eavichay/slim.js) 
-- [Stem JS](https://stemjs.org/) - [![Open-Source Software][OSS Icon]](https://github.com/mciucu/stemjs) 
+- [STEM.JS](https://stemjs.org/) - Another javascript framework. [![Open-Source Software][OSS Icon]](https://github.com/mciucu/stemjs) 
 - [Surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications. [![Open-Source Software][OSS Icon]](https://github.com/adamhaile/surplus) 🔥 
 - [Thermite](https://github.com/paf31/purescript-thermite) - A simple PureScript wrapper for React. [![Open-Source Software][OSS Icon]](https://github.com/paf31/purescript-thermite) 
 - [TSERS](https://github.com/tsers-js/core) - Transform-Signal-Executor framework for Reactive Streams. [![Open-Source Software][OSS Icon]](https://github.com/tsers-js/core) 
