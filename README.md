@@ -288,7 +288,7 @@ Components for React Native applications
 - [vue-admin](https://admin.vuebulma.com) Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3. [![Open-Source Software][OSS Icon]](https://github.com/vue-bulma/vue-admin)
 - [iview-admin](https://iview.github.io/iview-admin) Vue 2.0 admin management system template based on iView. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview-admin)
 - [vue-admin](https://taylorchen709.github.io/vue-admin/) admin template based on vuejs2 and element. [![Open-Source Software][OSS Icon]](https://github.com/taylorchen709/vue-admin)
-- [Keen-UI](https://taylorchen709.github.io/vue-admin/) A lightweight collection of essential UI components written with Vue and inspired by Material Design. [![Open-Source Software][OSS Icon]](https://github.com/JosephusPaye/Keen-UI)
+- [Keen-UI](https://josephuspaye.github.io/Keen-UI/) A lightweight collection of essential UI components written with Vue and inspired by Material Design. [![Open-Source Software][OSS Icon]](https://github.com/JosephusPaye/Keen-UI)
 - [vuestic-admin](http://vuestic.epicmax.co/) Vue.js admin dashboard [![Open-Source Software][OSS Icon]](https://github.com/epicmaxco/vuestic-admin)
 - [vue-framework-wz](http://herozhou.coding.me/vue-framework-wz) This project is a background management framework, integrated rights management, login function, industrial UI components, node-cli and other functions, it is recommended to use. [![Open-Source Software][OSS Icon]](https://github.com/herozhou/vue-framework-wz)
 - [vue-quasar-admin-example](https://quasar-admin.firebaseapp.com/#/) Example of quasar admin. [![Open-Source Software][OSS Icon]](https://github.com/odranoelBR/vue-quasar-admin-example)
