@@ -74,6 +74,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 - [react-native](http://facebook.github.io/react-native/) A framework for building native apps with React. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react-native) ![hot][hot Icon]
 - [nativescript-vue](https://nativescript-vue.org/) NativeScript with the ease of Vue. [![Open-Source Software][OSS Icon]](https://github.com/nativescript-vue/nativescript-vue)
+- [Weex](https://weex.apache.org/) A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/apache/incubator-weex)
 
 ### Rest of the Pack
 
