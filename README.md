@@ -133,6 +133,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - React components for building experiences for Office and Office 365. [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
 - [Amaze UI React](http://amazeui.org/react/) - Amaze UI components built with React.js.  [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-react)
 - [RSUITE](https://rsuitejs.com/) - A suite of React components .  [![Open-Source Software][OSS Icon]](https://github.com/rsuite/rsuite)
+- [ExtReact](https://www.sencha.com/products/extreact/) - Use Ext JS components in React.  [![Open-Source Software][OSS Icon]](https://github.com/sencha/extjs-reactor)
 - [Blueprint](http://blueprintjs.com/) - Blueprint is a React-based UI toolkit for the web.  [![Open-Source Software][OSS Icon]](https://github.com/palantir/blueprint)
 - [Element React](https://eleme.github.io/element-react/) - A collection of essential UI components written with React. [![Open-Source Software][OSS Icon]](https://github.com/eleme/element-react)
 - [hana-ui](https://hana-ui.moe) - A react UIKit with nijigen style.  [![Open-Source Software][OSS Icon]](https://github.com/hana-group/hana-ui)
