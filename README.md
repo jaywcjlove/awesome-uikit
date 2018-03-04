@@ -61,7 +61,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### Notable
 
-- [Aurelia](http://aurelia.io/) - A next generation JavaScript client framework that leverages simple conventions to empower your creativity. [![Open-Source Software][OSS Icon]](https://github.com/aurelia)
+- [Aurelia](http://aurelia.io/) - Aurelia allows us to focus on business logic, not on the framework. [![Open-Source Software][OSS Icon]](https://github.com/aurelia)
 - [Elm](http://elm-lang.org/) - Server and client code for the Elm website. [![Open-Source Software][OSS Icon]](https://github.com/elm-lang/core)  
 - [Inferno](https://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/infernojs/inferno) ![hot][hot Icon] 
 - [Polymer](https://www.polymer-project.org/) - Build modern apps using web components. [![Open-Source Software][OSS Icon]](https://github.com/Polymer/polymer)
@@ -78,7 +78,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### Rest of the Pack
 
-- [AppRun](https://github.com/yysun/apprun) - AppRun is a 3K library for developing applications using the elm style model-view-update architecture based on event pub and sub pattern. [![Open-Source Software][OSS Icon]](https://yysun.github.com/apprun) 
+- [AppRun](https://github.com/yysun/apprun) - AppRun is a 3K library for developing applications using the elm architecture, events and components. [![Open-Source Software][OSS Icon]](https://yysun.github.com/apprun) 
 - [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Reactive data-binding for Scala. [![Open-Source Software][OSS Icon]](https://github.com/ThoughtWorksInc/Binding.scala) 
 - [avalon](http://avalonjs.coding.me/) - An elegant efficient express mvvm framework. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/avalon) 
 - [Bobril](http://bobril.com/) - Component oriented framework inspired by Mithril and ReactJs (already usable). [![Open-Source Software][OSS Icon]](https://github.com/Bobris/Bobril) ![hot][hot Icon] 
