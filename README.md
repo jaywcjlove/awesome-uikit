@@ -305,7 +305,6 @@ Components for React Native applications
 - [vue-element-admin](http://panjiachen.github.io/vue-element-admin/) vue2.0 admin / a management system template. [![Open-Source Software][OSS Icon]](https://github.com/PanJiaChen/vue-element-admin)
 - [vue-admin](https://admin.vuebulma.com) Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3. [![Open-Source Software][OSS Icon]](https://github.com/vue-bulma/vue-admin)
 - [iview-admin](https://iview.github.io/iview-admin) Vue 2.0 admin management system template based on iView. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview-admin)
-- [Element UI Pro](https://qidaizhe11.github.io/element-pro/) Vue 版 Ant Design Pro（基于 Element-ui 实现）. [![Open-Source Software][OSS Icon]](https://github.com/qidaizhe11/element-pro)
 - [vue-admin](https://taylorchen709.github.io/vue-admin/) admin template based on vuejs2 and element. [![Open-Source Software][OSS Icon]](https://github.com/taylorchen709/vue-admin)
 - [Keen-UI](https://josephuspaye.github.io/Keen-UI/) A lightweight collection of essential UI components written with Vue and inspired by Material Design. [![Open-Source Software][OSS Icon]](https://github.com/JosephusPaye/Keen-UI)
 - [vuestic-admin](http://vuestic.epicmax.co/) Vue.js admin dashboard [![Open-Source Software][OSS Icon]](https://github.com/epicmaxco/vuestic-admin)
@@ -314,6 +313,7 @@ Components for React Native applications
 - [CoPilot](https://copilot.mistergf.io/) Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js. [![Open-Source Software][OSS Icon]](https://github.com/misterGF/CoPilot)
 - [Flow-UI](http://refined-x.com/Flow-UI/dashboard/index.html) 是一套组件化UI框架，支持定制主题，主要服务于前台及中后台产品。[![Open-Source Software][OSS Icon]](https://github.com/tower1229/Flow-UI)
 - [vue2-element-touzi-admin](https://github.com/wdlhao/vue2-element-touzi-admin) 基于vue2.0 +vuex+ element-ui后台管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/wdlhao/vue2-element-touzi-admin)
+- [Element UI Pro](https://qidaizhe11.github.io/element-pro/) Vue 版 Ant Design Pro（基于 Element-ui 实现）. [![Open-Source Software][OSS Icon]](https://github.com/qidaizhe11/element-pro)
 
 ### Angular
 
