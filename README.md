@@ -79,6 +79,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### Wechat
 
+- [wepy](https://tencent.github.io/wepy/) 小程序组件化开发框架。 [![Open-Source Software][OSS Icon]](https://github.com/Tencent/wepy)
 - [mpvue](http://mpvue.com) 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 [![Open-Source Software][OSS Icon]](https://github.com/Meituan-Dianping/mpvue)
 - [weapp-native](https://github.com/skyFi/weapp-native) weapp-native (wn) 像React组件开发一样来开发微信小程序，开发微信小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)
 
