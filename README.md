@@ -170,6 +170,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 - [vue-beauty](https://fe-driver.github.io/vue-beauty) -Beautiful UI components build with vue and ant design. [![Open-Source Software][OSS Icon]](https://github.com/FE-Driver/vue-beauty)
 - [iView](https://www.iviewui.com/) - A high quality UI Toolkit based on Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview)
+- [vue-antd](https://vuecomponent.github.io/ant-design/docs/vue/introduce/) - An enterprise-class UI components based on Ant Design 3.X and Vue. [![Open-Source Software][OSS Icon]](https://github.com/vueComponent/ant-design)
 - [vue-material](http://vuematerial.io) - Material design for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/vuematerial/vue-material)
 - [muse-ui](https://museui.github.io) - Material Design UI library for Vuejs 2.0. [![Open-Source Software][OSS Icon]](https://github.com/museui/muse-ui)
 - [zircleUI](http://zircle.io) - A circular zooming UI library. [![Open-Source Software][OSS Icon]](https://github.com/zircleUI/zircleUI)
