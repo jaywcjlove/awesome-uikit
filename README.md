@@ -190,6 +190,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [vue-weui](http://adcentury.github.io/vue-weui/) - WeUI Components with love of vue.js. [![Open-Source Software][OSS Icon]](https://github.com/adcentury/vue-weui)
 - [Rubik UI](https://ccforward.github.io/rubik/#/) - Material Design 风格的 Vue.js UI 组件库. [![Open-Source Software][OSS Icon]](https://github.com/ccforward/rubik)
 - [Semantic UI Vue](https://semantic-ui-vue.github.io/#/) - Semantic UI Vue is the Vue integration for Semantic UI. [![Open-Source Software][OSS Icon]](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue)
+- [UI](https://vuejs.github.io/ui/) - UI components for official Vue organization apps. [![Open-Source Software][OSS Icon]](https://github.com/vuejs/ui)
 
 ### Angular
 
