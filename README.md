@@ -173,6 +173,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [vue-antd](https://vuecomponent.github.io/ant-design/docs/vue/introduce/) - An enterprise-class UI components based on Ant Design 3.X and Vue. [![Open-Source Software][OSS Icon]](https://github.com/vueComponent/ant-design)
 - [vue-material](http://vuematerial.io) - Material design for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/vuematerial/vue-material)
 - [muse-ui](https://museui.github.io) - Material Design UI library for Vuejs 2.0. [![Open-Source Software][OSS Icon]](https://github.com/museui/muse-ui)
+- [vuesax](https://lusaxweb.github.io/vuesax/) - Vuesax Frontend Vue Components. [![Open-Source Software][OSS Icon]](https://github.com/lusaxweb/vuesax)
 - [zircleUI](http://zircle.io) - A circular zooming UI library. [![Open-Source Software][OSS Icon]](https://github.com/zircleUI/zircleUI)
 - [at-ui](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0. [![Open-Source Software][OSS Icon]](https://github.com/AT-UI/at-ui)
 - [Buefy](https://buefy.github.io) - Material Design UI library for Vuejs 2.0. [![Open-Source Software][OSS Icon]](https://github.com/rafaelpimpa/buefy)
