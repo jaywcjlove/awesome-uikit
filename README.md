@@ -320,7 +320,7 @@ Components for React Native applications
 - [Flow-UI](http://refined-x.com/Flow-UI/dashboard/index.html) 是一套组件化UI框架，支持定制主题，主要服务于前台及中后台产品。[![Open-Source Software][OSS Icon]](https://github.com/tower1229/Flow-UI)
 - [vue2-element-touzi-admin](https://github.com/wdlhao/vue2-element-touzi-admin) 基于vue2.0 +vuex+ element-ui后台管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/wdlhao/vue2-element-touzi-admin)
 - [Element UI Pro](https://qidaizhe11.github.io/element-pro/) Vue 版 Ant Design Pro（基于 Element-ui 实现）。[![Open-Source Software][OSS Icon]](https://github.com/qidaizhe11/element-pro)
-- [avue](https://github.com/nmxiaowei/avue) 一个类似easyui那种去写vue的方案支持SSR(服务端渲染)和SPA(单例页面)。 [![Open-Source Software][OSS Icon]](https://github.com/qidaizhe11/element-pro)
+- [avue](https://github.com/nmxiaowei/avue) 一个类似easyui那种去写vue的方案支持SSR(服务端渲染)和SPA(单例页面)。 [![Open-Source Software][OSS Icon]](https://github.com/nmxiaowei/avue)
 
 ### Angular
 
