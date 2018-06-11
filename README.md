@@ -30,6 +30,7 @@ Contents
   - [React](#react-1)
   - [React Native](#react-native)
   - [Vue](#vue-1)
+  - [Wechat](#wechat-1)
   - [Tradition](#tradition-1)
 - [Admin Template](#admin-template)
   - [React](#react-2)
@@ -285,6 +286,15 @@ Components for React Native applications
 - [ml-ui](http://www.zdliu.com/) - A personal 基于 Vue 2.0 的 Mobile 组件库 ml-ui. [![Open-Source Software][OSS Icon]](https://github.com/zdliuccit/ml-ui)
 - [vue-ydui](http://vue.ydui.org/) - A mobile components Library with Vue2.js. [![Open-Source Software][OSS Icon]](https://github.com/ydcss/vue-ydui)
 
+### Wechat
+
+- [weui-wxss](https://github.com/Tencent/weui-wxss) - WeUI for 小程序。 [![Open-Source Software][OSS Icon]](https://github.com/Tencent/weui-wxss)
+- [zanui-weapp](https://www.youzanyun.com/zanui/weapp) - 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞。 [![Open-Source Software][OSS Icon]](https://github.com/youzan/zanui-weapp)
+- [MinUI](https://meili.github.io/min/docs/minui/) - Min 小程序组件化解决方案。[![Open-Source Software][OSS Icon]](https://github.com/meili/min-cli)
+- [iview-weapp](https://weapp.iviewui.com/) - 一套高质量的微信小程序 UI 组件库。[![Open-Source Software][OSS Icon]](https://github.com/TalkingData/iview-weapp)
+- [wa-ui](https://github.com/liujians/wa-ui/wiki) - 针对微信小程序整合的一套UI库。[![Open-Source Software][OSS Icon]](https://github.com/liujians/Wa-UI)
+- [wx-charts](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表charts组件，Charts for WeChat small app。[![Open-Source Software][OSS Icon]](https://github.com/xiaolin3303/wx-charts)
+- [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库。[![Open-Source Software][OSS Icon]](https://github.com/TooBug/wemark)
 
 ### Tradition
 
