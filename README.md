@@ -65,11 +65,11 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 - [Aurelia](http://aurelia.io/) - Aurelia allows us to focus on business logic, not on the framework. [![Open-Source Software][OSS Icon]](https://github.com/aurelia)
 - [Elm](http://elm-lang.org/) - Server and client code for the Elm website. [![Open-Source Software][OSS Icon]](https://github.com/elm-lang/core)  
-- [Inferno](https://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/infernojs/inferno) ![hot][hot Icon] 
+- [Inferno](https://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/infernojs/inferno) ![hot][hot Icon]
 - [Polymer](https://www.polymer-project.org/) - Build modern apps using web components. [![Open-Source Software][OSS Icon]](https://github.com/Polymer/polymer)
-- [Preact](https://preactjs.com/) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/developit/preact/) 
-- [anu](https://rubylouvre.github.io/anu/) - he React16-compat mini library. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/anu) 
-- [ReasonML](https://reasonml.github.io/) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems. [![Open-Source Software][OSS Icon]](http://reasonml.github.io) 
+- [Preact](https://preactjs.com/) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/developit/preact/)
+- [anu](https://rubylouvre.github.io/anu/) - he React16-compat mini library. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/anu)
+- [ReasonML](https://reasonml.github.io/) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems. [![Open-Source Software][OSS Icon]](http://reasonml.github.io)
 - [Svelte](https://github.com/sveltejs/svelte) - The magical disappearing UI framework. [![Open-Source Software][OSS Icon]](https://svelte.technology) ![hot][hot Icon]
 
 ### Mobile
@@ -86,48 +86,48 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### Rest of the Pack
 
-- [AppRun](https://github.com/yysun/apprun) - AppRun is a 3K library for developing applications using the elm architecture, events and components. [![Open-Source Software][OSS Icon]](https://yysun.github.com/apprun) 
-- [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Reactive data-binding for Scala. [![Open-Source Software][OSS Icon]](https://github.com/ThoughtWorksInc/Binding.scala) 
-- [avalon](http://avalonjs.coding.me/) - An elegant efficient express mvvm framework. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/avalon) 
-- [Bobril](http://bobril.com/) - Component oriented framework inspired by Mithril and ReactJs (already usable). [![Open-Source Software][OSS Icon]](https://github.com/Bobris/Bobril) ![hot][hot Icon] 
-- [Choo](https://choo.io/) - sturdy 4kb frontend framework. [![Open-Source Software][OSS Icon]](https://github.com/choojs/choo) 
-- [Cycle.js](https://cycle.js.org/) - A functional and reactive JavaScript framework for predictable code. [![Open-Source Software][OSS Icon]](https://github.com/cyclejs/cyclejs) 
-- [DIO](https://dio.js.org/) - a library for building user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/thysultan/dio.js) ![hot][hot Icon] 
-- [Dojo](https://dojo.io/) - meta information for the project. [![Open-Source Software][OSS Icon]](https://github.com/dojo/meta) 
+- [AppRun](https://github.com/yysun/apprun) - AppRun is a 3K library for developing applications using the elm architecture, events and components. [![Open-Source Software][OSS Icon]](https://yysun.github.com/apprun)
+- [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Reactive data-binding for Scala. [![Open-Source Software][OSS Icon]](https://github.com/ThoughtWorksInc/Binding.scala)
+- [avalon](http://avalonjs.coding.me/) - An elegant efficient express mvvm framework. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/avalon)
+- [Bobril](http://bobril.com/) - Component oriented framework inspired by Mithril and ReactJs (already usable). [![Open-Source Software][OSS Icon]](https://github.com/Bobris/Bobril) ![hot][hot Icon]
+- [Choo](https://choo.io/) - sturdy 4kb frontend framework. [![Open-Source Software][OSS Icon]](https://github.com/choojs/choo)
+- [Cycle.js](https://cycle.js.org/) - A functional and reactive JavaScript framework for predictable code. [![Open-Source Software][OSS Icon]](https://github.com/cyclejs/cyclejs)
+- [DIO](https://dio.js.org/) - a library for building user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/thysultan/dio.js) ![hot][hot Icon]
+- [Dojo](https://dojo.io/) - meta information for the project. [![Open-Source Software][OSS Icon]](https://github.com/dojo/meta)
 - [Domvm](http://leeoniya.github.io/domvm/) - DOM ViewModel - A thin, fast, dependency-free vdom view layer. [![Open-Source Software][OSS Icon]](https://github.com/leeoniya/domvm) ![hot][hot Icon]
-- [dva](https://github.com/dvajs/dva) -  React and redux based, lightweight and elm-style framework. [![Open-Source Software][OSS Icon]](https://github.com/dvajs/dva) 
-- [Etch](https://github.com/atom/etch) - Builds components using a simple and explicit API around virtual-dom. [![Open-Source Software][OSS Icon]](https://github.com/atom/etch) 
-- [Gruu](https://gruujs.com/) - JavaScript library for creating dynamic content. [![Open-Source Software][OSS Icon]](https://github.com/MarekLabuz/gruu) 
-- [Glimmer](https://glimmerjs.com/) - Central repository for the Glimmer.js project. [![Open-Source Software][OSS Icon]](https://github.com/glimmerjs/glimmer.js) 
-- [Hyperapp](https://hyperapp.js.org/) - 1 KB JavaScript library for building web applications. [![Open-Source Software][OSS Icon]](https://hyperapp.js.org) ![hot][hot Icon] 
-- [Hyperdom](https://github.com/featurist/hyperdom) - A fast, feature rich and simple framework for building dynamic browser applications. [![Open-Source Software][OSS Icon]](https://github.com/featurist/hyperdom) 
-- [hyperHTML](https://viperhtml.js.org/) - A Fast & Light Virtual DOM Alternative. [![Open-Source Software][OSS Icon]](https://github.com/WebReflection/hyperHTML) 
+- [dva](https://github.com/dvajs/dva) -  React and redux based, lightweight and elm-style framework. [![Open-Source Software][OSS Icon]](https://github.com/dvajs/dva)
+- [Etch](https://github.com/atom/etch) - Builds components using a simple and explicit API around virtual-dom. [![Open-Source Software][OSS Icon]](https://github.com/atom/etch)
+- [Gruu](https://gruujs.com/) - JavaScript library for creating dynamic content. [![Open-Source Software][OSS Icon]](https://github.com/MarekLabuz/gruu)
+- [Glimmer](https://glimmerjs.com/) - Central repository for the Glimmer.js project. [![Open-Source Software][OSS Icon]](https://github.com/glimmerjs/glimmer.js)
+- [Hyperapp](https://hyperapp.js.org/) - 1 KB JavaScript library for building web applications. [![Open-Source Software][OSS Icon]](https://hyperapp.js.org) ![hot][hot Icon]
+- [Hyperdom](https://github.com/featurist/hyperdom) - A fast, feature rich and simple framework for building dynamic browser applications. [![Open-Source Software][OSS Icon]](https://github.com/featurist/hyperdom)
+- [hyperHTML](https://viperhtml.js.org/) - A Fast & Light Virtual DOM Alternative. [![Open-Source Software][OSS Icon]](https://github.com/WebReflection/hyperHTML)
 - [Ivi](https://github.com/ivijs/ivi) - Javascript (TypeScript) library for building web user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/ivijs/ivi) ![hot][hot Icon]
-- [Knockout](http://knockoutjs.com/) - Knockout makes it easier to create rich, responsive UIs with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/knockout/knockout) 
-- [Maquette](https://maquettejs.org/) - Pure and simple virtual DOM library. [![Open-Source Software][OSS Icon]](https://github.com/AFASSoftware/maquette) 
-- [Marko](https://markojs.com/) - A friendly (and fast!) UI library from eBay that makes building web apps fun. [![Open-Source Software][OSS Icon]](https://github.com/marko-js/marko) 
-- [Mithril](https://mithril.js.org/) - A Javascript Framework for Building Brilliant Applications. [![Open-Source Software][OSS Icon]](https://github.com/MithrilJS/mithril.js) 
-- [Moon](http://moonjs.ga/) - A minimal, blazing fast UI library. [![Open-Source Software][OSS Icon]](https://github.com/kbrsh/moon) 
-- [Nerv](https://nerv.aotu.io/) - A blazing fast React alternative, compatible with IE8 and React 16. [![Open-Source Software][OSS Icon]](https://github.com/NervJS/nerv) 
-- [NX](http://www.nx-framework.com/) - A modular front-end framework - inspired by the server-side and Web Components. [![Open-Source Software][OSS Icon]](https://github.com/nx-js/framework) 
+- [Knockout](http://knockoutjs.com/) - Knockout makes it easier to create rich, responsive UIs with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/knockout/knockout)
+- [Maquette](https://maquettejs.org/) - Pure and simple virtual DOM library. [![Open-Source Software][OSS Icon]](https://github.com/AFASSoftware/maquette)
+- [Marko](https://markojs.com/) - A friendly (and fast!) UI library from eBay that makes building web apps fun. [![Open-Source Software][OSS Icon]](https://github.com/marko-js/marko)
+- [Mithril](https://mithril.js.org/) - A Javascript Framework for Building Brilliant Applications. [![Open-Source Software][OSS Icon]](https://github.com/MithrilJS/mithril.js)
+- [Moon](http://moonjs.ga/) - A minimal, blazing fast UI library. [![Open-Source Software][OSS Icon]](https://github.com/kbrsh/moon)
+- [Nerv](https://nerv.aotu.io/) - A blazing fast React alternative, compatible with IE8 and React 16. [![Open-Source Software][OSS Icon]](https://github.com/NervJS/nerv)
+- [NX](http://www.nx-framework.com/) - A modular front-end framework - inspired by the server-side and Web Components. [![Open-Source Software][OSS Icon]](https://github.com/nx-js/framework)
 - [petit-dom](https://github.com/yelouafi/petit-dom) - minimalist virtual dom library. [![Open-Source Software][OSS Icon]](https://github.com/yelouafi/petit-dom) ![hot][hot Icon]
 - [Picodom](https://github.com/picodom/picodom) - 1 KB VDOM builder and patch function. [![Open-Source Software][OSS Icon]](https://github.com/picodom/picodom) ![hot][hot Icon]
-- [Pux](http://purescript-pux.org/) - Build type-safe web apps with PureScript. [![Open-Source Software][OSS Icon]](https://github.com/alexmingoia/purescript-pux/) 
-- [Ractive](https://ractive.js.org/) - Next-generation DOM manipulation. [![Open-Source Software][OSS Icon]](https://github.com/ractivejs/ractive) 
-- [react-lite](https://github.com/Lucifier129/react-lite) - an implementation of React that optimizes for small script size. [![Open-Source Software][OSS Icon]](https://github.com/Lucifier129/react-lite) 
+- [Pux](http://purescript-pux.org/) - Build type-safe web apps with PureScript. [![Open-Source Software][OSS Icon]](https://github.com/alexmingoia/purescript-pux/)
+- [Ractive](https://ractive.js.org/) - Next-generation DOM manipulation. [![Open-Source Software][OSS Icon]](https://github.com/ractivejs/ractive)
+- [react-lite](https://github.com/Lucifier129/react-lite) - an implementation of React that optimizes for small script size. [![Open-Source Software][OSS Icon]](https://github.com/Lucifier129/react-lite)
 - [RE:DOM](https://redom.js.org/) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/redom/redom) ![hot][hot Icon]
-- [Reflex](https://github.com/mozilla/reflex) - Functional reactive UI library. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/reflex) 
-- [Riot ](http://riotjs.com/) - Simple and elegant component-based UI library. [![Open-Source Software][OSS Icon]](https://github.com/riot/riot) 
-- [rxdomh](https://github.com/xialvjun/rx-domh) - Create DOM element and bind observables on it. [![Open-Source Software][OSS Icon]](https://github.com/xialvjun/rx-domh) 
-- [San](https://ecomfe.github.io/san/) - A Flexible JavaScript Component Framework. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san) 
-- [Simulacra.js](https://simulacra.js.org/) - Data-binding function for the DOM. [![Open-Source Software][OSS Icon]](https://github.com/daliwali/simulacra) 
-- [Slim.js](http://slimjs.com) - Fast & Robust Front-End Micro-framework based on modern standards. [![Open-Source Software][OSS Icon]](https://github.com/eavichay/slim.js) 
-- [STEM.JS](https://stemjs.org/) - Another javascript framework. [![Open-Source Software][OSS Icon]](https://github.com/mciucu/stemjs) 
-- [Surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications. [![Open-Source Software][OSS Icon]](https://github.com/adamhaile/surplus) ![hot][hot Icon] 
-- [Thermite](https://github.com/paf31/purescript-thermite) - A simple PureScript wrapper for React. [![Open-Source Software][OSS Icon]](https://github.com/paf31/purescript-thermite) 
-- [TSERS](https://github.com/tsers-js/core) - Transform-Signal-Executor framework for Reactive Streams. [![Open-Source Software][OSS Icon]](https://github.com/tsers-js/core) 
-- [Vidom](https://github.com/dfilatov/vidom) - Library to build UI based on virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/dfilatov/vidom) 
-- [Vuera](https://github.com/akxcv/vuera) - Vue in React, React in Vue. Seamless integration of the two. [![Open-Source Software][OSS Icon]](https://github.com/akxcv/vuera) 
+- [Reflex](https://github.com/mozilla/reflex) - Functional reactive UI library. [![Open-Source Software][OSS Icon]](https://github.com/mozilla/reflex)
+- [Riot ](http://riotjs.com/) - Simple and elegant component-based UI library. [![Open-Source Software][OSS Icon]](https://github.com/riot/riot)
+- [rxdomh](https://github.com/xialvjun/rx-domh) - Create DOM element and bind observables on it. [![Open-Source Software][OSS Icon]](https://github.com/xialvjun/rx-domh)
+- [San](https://ecomfe.github.io/san/) - A Flexible JavaScript Component Framework. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san)
+- [Simulacra.js](https://simulacra.js.org/) - Data-binding function for the DOM. [![Open-Source Software][OSS Icon]](https://github.com/daliwali/simulacra)
+- [Slim.js](http://slimjs.com) - Fast & Robust Front-End Micro-framework based on modern standards. [![Open-Source Software][OSS Icon]](https://github.com/eavichay/slim.js)
+- [STEM.JS](https://stemjs.org/) - Another javascript framework. [![Open-Source Software][OSS Icon]](https://github.com/mciucu/stemjs)
+- [Surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications. [![Open-Source Software][OSS Icon]](https://github.com/adamhaile/surplus) ![hot][hot Icon]
+- [Thermite](https://github.com/paf31/purescript-thermite) - A simple PureScript wrapper for React. [![Open-Source Software][OSS Icon]](https://github.com/paf31/purescript-thermite)
+- [TSERS](https://github.com/tsers-js/core) - Transform-Signal-Executor framework for Reactive Streams. [![Open-Source Software][OSS Icon]](https://github.com/tsers-js/core)
+- [Vidom](https://github.com/dfilatov/vidom) - Library to build UI based on virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/dfilatov/vidom)
+- [Vuera](https://github.com/akxcv/vuera) - Vue in React, React in Vue. Seamless integration of the two. [![Open-Source Software][OSS Icon]](https://github.com/akxcv/vuera)
 
 ## UI Components
 
@@ -225,7 +225,8 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 - [MUI](https://www.muicss.com/)
 - [Onsen UI](https://onsen.io/) [![Open-Source Software][OSS Icon]](https://github.com/OnsenUI/OnsenUI)
-- [storybook](https://storybook.js.org) - Interactive UI component dev & test: React, React Native, Vue, Angular [![Open-Source Software][OSS Icon]](https://github.com/storybooks/storybook) 
+- [storybook](https://storybook.js.org) - Interactive UI component dev & test: React, React Native, Vue, Angular [![Open-Source Software][OSS Icon]](https://github.com/storybooks/storybook)
+- [Handsontable](https://handsontable.com/) - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel [![Open-Source Software][OSS Icon]](https://github.com/handsontable/handsontable) 
 
 ### Tradition
 
@@ -248,13 +249,13 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 ## Mobile UI Components
 
-### React 
+### React
 
 - [mazeui-touch](http://t.amazeui.org/) - Web Components for mobile devices based on React. [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-touch)
 - [nowui](http://nowui.ivweb.io/) - A React.js UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/iv-web/nowui)
 - [Yo](https://ued.qunar.com/hy2/yo/index.html) - Lightweight, easy-to-use, configurable, and extensible mobile front-end development framework.. [![Open-Source Software][OSS Icon]](https://github.com/doyoe/Yo)
 
-### React Native 
+### React Native
 
 Components for React Native applications
 
