@@ -205,6 +205,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Material Components Vue](https://matsp.github.io/material-components-vue/) - Material Design components for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/matsp/material-components-vue)
 - [PrimeVue](https://github.com/sudheerj/primevue) - UI Components for Vue. [![Open-Source Software][OSS Icon]](https://github.com/sudheerj/primevue)
 - [vuecidity](https://vuecidity.wemakesites.net/) - UI component framework for Vue.js 2.0. [![Open-Source Software][OSS Icon]](https://bitbucket.org/acidmartin/vuecidity/)
+- [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/balmjs/ui-vue)
 
 ### Angular
 
