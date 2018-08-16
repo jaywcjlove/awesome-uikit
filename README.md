@@ -200,6 +200,8 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Translate Bulma css api to vue components. [![Open-Source Software][OSS Icon]](https://github.com/vouill/vue-bulma-components)
 - [at-ui](https://at-ui.github.io/at-ui/) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0. [![Open-Source Software][OSS Icon]](https://github.com/at-ui/at-ui)
 - [v-semantic](https://github.com/eddow/v-semantic) - Integration of [semantic-ui2](https://semantic-ui.com/) with vue.js2. [![Open-Source Software][OSS Icon]](https://github.com/eddow/v-semantic)
+- [vue-mdc-adapter](https://stasson.github.io/vue-mdc-adapter/#/) - Material Components for VueJS. [![Open-Source Software][OSS Icon]](https://github.com/stasson/vue-mdc-adapter)
+- [bootstrap-vue](https://bootstrap-vue.github.io/) - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2. [![Open-Source Software][OSS Icon]](https://github.com/bootstrap-vue/bootstrap-vue)
 
 ### Angular
 
