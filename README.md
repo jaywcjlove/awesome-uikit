@@ -198,6 +198,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [UI](https://vuejs.github.io/ui/) - UI components for official Vue organization apps. [![Open-Source Software][OSS Icon]](https://github.com/vuejs/ui)
 - [Ant Design Vue](https://aaronwn.github.io/vue-antd) - Antd component library implemented with Vue. [![Open-Source Software][OSS Icon]](https://github.com/Aaronwn/ui-vue-antd)
 - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Translate Bulma css api to vue components. [![Open-Source Software][OSS Icon]](https://github.com/vouill/vue-bulma-components)
+- [at-ui](https://at-ui.github.io/at-ui/) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0. [![Open-Source Software][OSS Icon]](https://github.com/at-ui/at-ui)
 
 ### Angular
 
