@@ -204,6 +204,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [bootstrap-vue](https://bootstrap-vue.github.io/) - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2. [![Open-Source Software][OSS Icon]](https://github.com/bootstrap-vue/bootstrap-vue)
 - [Material Components Vue](https://matsp.github.io/material-components-vue/) - Material Design components for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/matsp/material-components-vue)
 - [PrimeVue](https://github.com/sudheerj/primevue) - UI Components for Vue. [![Open-Source Software][OSS Icon]](https://github.com/sudheerj/primevue)
+- [vuecidity](https://vuecidity.wemakesites.net/) - UI component framework for Vue.js 2.0. [![Open-Source Software][OSS Icon]](https://bitbucket.org/acidmartin/vuecidity/)
 
 ### Angular
 
