@@ -149,6 +149,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Blueprint](http://blueprintjs.com/) - Blueprint is a React-based UI toolkit for the web.  [![Open-Source Software][OSS Icon]](https://github.com/palantir/blueprint)
 - [Element React](https://elemefe.github.io/element-react/) - A collection of essential UI components written with React. [![Open-Source Software][OSS Icon]](https://github.com/ElemeFE/element-react)
 - [hana-ui](https://hana-ui.moe) - A react UIKit with nijigen style.  [![Open-Source Software][OSS Icon]](https://github.com/hana-group/hana-ui)
+- [Stardust UI](https://github.com/stardust-ui/react) - A themable React component library.  [![Open-Source Software][OSS Icon]](https://stardust-ui.github.io/react/)
 - [Zent](https://www.youzanyun.com/zanui/zent) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/youzan/zent)
 - [React-WeUI](https://weui.github.io/react-weui/docs/) - A collection of essential UI components written with React.  [![Open-Source Software][OSS Icon]](https://github.com/weui/react-weui/)
 - [Ring UI](https://jetbrains.org/ring-ui/index.html) - A collection of JetBrains Web UI components. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/ring-ui)
