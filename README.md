@@ -210,6 +210,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/balmjs/ui-vue)
 - [Carvue.js](https://carvuejs.github.io/) - Carbon design for VueJS. [![Open-Source Software][OSS Icon]](https://github.com/CarvueJS/carbon-components-vue)
 - [vx-ui](http://vx.bittyos.com/) - vue components. [![Open-Source Software][OSS Icon]](https://github.com/yunfeihuang/vx-ui)
+- [kui-vue](https://k-ui.xyz) - vue components. [![Open-Source Software][OSS Icon]](https://github.com/chuchur/kui-vue)
 
 ### Angular
 
