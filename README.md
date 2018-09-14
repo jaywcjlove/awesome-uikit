@@ -166,6 +166,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [react-materialize](https://react-materialize.github.io) - Material design for react, powered by materializecss. [![Open-Source Software][OSS Icon]](https://github.com/react-materialize/react-materialize)
 - [React-Ionic](http://reactionic.github.io/) - React Ionic: We are looking for a new maintainer!  [![Open-Source Software][OSS Icon]](https://github.com/reactionic/reactionic)
 - [React-UWP](https://www.react-uwp.com) - React Components that Implement Microsoft's UWP Design & Fluent Design. [![Open-Source Software][OSS Icon]](https://github.com/reactionic/reactionic)
+- [BASE UI](https://baseui.netlify.com) - Is a design system comprised of modern, responsive, living components.. [![Open-Source Software][OSS Icon]](https://github.com/uber-web/baseui)
 - [react-uikit-components](http://otissv.github.io/react-uikit-components/) - React UIkit Components for the UIKit CSS framework. [![Open-Source Software][OSS Icon]](https://github.com/otissv/react-uikit-components)
 - [Yoshino-UI](https://yoshino-ui.github.io) - 一个基于react的可定制化的pc端组件库. [![Open-Source Software][OSS Icon]](https://github.com/Yoshino-UI/Yoshino)
 
