@@ -356,6 +356,7 @@ Components for React Native applications
 - [vue2-element-touzi-admin](https://github.com/wdlhao/vue2-element-touzi-admin) 基于vue2.0 +vuex+ element-ui后台管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/wdlhao/vue2-element-touzi-admin)
 - [Element UI Pro](https://qidaizhe11.github.io/element-pro/) Vue 版 Ant Design Pro（基于 Element-ui 实现）。[![Open-Source Software][OSS Icon]](https://github.com/qidaizhe11/element-pro)
 - [avue](https://github.com/nmxiaowei/avue) 一个类似easyui那种去写vue的方案支持SSR(服务端渲染)和SPA(单例页面)。 [![Open-Source Software][OSS Icon]](https://github.com/nmxiaowei/avue)
+- [vue-antd-pro](https://pro.loacg.com) Use Ant Design Vue like a Pro! [![Open-Source Software][OSS Icon]](https://github.com/sendya/ant-design-pro-vue)
 
 ### Angular
 
