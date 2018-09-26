@@ -140,6 +140,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [ANT DESIGN](https://ant.design/index-cn) - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
 - [Office UI Fabric](https://developer.microsoft.com/en-us/fabric) - React components for building experiences for Office and Office 365. [![Open-Source Software][OSS Icon]](https://github.com/OfficeDev/office-ui-fabric-react)
 - [Amaze UI React](http://amazeui.org/react/) - Amaze UI components built with React.js.  [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-react)
+- [Ring UI](https://jetbrains.github.io/ring-ui/) - JetBrains Web UI components.  [![Open-Source Software][OSS Icon]](https://github.com/jetbrains/ring-ui)
 - [Polaris](https://polaris.shopify.com) - Shopify’s product component library.  [![Open-Source Software][OSS Icon]](https://github.com/Shopify/polaris)
 - [RSUITE](https://rsuitejs.com/) - A suite of React components .  [![Open-Source Software][OSS Icon]](https://github.com/rsuite/rsuite)
 - [Gestalt](https://pinterest.github.io/gestalt/) - A set of React UI components that supports Pinterest’s design language. [![Open-Source Software][OSS Icon]](https://github.com/pinterest/gestalt)
