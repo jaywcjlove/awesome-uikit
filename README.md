@@ -99,6 +99,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Hyperapp](https://hyperapp.js.org/) - 1 KB JavaScript library for building web applications. [![Open-Source Software][OSS Icon]](https://hyperapp.js.org) ![hot][hot Icon]
 - [Hyperdom](https://github.com/featurist/hyperdom) - A fast, feature rich and simple framework for building dynamic browser applications. [![Open-Source Software][OSS Icon]](https://github.com/featurist/hyperdom)
 - [hyperHTML](https://viperhtml.js.org/) - A Fast & Light Virtual DOM Alternative. [![Open-Source Software][OSS Icon]](https://github.com/WebReflection/hyperHTML)
+- [Atomico](https://github.com/UpperCod/Atomico) - A small(1.6kB) library to work with web components. [![Open-Source Software][OSS Icon]](https://github.com/UpperCod/Atomico)
 - [Ivi](https://github.com/ivijs/ivi) - Javascript (TypeScript) library for building web user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/ivijs/ivi) ![hot][hot Icon]
 - [Knockout](http://knockoutjs.com/) - Knockout makes it easier to create rich, responsive UIs with JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/knockout/knockout)
 - [Maquette](https://maquettejs.org/) - Pure and simple virtual DOM library. [![Open-Source Software][OSS Icon]](https://github.com/AFASSoftware/maquette)
