@@ -222,10 +222,10 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 *<a href="https://github.com/angular/angular"><img src="./assets/angular-icon.svg" height="14px" /></a> [Angular](https://github.com/angular/angular) based component library.*
 
-- [Material](https://ng.ant.design/#/docs/angular/introduce) - Material Design components for Angular [![Open-Source Software][OSS Icon]](https://github.com/angular/material2)
-- [ngOfficeUIFabric](https://ng.ant.design/#/docs/angular/introduce) - A community-driven project that simplifies implementing Fabric in Angular-based apps [![Open-Source Software][OSS Icon]](https://github.com/ngOfficeUIFabric/ng-officeuifabric)
+- [Material](https://material.angular.io) - Material Design components for Angular [![Open-Source Software][OSS Icon]](https://github.com/angular/material2)
+- [ngOfficeUIFabric](http://ngofficeuifabric.com) - A community-driven project that simplifies implementing Fabric in Angular-based apps [![Open-Source Software][OSS Icon]](https://github.com/ngOfficeUIFabric/ng-officeuifabric)
 - [at-angular](http://ng-at.thunderjava.com/) - at-ui for angular version [![Open-Source Software][OSS Icon]](http://ng-at.thunderjava.com)
-- [NG-ZORRO](https://material.angular.io) - Ant Design of Angular [![Open-Source Software][OSS Icon]](https://github.com/NG-ZORRO/ng-zorro-antd)
+- [NG-ZORRO](https://ng.ant.design/docs/introduce/en) - Ant Design of Angular [![Open-Source Software][OSS Icon]](https://github.com/NG-ZORRO/ng-zorro-antd)
 - [Element Angular](https://element-angular.faas.ele.me) - Element Design components built on top of Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/eleme/element-angular)
 - [ng2-bootstrap](https://valor-software.com/ngx-bootstrap/#/) Native Angular2 Bootstrap 3&4 components [![Open-Source Software][OSS Icon]](https://github.com/valor-software/ngx-bootstrap)
 - [ng-lightning](http://ng-lightning.github.io/ng-lightning/) Native Angular 2 components & directives for Lightning Design System [![Open-Source Software][OSS Icon]](https://github.com/ng-lightning/ng-lightning)
@@ -241,7 +241,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 *<a href="https://github.com/ecomfe/san"><img src="./assets/san-icon.svg" height="16px" /></a> [San](https://github.com/ecomfe/san) is a flexible JavaScript component framework*
 
-- [san-mui](https://ng.ant.design/#/docs/angular/introduce) - A Set of SAN Components that Implement Google's Material Design  [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san-mui)
+- [san-mui](https://ecomfe.github.io/san-mui) - A Set of SAN Components that Implement Google's Material Design  [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san-mui)
 
 ### All In
 
