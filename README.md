@@ -23,6 +23,7 @@ Contents
   - [Vue](#vue)
   - [Angular](#angular)
   - [San](#san)
+  - [Mithril](#mithril)
   - [All In](#all-in)
   - [Tradition](#tradition)
 - [Mobile UI Components](#mobile-ui-components)
