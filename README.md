@@ -242,7 +242,11 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 *<a href="https://github.com/ecomfe/san"><img src="./assets/san-icon.svg" height="16px" /></a> [San](https://github.com/ecomfe/san) is a flexible JavaScript component framework*
 
-- [san-mui](https://ecomfe.github.io/san-mui) - A Set of SAN Components that Implement Google's Material Design  [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san-mui)
+- [san-mui](https://ecomfe.github.io/san-mui) - A Set of SAN Components that Implement Google's Material Design [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san-mui)
+
+### Mithril
+
+- [Construct-UI](https://vrimar.github.io/construct-ui) A Mithril.js UI library. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san-mui)
 
 ### All In
 
