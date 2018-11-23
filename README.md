@@ -123,6 +123,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Simulacra.js](https://simulacra.js.org/) - Data-binding function for the DOM. [![Open-Source Software][OSS Icon]](https://github.com/daliwali/simulacra)
 - [Slim.js](http://slimjs.com) - Fast & Robust Front-End Micro-framework based on modern standards. [![Open-Source Software][OSS Icon]](https://github.com/eavichay/slim.js)
 - [STEM.JS](https://stemjs.org/) - Another javascript framework. [![Open-Source Software][OSS Icon]](https://github.com/mciucu/stemjs)
+- [Hyperscript Tagged Markup](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. [![Open-Source Software][OSS Icon]](https://github.com/developit/htm)
 - [Surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications. [![Open-Source Software][OSS Icon]](https://github.com/adamhaile/surplus) ![hot][hot Icon]
 - [Thermite](https://github.com/paf31/purescript-thermite) - A simple PureScript wrapper for React. [![Open-Source Software][OSS Icon]](https://github.com/paf31/purescript-thermite)
 - [TSERS](https://github.com/tsers-js/core) - Transform-Signal-Executor framework for Reactive Streams. [![Open-Source Software][OSS Icon]](https://github.com/tsers-js/core)
