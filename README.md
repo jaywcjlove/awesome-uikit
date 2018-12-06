@@ -129,6 +129,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [TSERS](https://github.com/tsers-js/core) - Transform-Signal-Executor framework for Reactive Streams. [![Open-Source Software][OSS Icon]](https://github.com/tsers-js/core)
 - [Vidom](https://github.com/dfilatov/vidom) - Library to build UI based on virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/dfilatov/vidom)
 - [Vuera](https://github.com/akxcv/vuera) - Vue in React, React in Vue. Seamless integration of the two. [![Open-Source Software][OSS Icon]](https://github.com/akxcv/vuera)
+- [Intact](https://javey.github.io/Intact) - An inheritable and strong logic template front-end mvvm framework. [![Open-Source Software][OSS Icon]](https://github.com/Javey/Intact)
 
 ## UI Components
 
