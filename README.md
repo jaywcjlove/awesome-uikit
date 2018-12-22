@@ -66,6 +66,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Elm](http://elm-lang.org/) - Server and client code for the Elm website. [![Open-Source Software][OSS Icon]](https://github.com/elm-lang/core)  
 - [Inferno](https://infernojs.org/) - An extremely fast, React-like JavaScript library for building modern user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/infernojs/inferno) ![hot][hot Icon]
 - [Polymer](https://www.polymer-project.org/) - Build modern apps using web components. [![Open-Source Software][OSS Icon]](https://github.com/Polymer/polymer)
+- [HTM](https://github.com/developit/htm) JSX alternative using standard tagged templates, with compiler support. [![Open-Source Software][OSS Icon]](https://github.com/developit/htm)
 - [Preact](https://preactjs.com/) - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/developit/preact/)
 - [anu](https://rubylouvre.github.io/anu/) - he React16-compat mini library. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/anu)
 - [ReasonML](https://reasonml.github.io/) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems. [![Open-Source Software][OSS Icon]](http://reasonml.github.io)
