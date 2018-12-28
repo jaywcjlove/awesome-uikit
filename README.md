@@ -254,7 +254,8 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### Mithril
 
-- [Construct-UI](https://vrimar.github.io/construct-ui) A Mithril.js UI library. [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san-mui)
+- [Construct-UI](https://vrimar.github.io/construct-ui) A Mithril.js UI library.
+- [polythene](https://github.com/ArthurClemens/polythene) Material Design component library for Mithril and React [![Open-Source Software][OSS Icon]](https://github.com/ecomfe/san-mui)
 
 ### All In
 
