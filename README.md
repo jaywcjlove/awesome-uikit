@@ -178,6 +178,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Yoshino-UI](https://yoshino-ui.github.io) - 一个基于react的可定制化的pc端组件库. [![Open-Source Software][OSS Icon]](https://github.com/Yoshino-UI/Yoshino)
 - [grommet](https://v2.grommet.io) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. [![Open-Source Software][OSS Icon]](https://github.com/grommet/grommet)
 - [@alifd/next](https://fusion.design/) - Is a configurable component library for PC in Fusion Design. It is based on React and supports all modern browsers and IE9+. [![Open-Source Software][OSS Icon]](https://github.com/alibaba-fusion/next)
+- [stardust-ui](http://stardust-ui.github.io/react) - A themable React component library [![Open-Source Software][OSS Icon]](https://github.com/alibaba-fusion/next)
 
 ### React Native
 
