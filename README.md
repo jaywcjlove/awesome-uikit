@@ -176,6 +176,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [react-uikit-components](http://otissv.github.io/react-uikit-components/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/otissv/react-uikit-components.svg?label=" /> - React UIkit Components for the UIKit CSS framework. [![Open-Source Software][OSS Icon]](https://github.com/otissv/react-uikit-components)
 - [Yoshino-UI](https://yoshino-ui.github.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Yoshino-UI/Yoshino.svg?label=" /> - 一个基于react的可定制化的pc端组件库. [![Open-Source Software][OSS Icon]](https://github.com/Yoshino-UI/Yoshino)
 - [grommet](https://v2.grommet.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/grommet/grommet.svg?label=" /> - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. [![Open-Source Software][OSS Icon]](https://github.com/grommet/grommet)
+- [@alifd/next](https://fusion.design/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/alibaba-fusion/next.svg?label=" /> - Is a configurable component library for PC in Fusion Design. It is based on React and supports all modern browsers and IE9+. [![Open-Source Software][OSS Icon]](https://github.com/alibaba-fusion/next)
 
 ### React Native
 
@@ -252,6 +253,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 ### Mithril
 
 - [Construct-UI](https://vrimar.github.io/construct-ui) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vrimar/construct-ui.svg?label=" /> - A Mithril.js UI library. [![Open-Source Software][OSS Icon]](https://github.com/vrimar/construct-ui)
+- [polythene](https://github.com/ArthurClemens/polythene) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ArthurClemens/polythene.svg?label=" /> - Material Design component library for Mithril and React [![Open-Source Software][OSS Icon]](https://github.com/ArthurClemens/polythene)
 
 ### All In
 
@@ -265,6 +267,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 ### Tradition
 
 - [Bootstrap](http://getbootstrap.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/twbs/bootstrap.svg?label=" /> - Create beautiful apps with modular and customizable UI components. [![Open-Source Software][OSS Icon]](https://github.com/twbs/bootstrap)
+- [spectre](https://picturepan2.github.io/spectre/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/picturepan2/spectre.svg?label=" /> - A Lightweight, Responsive and Modern CSS Framework. [![Open-Source Software][OSS Icon]](https://github.com/picturepan2/spectre)
 - [Tabler](https://tabler.github.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/tabler/tabler.svg?label=" /> -  is free and open-source HTML Dashboard UI Kit built on Bootstrap 4. [![Open-Source Software][OSS Icon]](https://github.com/tabler/tabler)
 - [design-system](https://github.com/salesforce-ux/design-system) <img align="bottom" height="13" src="https://img.shields.io/github/stars/salesforce-ux/design-system.svg?label=" /> - Salesforce Lightning Design System. [![Open-Source Software][OSS Icon]](https://github.com/salesforce-ux/design-system)
 - [LuLu](https://l-ui.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/yued-fe/lulu.svg?label=" /> - LuLu UI for PC web. [![Open-Source Software][OSS Icon]](https://github.com/yued-fe/lulu)
@@ -357,6 +360,7 @@ Components for React Native applications
 
 ### Vue
 
+- [D2 Admin](https://d2admin.fairyever.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/d2-projects/d2-admin.svg?label=" /> - An elegant dashboard. [![Open-Source Software][OSS Icon]](https://github.com/d2-projects/d2-admin)
 - [vue-element-admin](http://panjiachen.github.io/vue-element-admin/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/PanJiaChen/vue-element-admin.svg?label=" /> - vue2.0 admin / a management system template. [![Open-Source Software][OSS Icon]](https://github.com/PanJiaChen/vue-element-admin)
 - [vue-admin](https://admin.vuebulma.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vue-bulma/vue-admin.svg?label=" /> - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3. [![Open-Source Software][OSS Icon]](https://github.com/vue-bulma/vue-admin)
 - [iview-admin](https://iview.github.io/iview-admin) <img align="bottom" height="13" src="https://img.shields.io/github/stars/iview/iview-admin.svg?label=" /> - Vue 2.0 admin management system template based on iView. [![Open-Source Software][OSS Icon]](https://github.com/iview/iview-admin)
