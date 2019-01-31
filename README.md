@@ -226,6 +226,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [vx-ui](http://vx.bittyos.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/yunfeihuang/vx-ui.svg?label=" /> - vue components. [![Open-Source Software][OSS Icon]](https://github.com/yunfeihuang/vx-ui)
 - [kui-vue](https://k-ui.xyz) <img align="bottom" height="13" src="https://img.shields.io/github/stars/chuchur/kui-vue.svg?label=" /> - vue components. [![Open-Source Software][OSS Icon]](https://github.com/chuchur/kui-vue)
 - [gulu UI](https://frankfang.github.io/gulu/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/FrankFang/gulu.svg?label=" /> - 轱辘，面向源码阅读者的 UI 框架. [![Open-Source Software][OSS Icon]](https://github.com/FrankFang/gulu)
+- [N3-components](https://n3-components.github.io/N3-components/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/N3-components/N3-components.svg?label=" /> Powerful Vue UI Library.[![Open-Source Software][OSS Icon]](https://github.com/N3-components/N3-components)
 
 ### Angular
 
