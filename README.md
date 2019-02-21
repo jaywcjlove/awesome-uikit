@@ -252,6 +252,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [vue-mdc-adapter](https://stasson.github.io/vue-mdc-adapter/#/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/stasson/vue-mdc-adapter.svg?label=" /> - Material Components for VueJS. [![Open-Source Software][OSS Icon]](https://github.com/stasson/vue-mdc-adapter)
 - [vuecidity](https://vuecidity.wemakesites.net/) - UI component framework for Vue.js 2.0. [![Open-Source Software][OSS Icon]](https://bitbucket.org/acidmartin/vuecidity/)
 - [vx-ui](http://vx.bittyos.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/yunfeihuang/vx-ui.svg?label=" /> - vue components. [![Open-Source Software][OSS Icon]](https://github.com/yunfeihuang/vx-ui)
+- [vue-znl-ui](https://vitozyf.github.io/vue-znl-ui/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vitozyf/vue-znl-ui.svg?label=" /> - vue components. [![Open-Source Software][OSS Icon]](https://github.com/vitozyf/vue-znl-ui)
 - [zircleUI](http://zircle.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/zircleUI/zircleUI.svg?label=" /> - A circular zooming UI library. [![Open-Source Software][OSS Icon]](https://github.com/zircleUI/zircleUI)
 
 ### Angular
