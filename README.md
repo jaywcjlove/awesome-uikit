@@ -259,6 +259,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 
 *<a href="https://github.com/angular/angular"><img src="./assets/angular-icon.svg" height="14px" /></a> [Angular](https://github.com/angular/angular) based component library.*
 
+- [Alyle UI](https://alyle-ui.firebaseapp.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/A-l-y-l-e/Alyle-UI.svg?label=" /> - Minimal Design, a set of components for Angular. [![Open-Source Software][OSS Icon]](https://github.com/A-l-y-l-e/Alyle-UI)
 - [Element Angular](https://element-angular.faas.ele.me) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ElemeFE/element-angular.svg?label=" /> - Element Design components built on top of Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/ElemeFE/element-angular)
 - [fuel-ui](http://fuelinteractive.github.io/fuel-ui/#/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/FuelInteractive/fuel-ui.svg?label=" /> - Bootstrap 4 components and directives for use in Angular 2 [![Open-Source Software][OSS Icon]](https://github.com/FuelInteractive/fuel-ui)
 - [Material](https://material.angular.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/angular/material2.svg?label=" /> - Material Design components for Angular [![Open-Source Software][OSS Icon]](https://github.com/angular/material2)
