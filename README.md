@@ -325,6 +325,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 - [mazeui-touch](http://t.amazeui.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/amazeui/amazeui-touch.svg?label=" /> - Web Components for mobile devices based on React. [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-touch)
 - [nowui](http://nowui.ivweb.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/iv-web/nowui.svg?label=" /> - A React.js UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/iv-web/nowui)
 - [Yo](https://ued.qunar.com/hy2/yo/index.html) <img align="bottom" height="13" src="https://img.shields.io/github/stars/doyoe/Yo.svg?label=" /> - Lightweight, easy-to-use, configurable, and extensible mobile front-end development framework.. [![Open-Source Software][OSS Icon]](https://github.com/doyoe/Yo)
+- [yep-react](https://yep-react.jd.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jdf2e/yep-react.svg?label=" /> - yep react UI component. [![Open-Source Software][OSS Icon]](https://github.com/jdf2e/yep-react)
 
 ### React Native
 
