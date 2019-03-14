@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-    <path d="M5.70480219,0 L10.4096044,3.41834667 L8.61252986,8.94934776 L2.79707453,8.94934776 L1,3.41834667 L5.70480219,0 Z M5.70480219,20 L1,16.5816533 L2.79707453,11.0506522 L8.61252986,11.0506522 L10.4096044,16.5816533 L5.70480219,20 Z M18.8709653,12.9678909 L13.3400514,14.7649021 L9.92167142,10.0599974 L13.3399103,5.35519519 L18.8708781,7.15237223 L18.8709653,12.9678909 Z" fill="#FFFFFF"></path>
-  </g>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M84.4999999,25 L133,60.1408731 L114.474648,117 L54.5253515,117 L36,60.1408731 L84.4999999,25 Z M84.4999999,231 L36,195.859127 L54.5253515,139 L114.474648,139 L133,195.859127 L84.4999999,231 Z M220,158.475503 L163.141427,177 L128,128.499472 L163.139977,80 L219.999104,98.5262065 L220,158.475503 Z" id="Shape" fill="#4A4A4A" fill-rule="nonzero"></path>
+    </g>
 </svg>
