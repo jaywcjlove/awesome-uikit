@@ -374,10 +374,10 @@ Components for React Native applications
 - [zanui-weapp](https://www.youzanyun.com/zanui/weapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/youzan/zanui-weapp.svg?label=" /> - 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞。 [![Open-Source Software][OSS Icon]](https://github.com/youzan/zanui-weapp)
 - [MinUI](https://meili.github.io/min/docs/minui/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/meili/min-cli.svg?label=" /> - Min 小程序组件化解决方案。[![Open-Source Software][OSS Icon]](https://github.com/meili/min-cli)
 - [iview-weapp](https://weapp.iviewui.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/TalkingData/iview-weapp.svg?label=" /> - 一套高质量的微信小程序 UI 组件库。[![Open-Source Software][OSS Icon]](https://github.com/TalkingData/iview-weapp)
+- [kai-ui](ttps://chaunjie.github.io/kui/dist) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Chaunjie/kai-ui.svg?label=" /> - 高颜值组件库，简单易用，同时支持原生和wepy框架。[![Open-Source Software][OSS Icon]](https://github.com/Chaunjie/kai-ui)
 - [wa-ui](https://github.com/liujians/wa-ui/wiki) <img align="bottom" height="13" src="https://img.shields.io/github/stars/liujians/Wa-UI.svg?label=" /> - 针对微信小程序整合的一套UI库。[![Open-Source Software][OSS Icon]](https://github.com/liujians/Wa-UI)
 - [wx-charts](https://github.com/xiaolin3303/wx-charts) <img align="bottom" height="13" src="https://img.shields.io/github/stars/xiaolin3303/wx-charts.svg?label=" /> - 微信小程序图表charts组件，Charts for WeChat small app。[![Open-Source Software][OSS Icon]](https://github.com/xiaolin3303/wx-charts)
 - [wemark](https://github.com/TooBug/wemark) <img align="bottom" height="13" src="https://img.shields.io/github/stars/TooBug/wemark.svg?label=" /> - 微信小程序Markdown渲染库。[![Open-Source Software][OSS Icon]](https://github.com/TooBug/wemark)
-- [kai-ui](ttps://chaunjie.github.io/kui/dist) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Chaunjie/kai-ui.svg?label=" /> - 高颜值组件库，简单易用，同时支持原生和wepy框架。[![Open-Source Software][OSS Icon]](https://github.com/Chaunjie/kai-ui)
 
 ### Tradition
 
