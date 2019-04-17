@@ -377,6 +377,7 @@ Components for React Native applications
 - [wa-ui](https://github.com/liujians/wa-ui/wiki) <img align="bottom" height="13" src="https://img.shields.io/github/stars/liujians/Wa-UI.svg?label=" /> - 针对微信小程序整合的一套UI库。[![Open-Source Software][OSS Icon]](https://github.com/liujians/Wa-UI)
 - [wx-charts](https://github.com/xiaolin3303/wx-charts) <img align="bottom" height="13" src="https://img.shields.io/github/stars/xiaolin3303/wx-charts.svg?label=" /> - 微信小程序图表charts组件，Charts for WeChat small app。[![Open-Source Software][OSS Icon]](https://github.com/xiaolin3303/wx-charts)
 - [wemark](https://github.com/TooBug/wemark) <img align="bottom" height="13" src="https://img.shields.io/github/stars/TooBug/wemark.svg?label=" /> - 微信小程序Markdown渲染库。[![Open-Source Software][OSS Icon]](https://github.com/TooBug/wemark)
+- [kai-ui](ttps://chaunjie.github.io/kui/dist) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Chaunjie/kai-ui.svg?label=" /> - 高颜值组件库，简单易用，同时支持原生和wepy框架。[![Open-Source Software][OSS Icon]](https://github.com/Chaunjie/kai-ui)
 
 ### Tradition
 
