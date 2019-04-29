@@ -443,7 +443,7 @@ Components for React Native applications
 - [modular-admin-html](https://modularcode.io/modular-admin-html) <img align="bottom" height="13" src="https://img.shields.io/github/stars/modularcode/modular-admin-html.svg?label=" /> - The Admin Interface Framework. [![Open-Source Software][OSS Icon]](https://github.com/modularcode/modular-admin-html)
 - [dva-admin](https://pmg1989.github.io/login) <img align="bottom" height="13" src="https://img.shields.io/github/stars/pmg1989/dva-admin.svg?label=" /> - dva admin antd dashboard . [![Open-Source Software][OSS Icon]](https://github.com/pmg1989/dva-admin)
 - [Vali Admin](http://pratikborsadiya.in/vali-admin) <img align="bottom" height="13" src="https://img.shields.io/github/stars/pratikborsadiya/vali-admin.svg?label=" /> - Vali is a free, modular and easy to customize admin theme built using Bootstrap, SASS and Pug.js. [![Open-Source Software][OSS Icon]](https://github.com/pratikborsadiya/vali-admin)
-
+- [Light Admin](https://trendytech.ru/templates/light-admin) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sn8/light-admin-bs3.svg?label=" /> - Light Admin is a lightweight Bootstrap 3 admin panel template. [![Open-Source Software][OSS Icon]](https://github.com/sn8/light-admin-bs3)
 
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg "Hot"
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open source ui componet on Github"
