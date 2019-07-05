@@ -81,6 +81,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 ### Wechat
 
 - [alita](https://areslabs.github.io/alita) <img align="bottom" height="13" src="https://img.shields.io/github/stars/skyFi/weapp-native.svg?label=" /> - 把 React Native 代码转换成微信小程序代码的转换引擎工具。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)
+- [mpx](https://didi.github.io/mpx/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/didi/mpx.svg?label=" /> - 滴滴开源小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/didi/mpx)
 - [mpvue](http://mpvue.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Meituan-Dianping/mpvue.svg?label=" /> - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 [![Open-Source Software][OSS Icon]](https://github.com/Meituan-Dianping/mpvue)
 - [taro](https://taro.jd.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/NervJS/taro.svg?label=" /> - 多端统一开发框架，支持小程序、H5、React Native 等的应用。[![Open-Source Software][OSS Icon]](https://github.com/NervJS/taro)
 - [weapp-native](https://github.com/skyFi/weapp-native) <img align="bottom" height="13" src="https://img.shields.io/github/stars/skyFi/weapp-native.svg?label=" /> - 像 React 组件开发一样来开发微信小程序，开发微信小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)
