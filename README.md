@@ -81,11 +81,13 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 ### Wechat
 
 - [alita](https://areslabs.github.io/alita) <img align="bottom" height="13" src="https://img.shields.io/github/stars/skyFi/weapp-native.svg?label=" /> - 把 React Native 代码转换成微信小程序代码的转换引擎工具。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)
+- [Antmove](https://ant-move.github.io/website/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ant-move/Antmove.svg?label=" /> - 编译型跨端解决方案，基于支付宝/微信小程序，轻松地转换成其它平台的小程序。 [![Open-Source Software][OSS Icon]](https://github.com/ant-move/Antmove)
 - [mpx](https://didi.github.io/mpx/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/didi/mpx.svg?label=" /> - 滴滴开源小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/didi/mpx)
 - [mpvue](http://mpvue.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Meituan-Dianping/mpvue.svg?label=" /> - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 [![Open-Source Software][OSS Icon]](https://github.com/Meituan-Dianping/mpvue)
 - [taro](https://taro.jd.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/NervJS/taro.svg?label=" /> - 多端统一开发框架，支持小程序、H5、React Native 等的应用。[![Open-Source Software][OSS Icon]](https://github.com/NervJS/taro)
 - [weapp-native](https://github.com/skyFi/weapp-native) <img align="bottom" height="13" src="https://img.shields.io/github/stars/skyFi/weapp-native.svg?label=" /> - 像 React 组件开发一样来开发微信小程序，开发微信小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)
 - [wepy](https://tencent.github.io/wepy/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Tencent/wepy.svg?label=" /> - 小程序组件化开发框架。 [![Open-Source Software][OSS Icon]](https://github.com/Tencent/wepy)
+- [Remax](https://remaxjs.org) <img align="bottom" height="13" src="https://img.shields.io/github/stars/remaxjs/remax.svg?label=" /> - 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发。 [![Open-Source Software][OSS Icon]](https://github.com/remaxjs/remax)
 
 ### Rest of the Pack
 
@@ -170,6 +172,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Grommet](https://v2.grommet.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/grommet/grommet.svg?label=" /> - Focus on the essential experience. [![Open-Source Software][OSS Icon]](https://github.com/grommet/grommet)
 - [Hack Club Design System](https://design.hackclub.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/hackclub/design-system.svg?label=" /> - A react UIKit with nijigen style. [![Open-Source Software][OSS Icon]](https://github.com/hackclub/design-system)
 - [hana-ui](https://hana-ui.moe) <img align="bottom" height="13" src="https://img.shields.io/github/stars/hana-group/hana-ui.svg?label=" /> - A react UIKit with nijigen style.  [![Open-Source Software][OSS Icon]](https://github.com/hana-group/hana-ui)
+- [HIUI](https://xiaomi.github.io/hiui/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/XiaoMi/hiui.svg?label=" /> This is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend. [![Open-Source Software][OSS Icon]](https://github.com/XiaoMi/hiui)
 - [Instructure UI](https://instructure.design/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/instructure/instructure-ui.svg?label=" /> - A UI Component Library made by Instructure, Inc. [![Open-Source Software][OSS Icon]](https://github.com/instructure/instructure-ui)
 - [ICE DISIGN](https://alibaba.github.io/ice/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/alibaba/ice.svg?label=" /> - 海量可复用物料，通过 GUI 工具极速构建中后台应用. [![Open-Source Software][OSS Icon]](https://github.com/alibaba/ice)
 - [Klarna UI](https://klarna.github.io/ui/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/klarna/ui.svg?label=" /> - Klarna's UI components library. [![Open-Source Software][OSS Icon]](https://github.com/klarna/ui)
