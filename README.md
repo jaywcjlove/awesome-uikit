@@ -222,13 +222,6 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [Zero-UI](https://alphago88.github.io/Zero-UI/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/AlphaGo88/Zero-UI.svg?label=" /> - An easy-to-use web UI component framework. [![Open-Source Software][OSS Icon]](https://github.com/AlphaGo88/Zero-UI)
 - [zhui](https://zhui-team.github.io/zhui/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/zhui-team/zhui.svg?label=" /> - A Chinese style component library of react. [![Open-Source Software][OSS Icon]](https://github.com/zhui-team/zhui)
 
-### React Native
-
-- [Ant Design Mobile RN](https://rn.mobile.ant.design/index-cn)  <img align="bottom" height="13" src="https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?label=" /> - A UI component library based on React Native. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-mobile-rn)
-- [Paper](https://callstack.github.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/callstack/react-native-paper.svg?label=" /> - Material design for React Native. [![Open-Source Software][OSS Icon]](https://github.com/callstack/react-native-paper)
-- [react-native-ui-kitten](https://akveo.github.io/react-native-ui-kitten) <img align="bottom" height="13" src="https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?label=" /> - Customizable and reusable react-native component kit. [![Open-Source Software][OSS Icon]](https://github.com/akveo/react-native-ui-kitten)
-
-
 ### Vue
 
 *<a href="https://github.com/vuejs/vue"><img src="./assets/vue.svg" height="14px" /></a> [Vue](https://github.com/vuejs/vue) based component library.*
@@ -354,13 +347,15 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 Components for React Native applications
 
-- [Ant Design Mobile](https://mobile.ant.design) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ant-design-mobile.svg?label=" /> - A configurable Mobile UI. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-mobile)
+- [Ant Design Mobile](https://rn.mobile.ant.design/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ant-design/ant-design-mobile-rn.svg?label=" /> - Ant Design for React Native. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design-mobile-rn)
 - [blankapp/ui](http://blankapp.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/GeekyAnts/NativeBase.svg?label=" /> - Highly customizable and theming components for React Native. [![Open-Source Software][OSS Icon]](https://github.com/GeekyAnts/NativeBase)
 - [carbon-native](http://getcarbonnative.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/carbon-native/carbon-native.svg?label=" /> - Essential cross-platform UI components for React Native. [![Open-Source Software][OSS Icon]](https://github.com/carbon-native/carbon-native)
 - [kittenTricks](https://akveo.github.io/react-native-ui-kitten/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/akveo/kittenTricks.svg?label=" /> - A react native mobile starter kit with over 40 screens and theme hot reload support. [![Open-Source Software][OSS Icon]](https://github.com/akveo/kittenTricks)
+- [Paper](https://callstack.github.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/callstack/react-native-paper.svg?label=" /> - Material design for React Native. [![Open-Source Software][OSS Icon]](https://github.com/callstack/react-native-paper)
 - [panza](https://github.com/panza-org/panza) <img align="bottom" height="13" src="https://img.shields.io/github/stars/panza-org/panza.svg?label=" /> - react-native stateless functional UI components to get you up and running quickly. [![Open-Source Software][OSS Icon]](https://github.com/panza-org/panza)
 - [Rax](https://alibaba.github.io/rax) <img align="bottom" height="13" src="https://img.shields.io/github/stars/alibaba/rax.svg?label=" /> - A universal React-compatible render engine. [![Open-Source Software][OSS Icon]](https://github.com/alibaba/rax)
 - [react-native-ui-lib](https://github.com/wix/react-native-ui-lib) <img align="bottom" height="13" src="https://img.shields.io/github/stars/wix/react-native-ui-lib.svg?label=" /> - UI Components Library for React Native. [![Open-Source Software][OSS Icon]](https://github.com/wix/react-native-ui-lib)
+- [react-native-ui-kitten](https://akveo.github.io/react-native-ui-kitten) <img align="bottom" height="13" src="https://img.shields.io/github/stars/akveo/react-native-ui-kitten.svg?label=" /> - Customizable and reusable react-native component kit. [![Open-Source Software][OSS Icon]](https://github.com/akveo/react-native-ui-kitten)
 - [react-native-material-design](http://react-native-material-design.github.io/components/checkbox) <img align="bottom" height="13" src="https://img.shields.io/github/stars/react-native-material-design/react-native-material-design.svg?label=" /> - React Native UI Components for Material Design. [![Open-Source Software][OSS Icon]](https://github.com/react-native-material-design/react-native-material-design)
 - [rnx-ui](https://github.com/rnxteam/rnx-ui) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rnxteam/rnx-ui.svg?label=" /> - A UI Lib for React Native. [![Open-Source Software][OSS Icon]](https://github.com/rnxteam/rnx-ui)
 - [react-uikit](https://github.com/react-uikit/react-uikit) <img align="bottom" height="13" src="https://img.shields.io/github/stars/react-uikit/react-uikit.svg?label=" /> - React and React Native components which implement Cards' Binary Design. [![Open-Source Software][OSS Icon]](https://github.com/react-uikit/react-uikit)
