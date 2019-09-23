@@ -391,7 +391,8 @@ Components for React Native applications
 - [weui-wxss](https://github.com/Tencent/weui-wxss) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Tencent/weui-wxss.svg?label=" /> - WeUI for 小程序。 [![Open-Source Software][OSS Icon]](https://github.com/Tencent/weui-wxss)
 - [wx-charts](https://github.com/xiaolin3303/wx-charts) <img align="bottom" height="13" src="https://img.shields.io/github/stars/xiaolin3303/wx-charts.svg?label=" /> - 微信小程序图表charts组件，Charts for WeChat small app。[![Open-Source Software][OSS Icon]](https://github.com/xiaolin3303/wx-charts)
 - [wemark](https://github.com/TooBug/wemark) <img align="bottom" height="13" src="https://img.shields.io/github/stars/TooBug/wemark.svg?label=" /> - 微信小程序Markdown渲染库。[![Open-Source Software][OSS Icon]](https://github.com/TooBug/wemark)
-- [zanui-weapp](https://www.youzanyun.com/zanui/weapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/youzan/zanui-weapp.svg?label=" /> - 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞。 [![Open-Source Software][OSS Icon]](https://github.com/youzan/zanui-weapp)
+- [vant-weapp](https://youzan.github.io/vant-weapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/youzan/vant-weapp.svg?label=" /> - 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞。 [![Open-Source Software][OSS Icon]](https://github.com/youzan/vant-weapp)
+- [zanui-weapp](https://github.com/youzan/zanui-weapp) <img align="bottom" height="13" src="https://img.shields.io/github/stars/youzan/zanui-weapp.svg?label=" /> - 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞。 [![Open-Source Software][OSS Icon]](https://github.com/youzan/zanui-weapp)
 
 ### Tradition
 
