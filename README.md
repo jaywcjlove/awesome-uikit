@@ -309,6 +309,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 - [Handsontable](https://handsontable.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/handsontable/handsontable.svg?label=" /> - JavaScript/HTML5 Data Grid Component with Spreadsheet Look & Feel [![Open-Source Software][OSS Icon]](https://github.com/handsontable/handsontable) 
 - [MUI](https://www.muicss.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/muicss/mui.svg?label=" /> - Lightweight CSS framework [![Open-Source Software][OSS Icon]](https://github.com/muicss/mui)
 - [Onsen UI](https://onsen.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?label=" /> - Mobile app development framework and SDK using HTML5 and JavaScript. [![Open-Source Software][OSS Icon]](https://github.com/OnsenUI/OnsenUI)
+- [KPC](https://onsen.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ksc-fe/kpc.svg?label=" /> - A UI components library for Intact, Vue, React and Angular. [![Open-Source Software][OSS Icon]](https://github.com/ksc-fe/kpc)
 - [storybook](https://storybook.js.org) <img align="bottom" height="13" src="https://img.shields.io/github/stars/storybooks/storybook.svg?label=" /> - Interactive UI component dev & test: React, React Native, Vue, Angular [![Open-Source Software][OSS Icon]](https://github.com/storybooks/storybook)
 
 ### Tradition
