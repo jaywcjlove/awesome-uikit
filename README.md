@@ -344,6 +344,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 
 ### React
 
+- [Auto-UI](https://aotuzuche.github.io/auto-ui/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/aotuzuche/auto-ui.svg?label=" /> - Auto UI Web Components for mobile devices based on React. [![Open-Source Software][OSS Icon]](https://github.com/aotuzuche/auto-ui)
 - [mazeui-touch](http://t.amazeui.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/amazeui/amazeui-touch.svg?label=" /> - Web Components for mobile devices based on React. [![Open-Source Software][OSS Icon]](https://github.com/amazeui/amazeui-touch)
 - [nowui](http://nowui.ivweb.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/iv-web/nowui.svg?label=" /> - A React.js UI Toolkit for Web. [![Open-Source Software][OSS Icon]](https://github.com/iv-web/nowui)
 - [Yo](https://ued.qunar.com/hy2/yo/index.html) <img align="bottom" height="13" src="https://img.shields.io/github/stars/doyoe/Yo.svg?label=" /> - Lightweight, easy-to-use, configurable, and extensible mobile front-end development framework.. [![Open-Source Software][OSS Icon]](https://github.com/doyoe/Yo)
