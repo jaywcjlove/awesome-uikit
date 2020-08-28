@@ -73,6 +73,8 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Preact](https://preactjs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/developit/preact.svg?label=" /> - Fast 3kB React alternative with the same modern API. Components & Virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/developit/preact/)
 - [ReasonML](https://reasonml.github.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/facebook/reason.svg?label=" /> - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems. [![Open-Source Software][OSS Icon]](https://github.com/facebook/reason)
 - [Svelte](https://svelte.technology) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sveltejs/svelte.svg?label=" /> - The magical disappearing UI framework. [![Open-Source Software][OSS Icon]](https://github.com/sveltejs/svelte) ![hot][hot Icon]
+- [Solid](https://github.com/ryansolid/solid) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ryansolid/solid.svg?label=" /> - A declarative, efficient, and flexible JavaScript library for building user interfaces.. [![Open-Source Software][OSS Icon]](https://github.com/ryansolid/solid) ![hot][hot Icon]
+
 
 ### Mobile
 
