@@ -17,6 +17,7 @@ Contents
   - [Mobile](#mobile)
   - [Wechat](#wechat)
   - [Rest of the Pack](#rest-of-the-pack)
+  - [State of the React](#state-of-the-react)
 - [UI Components](#ui-components)
   - [React](#react)
   - [React Native](#react-native)
@@ -145,6 +146,24 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Vidom](https://github.com/dfilatov/vidom) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dfilatov/vidom.svg?label=" /> - Library to build UI based on virtual DOM. [![Open-Source Software][OSS Icon]](https://github.com/dfilatov/vidom)
 - [Vuera](https://github.com/akxcv/vuera) <img align="bottom" height="13" src="https://img.shields.io/github/stars/akxcv/vuera.svg?label=" /> - Vue in React, React in Vue. Seamless integration of the two. [![Open-Source Software][OSS Icon]](https://github.com/akxcv/vuera)
 - [WebCell](https://web-cell.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/EasyWebApp/WebCell.svg?label=" /> - Web Components engine based on JSX & TypeScript [![Open-Source Software][OSS Icon]](https://github.com/EasyWebApp/WebCell)
+
+### State of the React
+
+- [Constate](https://github.com/diegohaz/constate) <img align="bottom" height="13" src="https://img.shields.io/github/stars/diegohaz/constate.svg?label=" /> - React Context + State. [![Open-Source Software][OSS Icon]](https://github.com/diegohaz/constate)
+- [Easy Peasy](https://easy-peasy.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ctrlplusb/easy-peasy.svg?label=" /> - Vegetarian friendly state for React. [![Open-Source Software][OSS Icon]](https://github.com/ctrlplusb/easy-peasy)
+- [Hox](https://github.com/umijs/hox) <img align="bottom" height="13" src="https://img.shields.io/github/stars/umijs/hox.svg?label=" /> - The next-generation state manager for React. [![Open-Source Software][OSS Icon]](https://github.com/umijs/hox)
+- [icestore](https://github.com/ice-lab/icestore) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ice-lab/icestore.svg?label=" /> - The next-generation state manager for React. [![Open-Source Software][OSS Icon]](https://github.com/ice-lab/icestore)
+- [Jotai](https://jotai.pmnd.rs/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/pmndrs/jotai.svg?label=" /> - Primitive and flexible state management for React. [![Open-Source Software][OSS Icon]](https://github.com/pmndrs/jotai)
+- [MobX](http://mobx.js.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/mobxjs/mobx.svg?label=" /> - Simple, scalable state management. [![Open-Source Software][OSS Icon]](https://github.com/mobxjs/mobx)
+- [React Easy State](https://github.com/RisingStack/react-easy-state) <img align="bottom" height="13" src="https://img.shields.io/github/stars/RisingStack/react-easy-state.svg?label=" /> - Simple React state management. Made with ❤️ and ES6 Proxies. [![Open-Source Software][OSS Icon]](https://github.com/RisingStack/react-easy-state)
+- [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) <img align="bottom" height="13" src="https://img.shields.io/github/stars/dai-shi/react-hooks-global-state.svg?label=" /> - Simple global state for React with Hooks API without Context API. [![Open-Source Software][OSS Icon]](https://github.com/dai-shi/react-hooks-global-state)
+- [rematch](https://github.com/rematch/rematch) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rematch/rematch.svg?label=" /> - State management with statecharts.. [![Open-Source Software][OSS Icon]](https://github.com/rematch/rematch)
+- [Unistore](https://github.com/developit/unistore) <img align="bottom" height="13" src="https://img.shields.io/github/stars/developit/unistore.svg?label=" /> - 350b/650b state container with component actions for Preact & React. [![Open-Source Software][OSS Icon]](https://github.com/developit/unistore)
+- [unstated-next](https://jotai.pmnd.rs/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jamiebuilds/unstated-next.svg?label=" /> - 200 bytes to never think about React state management libraries ever again. [![Open-Source Software][OSS Icon]](https://github.com/jamiebuilds/unstated-next)
+- [useStateMachine](https://github.com/cassiozen/useStateMachine) <img align="bottom" height="13" src="https://img.shields.io/github/stars/cassiozen/useStateMachine.svg?label=" /> - The ½ kb state machine hook for React. [![Open-Source Software][OSS Icon]](https://github.com/cassiozen/useStateMachine)
+- [Valtio](http://valtio-demo.pmnd.rs/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/pmndrs/valtio.svg?label=" /> - Valtio makes proxy-state simple for React and Vanilla. [![Open-Source Software][OSS Icon]](https://github.com/pmndrs/valtio)
+- [zustand](https://zustand.surge.sh/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/pmndrs/zustand.svg?label=" /> - Bear necessities for state management in React. [![Open-Source Software][OSS Icon]](https://github.com/pmndrs/zustand)
+
 
 ## UI Components
 
