@@ -18,6 +18,7 @@ Contents
   - [Wechat](#wechat)
   - [Rest of the Pack](#rest-of-the-pack)
   - [State of the React](#state-of-the-react)
+- [Web Components](#web-components)
 - [UI Components](#ui-components)
   - [React](#react)
   - [React Native](#react-native)
