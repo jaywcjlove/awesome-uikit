@@ -15,7 +15,7 @@ Contents
   - [Historically Significant](#historically-significant)
   - [Notable](#notable)
   - [Mobile](#mobile)
-  - [Wechat](#wechat)
+  - [Mini Program](#mini-program)
   - [Rest of the Pack](#rest-of-the-pack)
   - [State of the React](#state-of-the-react)
 - [Web Components](#web-components)
@@ -85,7 +85,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [react-native](http://facebook.github.io/react-native/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/facebook/react-native.svg?label=" /> - A framework for building native apps with React. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react-native) ![hot][hot Icon]
 - [Weex](https://weex.apache.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/apache/incubator-weex.svg?label=" /> - A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/apache/incubator-weex)
 
-### Wechat
+### Mini Program
 
 - [alita](https://areslabs.github.io/alita) <img align="bottom" height="13" src="https://img.shields.io/github/stars/skyFi/weapp-native.svg?label=" /> - 把 React Native 代码转换成微信小程序代码的转换引擎工具。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)
 - [Antmove](https://ant-move.github.io/website/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ant-move/Antmove.svg?label=" /> - 编译型跨端解决方案，基于支付宝/微信小程序，轻松地转换成其它平台的小程序。 [![Open-Source Software][OSS Icon]](https://github.com/ant-move/Antmove)
