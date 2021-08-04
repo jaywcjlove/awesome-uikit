@@ -506,6 +506,8 @@ Components for React Native applications
 - [vue2-element-touzi-admin](https://github.com/wdlhao/vue2-element-touzi-admin) <img align="bottom" height="13" src="https://img.shields.io/github/stars/wdlhao/vue2-element-touzi-admin.svg?label=" /> - 基于vue2.0 +vuex+ element-ui后台管理系统。 [![Open-Source Software][OSS Icon]](https://github.com/wdlhao/vue2-element-touzi-admin)
 - [vue-antd-pro](https://pro.loacg.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sendya/ant-design-pro-vue.svg?label=" /> - Use Ant Design Vue like a Pro! [![Open-Source Software][OSS Icon]](https://github.com/sendya/ant-design-pro-vue)
 - [vue-admin-next](https://github.com/openfext/vue-admin-next) <img align="bottom" height="13" src="https://img.shields.io/github/stars/openfext/vue-admin-next.svg?label=" /> - Professional enterprise application with Multi-Module Design, Vue Composition API and Friendly User Interface. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query) [![Open-Source Software][OSS Icon]](https://github.com/openfext/vue-admin-next)
+- [vuexy-vuejs-admin-template-pro](https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/landing/) - The most developer friendly
+& highly customizable Vuejs Admin Dashboard Template.
 
 ### Angular
 
