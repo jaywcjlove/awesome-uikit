@@ -169,6 +169,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ## Web Components
 
+- [amp](https://amp.dev/) The AMP web component framework. [![Open-Source Software][OSS Icon]](https://github.com/ampproject/amphtml)
 - [Shoelace](https://shoelace.style/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/shoelace-style/shoelace.svg?label=" /> - A collection of professionally designed, every day UI components built on a framework-agnostic technology. [![Open-Source Software][OSS Icon]](https://github.com/shoelace-style/shoelace)
 - [Wired Elements](https://wiredjs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rough-stuff/wired-elements.svg?label=" /> - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look. [![Open-Source Software][OSS Icon]](https://github.com/rough-stuff/wired-elements)
 
