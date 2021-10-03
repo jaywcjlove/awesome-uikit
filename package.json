@@ -1,0 +1,12 @@
+{
+  "markdown-to-html": {
+    "github-corners": "https://github.com/jaywcjlove/awesome-uikit",
+    "document": {
+      "title": "Awesome UIKit",
+      "meta": [
+        { "description": "Collect JS Frameworks, Web components library and Admin Template." },
+        { "keywords": "Web,Components,Awesome,UIKit,React,React Native,Vue,Angular,San,Mithril,WebCell,Admin,Template,AdminTemplate" }
+      ]
+    }
+  }
+}
