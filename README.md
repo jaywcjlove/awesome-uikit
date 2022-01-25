@@ -55,14 +55,14 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### The Big Three
 
-- [React](https://reactjs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/facebook/react.svg?label=" /> - A JavaScript library for building user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react)
-- [Angular](https://angular.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/angular/angular.svg?label=" /> - One framework. Mobile & desktop. [![Open-Source Software][OSS Icon]](https://github.com/angular/angular)
-- [Vue.js](https://vuejs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vuejs/vue.svg?label=" /> - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. [![Open-Source Software][OSS Icon]](https://github.com/vuejs/vue)
+- [React](https://reactjs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/facebook/react.svg?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/react?label=" /> - A JavaScript library for building user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react)
+- [Angular](https://angular.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/angular/angular.svg?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/angular?label=" /> - One framework. Mobile & desktop. [![Open-Source Software][OSS Icon]](https://github.com/angular/angular)
+- [Vue.js](https://vuejs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vuejs/vue.svg?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/vue?label=" /> - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. [![Open-Source Software][OSS Icon]](https://github.com/vuejs/vue)
 
 ### Historically Significant
 
 - [AngularJS](https://angularjs.org) <img align="bottom" height="13" src="https://img.shields.io/github/stars/angular/angular.js.svg?label=" /> - AngularJS - HTML enhanced for web apps! [![Open-Source Software][OSS Icon]](https://github.com/angular/angular.js)
-- [Backbone](http://backbonejs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jashkenas/backbone.svg?label=" /> - Give your JS App some Backbone with Models, Views, Collections, and Events. [![Open-Source Software][OSS Icon]](https://github.com/jashkenas/backbone/)
+- [Backbone](http://backbonejs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/jashkenas/backbone.svg?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/backbone?label=" /> - Give your JS App some Backbone with Models, Views, Collections, and Events. [![Open-Source Software][OSS Icon]](https://github.com/jashkenas/backbone/)
 - [Ember](https://www.emberjs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/emberjs/ember.js.svg?label=" /> - A JavaScript framework for creating ambitious web applications. [![Open-Source Software][OSS Icon]](https://github.com/emberjs/ember.js)
 
 ### Notable
