@@ -558,3 +558,14 @@ Components for React Native applications
 
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg "Hot"
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open source ui componet on Github"
+
+## Contributors
+
+<a href="https://github.com/jaywcjlove/awesome-uikit/graphs/contributors">
+  <img src="https://jaywcjlove.github.io/awesome-uikit/CONTRIBUTORS.svg" />
+</a>
+
+## License
+
+Licensed under the MIT License.
+
