@@ -18,6 +18,14 @@ jobs:
       - run: cp -rp assets build
       - run: npm i markdown-to-html-cli -g
       - run: markdown-to-html --output build/index.html
+      
+
+      - name: Generate Contributors Images
+        uses: jaywcjlove/github-action-contributors@main
+        with:
+          filter-author: (renovate\[bot\]|renovate-bot|dependabot\[bot\])
+          output: ./build/CONTRIBUTORS.svg
+          avatarSize: 36
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
