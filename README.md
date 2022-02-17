@@ -468,7 +468,6 @@ Components for React Native applications
 
 - [iview-weapp](https://weapp.iviewui.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/TalkingData/iview-weapp.svg?label=" /> - 一套高质量的微信小程序 UI 组件库。[![Open-Source Software][OSS Icon]](https://github.com/TalkingData/iview-weapp)
 - [kai-ui](https://chaunjie.github.io/kui/dist) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Chaunjie/kai-ui.svg?label=" /> - 高颜值组件库，简单易用，同时支持原生和wepy框架。[![Open-Source Software][OSS Icon]](https://github.com/Chaunjie/kai-ui)
-- [MinUI](https://meili.github.io/min/docs/minui/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/meili/min-cli.svg?label=" /> - Min 小程序组件化解决方案。[![Open-Source Software][OSS Icon]](https://github.com/meili/min-cli)
 - [taro-ui](https://taro-ui.aotu.io) <img align="bottom" height="13" src="https://img.shields.io/github/stars/NervJS/taro-ui.svg?label=" /> - 一款基于 Taro 框架开发的多端 UI 组件库。[![Open-Source Software][OSS Icon]](https://github.com/NervJS/taro-ui)
 - [wa-ui](https://github.com/liujians/wa-ui/wiki) <img align="bottom" height="13" src="https://img.shields.io/github/stars/liujians/Wa-UI.svg?label=" /> - 针对微信小程序整合的一套UI库。[![Open-Source Software][OSS Icon]](https://github.com/liujians/Wa-UI)
 - [weui-wxss](https://github.com/Tencent/weui-wxss) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Tencent/weui-wxss.svg?label=" /> - WeUI for 小程序。 [![Open-Source Software][OSS Icon]](https://github.com/Tencent/weui-wxss)
