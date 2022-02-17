@@ -563,9 +563,13 @@ Components for React Native applications
 
 ## Contributors
 
+As always, thanks to our amazing contributors!
+
 <a href="https://github.com/jaywcjlove/awesome-uikit/graphs/contributors">
   <img src="https://jaywcjlove.github.io/awesome-uikit/CONTRIBUTORS.svg" />
 </a>
+
+Made with [github-action-contributors](https://github.com/jaywcjlove/github-action-contributors).
 
 ## License
 
