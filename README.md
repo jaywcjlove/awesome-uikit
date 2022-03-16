@@ -183,7 +183,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 *<a href="https://github.com/facebook/react"><img src="./assets/react.svg" height="14px" /></a> [React](https://github.com/facebook/react) based component library.*
 
 - [uiw](http://uiwjs.github.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/uiwjs/uiw.svg?label=" /> - A high quality UI Toolkit, A Component Library for React. [![Open-Source Software][OSS Icon]](https://github.com/uiwjs/uiw)
-- [AgnosticUI](https://www.agnosticui.com/) - Accessible Component Primitives that work with React, Vue 3, Svelte, and Angular
+- [AgnosticUI](https://www.agnosticui.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/agnosticui/agnosticui.svg?label=" /> - Accessible Component Primitives that work with React, Vue 3, Svelte, and Angular [![Open-Source Software][OSS Icon]](https://github.com/agnosticui/agnosticui)
 - [ANT DESIGN](https://ant.design/index-cn) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ant-design/ant-design.svg?label=" /> - A UI Design Language. [![Open-Source Software][OSS Icon]](https://github.com/ant-design/ant-design)
 - [Arco Design](https://arco.design/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/arco-design/arco-design.svg?label=" /> - A comprehensive React UI components library. [![Open-Source Software][OSS Icon]](https://github.com/arco-design/arco-design)
 - [Atlassian UI](https://atlaskit.atlassian.com/) Atlassian's official UI library, built according to the Atlassian Design Guidelines. [![Open-Source Software][OSS Icon]](https://bitbucket.org/atlassian/atlaskit-mk-2)
