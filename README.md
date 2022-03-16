@@ -503,6 +503,7 @@ Components for React Native applications
 - [CoreUI Free React Admin & Dashboard Template](http://coreui.io/react/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/coreui/coreui-free-react-admin-template.svg?label=" /> - Free Admin Panel Template for React.js. [![Open-Source Software][OSS Icon]](https://github.com/coreui/coreui-free-react-admin-template)
 - [reactSPA](https://muyunyun.github.io/reactSPA) <img align="bottom" height="13" src="https://img.shields.io/github/stars/MuYunyun/reactSPA.svg?label=" /> - 一个后台管理系统模板 [![Open-Source Software][OSS Icon]](https://github.com/MuYunyun/reactSPA)
 - [rsuite-management-system](https://sample.rsuitejs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-management-system.svg?label=" /> - A management system template based on React Suite. [![Open-Source Software][OSS Icon]](https://github.com/rsuite/rsuite-management-system)
+- [Materio Free MUI React NextJS Admin Template](https://themeselection.com/products/materio-free-mui-react-nextjs-admin-template/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/themeselection/materio-mui-react-nextjs-admin-template-free.svg?" /> -Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers . [![Open-Source Software][OSS Icon]](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)
 
 ### Vue
 
