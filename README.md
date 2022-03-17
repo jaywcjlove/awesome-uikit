@@ -179,6 +179,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Shoelace](https://shoelace.style/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/shoelace-style/shoelace.svg?label=" /> - A collection of professionally designed, every day UI components built on a framework-agnostic technology. [![Open-Source Software][OSS Icon]](https://github.com/shoelace-style/shoelace)
 - [UI5 Web Components](https://sap.github.io/ui5-webcomponents/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/SAP/ui5-webcomponents.svg?label=" /> - the enterprise-flavored sugar on top of native APIs. [![Open-Source Software][OSS Icon]](https://github.com/SAP/ui5-webcomponents)
 - [Wired Elements](https://wiredjs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rough-stuff/wired-elements.svg?label=" /> - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look. [![Open-Source Software][OSS Icon]](https://github.com/rough-stuff/wired-elements)
+- [xy-ui](https://xy-ui.codelabo.cn/docs) <img align="bottom" height="13" src="https://img.shields.io/github/stars/XboxYan/xy-ui.svg?label=" /> - 面向未来的原生 web components UI组件库 [![Open-Source Software][OSS Icon]](https://github.com/XboxYan/xy-ui)
 
 ## UI Components
 
