@@ -19,6 +19,8 @@ Contents
   - [Rest of the Pack](#rest-of-the-pack)
   - [State of the React](#state-of-the-react)
 - [Web Components](#web-components)
+  - [Components](#components)
+  - [Tools](#tools)
 - [UI Components](#ui-components)
   - [React](#react)
   - [React Native](#react-native)
@@ -172,6 +174,8 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ## Web Components
 
+### Components
+
 - [amp](https://amp.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ampproject/amphtml.svg?label=" /> - The AMP web component framework. [![Open-Source Software][OSS Icon]](https://github.com/ampproject/amphtml)
 - [Clarity](http://clarity.design) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vmware/clarity.svg?label=" /> - Clarity is an open source design system that brings together UX guidelines, design resources, and coding implementations with Web Components. [![Open-Source Software][OSS Icon]](https://github.com/vmware/clarity)
 - [Material Web](https://material-components.github.io/material-web/demos/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/material-components/material-web.svg?label=" /> - Material Design Web Components. [![Open-Source Software][OSS Icon]](https://github.com/material-components/material-web)
@@ -181,6 +185,11 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [UI5 Web Components](https://sap.github.io/ui5-webcomponents/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/SAP/ui5-webcomponents.svg?label=" /> - the enterprise-flavored sugar on top of native APIs. [![Open-Source Software][OSS Icon]](https://github.com/SAP/ui5-webcomponents)
 - [Wired Elements](https://wiredjs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rough-stuff/wired-elements.svg?label=" /> - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look. [![Open-Source Software][OSS Icon]](https://github.com/rough-stuff/wired-elements)
 - [xy-ui](https://xy-ui.codelabo.cn/docs) <img align="bottom" height="13" src="https://img.shields.io/github/stars/XboxYan/xy-ui.svg?label=" /> - 面向未来的原生 web components UI组件库 [![Open-Source Software][OSS Icon]](https://github.com/XboxYan/xy-ui)
+
+### Tools
+
+- [Lit](https://lit.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/lit/lit.svg?label=" /> - Lit is a simple library for building fast, lightweight web components. [![Open-Source Software][OSS Icon]](https://github.com/lit/lit)
+- [Stencil](https://stenciljs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ionic-team/stencil.svg?label=" /> - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. [![Open-Source Software][OSS Icon]](https://github.com/ionic-team/stencil)
 
 ## UI Components
 
