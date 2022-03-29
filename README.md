@@ -188,6 +188,8 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### Tools
 
+- [Corpuscule](https://corpusculejs.github.io/corpuscule) <img align="bottom" height="13" src="https://img.shields.io/github/stars/corpusculejs/corpuscule.svg?label=" /> - Small Web Components framework based on decorators. [![Open-Source Software][OSS Icon]](https://github.com/corpusculejs/corpuscule)
+- [DNA](https://www.chialab.io/p/dna) <img align="bottom" height="13" src="https://img.shields.io/github/stars/chialab/dna.svg?label=" /> - Progressive Web Components library. [![Open-Source Software][OSS Icon]](https://github.com/chialab/dna)
 - [jsx-for-web-components](https://github.com/slogsdon/jsx-for-web-components) <img align="bottom" height="13" src="https://img.shields.io/github/stars/slogsdon/jsx-for-web-components.svg?label=" /> - A basic JSX factory for use in projects leveraging web components. [![Open-Source Software][OSS Icon]](https://github.com/slogsdon/jsx-for-web-components)
 - [LWC](https://lwc.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/salesforce/lwc.svg?label=" /> - A Blazing Fast, Enterprise-Grade Web Components Foundation. [![Open-Source Software][OSS Icon]](https://github.com/salesforce/lwc)
 - [Lit](https://lit.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/lit/lit.svg?label=" /> - Lit is a simple library for building fast, lightweight web components. [![Open-Source Software][OSS Icon]](https://github.com/lit/lit)
