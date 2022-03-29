@@ -192,6 +192,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [LWC](https://lwc.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/salesforce/lwc.svg?label=" /> - A Blazing Fast, Enterprise-Grade Web Components Foundation. [![Open-Source Software][OSS Icon]](https://github.com/salesforce/lwc)
 - [Lit](https://lit.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/lit/lit.svg?label=" /> - Lit is a simple library for building fast, lightweight web components. [![Open-Source Software][OSS Icon]](https://github.com/lit/lit)
 - [Stencil](https://stenciljs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ionic-team/stencil.svg?label=" /> - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. [![Open-Source Software][OSS Icon]](https://github.com/ionic-team/stencil)
+- [Tonic](https://tonicframework.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/socketsupply/tonic.svg?label=" /> - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free. [![Open-Source Software][OSS Icon]](https://github.com/socketsupply/tonic)
 
 ## UI Components
 
