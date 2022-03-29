@@ -188,6 +188,8 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ### Tools
 
+- [jsx-for-web-components](https://github.com/slogsdon/jsx-for-web-components) <img align="bottom" height="13" src="https://img.shields.io/github/stars/slogsdon/jsx-for-web-components.svg?label=" /> - A basic JSX factory for use in projects leveraging web components. [![Open-Source Software][OSS Icon]](https://github.com/slogsdon/jsx-for-web-components)
+- [LWC](https://lwc.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/salesforce/lwc.svg?label=" /> - A Blazing Fast, Enterprise-Grade Web Components Foundation. [![Open-Source Software][OSS Icon]](https://github.com/salesforce/lwc)
 - [Lit](https://lit.dev/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/lit/lit.svg?label=" /> - Lit is a simple library for building fast, lightweight web components. [![Open-Source Software][OSS Icon]](https://github.com/lit/lit)
 - [Stencil](https://stenciljs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ionic-team/stencil.svg?label=" /> - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. [![Open-Source Software][OSS Icon]](https://github.com/ionic-team/stencil)
 
