@@ -1,12 +1,16 @@
 {
-  "markdown-to-html": {
-    "github-corners": "https://github.com/jaywcjlove/awesome-uikit",
-    "document": {
-      "title": "Awesome UIKit",
-      "meta": [
-        { "description": "Collect JS Frameworks, Web components library and Admin Template." },
-        { "keywords": "Web,Components,Awesome,UIKit,React,React Native,Vue,Angular,San,Mithril,WebCell,Admin,Template,AdminTemplate" }
-      ]
-    }
+  "name": "awesome-uikit",
+  "private": false,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "idoc --watch",
+    "build": "idoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaywcjlove/awesome-uikit.git"
+  },
+  "dependencies": {
+    "idoc": "^1.4.2"
   }
 }

@@ -1,10 +1,13 @@
+<!--idoc:ignore:start-->
 Awesome UIKit
 ===
+<!--idoc:ignore:end-->
 
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-uikit)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-uikit)
+[![CI](https://github.com/jaywcjlove/awesome-uikit/actions/workflows/ci.yml/badge.svg)](https://github.com/jaywcjlove/awesome-uikit/actions/workflows/ci.yml)
 
 Collect JS Frameworks, Web components library and Admin Template.
-
+<!--idoc:ignore:start-->
 <a href="https://github.com/facebook/react"><img src="./assets/react.svg" height="64px" /></a> <a href="https://github.com/vuejs/vue"><img src="./assets/vue.svg" height="64px" /></a> <a href="https://github.com/angular/angular"><img src="./assets/angular-icon.svg" height="64px" /></a> <a href="https://github.com/twbs/bootstrap"><img src="./assets/bootstrap.svg" height="64px" /></a> <a href="https://github.com/uiwjs/uiw"><img src="./assets/uiw.svg" height="64px" /></a> <a href="https://github.com/ant-design/ant-design"><img src="./assets/antd.svg" height="64px" /></a> <a href="https://github.com/iview/iview"><img src="./assets/iview.png" height="64px" /></a> <a href="https://github.com/vuetifyjs/vuetify"><img src="./assets/vuetifyjs.svg" height="64px" /></a> <a href="https://github.com/FE-Driver/vue-beauty"><img src="./assets/Vue-Beauty.png" height="64px" /></a> <a href="https://github.com/ecomfe/san-mui"><img src="./assets/san-icon.svg" height="64px" /></a> <a href="https://github.com/EasyWebApp/WebCell"><img src="https://web-cell.dev/WebCell-0.f1ffd28b.png" height="64px" /></a>
 
 Contents
@@ -44,7 +47,7 @@ Contents
   - [Other](#other)
 - [Tools](#tools)
   - [CheatSheet](#cheatsheet)
-
+<!--idoc:ignore:end-->
 
 **Explanation**
 
