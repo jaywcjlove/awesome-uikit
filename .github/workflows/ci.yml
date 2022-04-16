@@ -13,7 +13,8 @@ jobs:
         with:
           node-version: 14
 
-      - run: npm run  build
+      - run: npm install
+      - run: npm run build
 
       - name: Generate Contributors Images
         uses: jaywcjlove/github-action-contributors@main
