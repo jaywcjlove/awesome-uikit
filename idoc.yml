@@ -4,6 +4,8 @@ description: Collect JS Frameworks, Web components library and Admin Template.
 keywords: Web,Components,Awesome,UIKit,React,React Native,Vue,Angular,San,Mithril,WebCell,Admin,Template,AdminTemplate
 
 menus:
+  Home: index.html
+  Awesome React: react.html
   uiw: 
     url: https://uiwjs.github.io/
     target: __blank
