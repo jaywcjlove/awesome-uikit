@@ -30,3 +30,26 @@ jobs:
           user_email: 'github-actions[bot]@users.noreply.github.com'
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+
+
+      # Create Docker Image
+      - name: Docker login
+        run: docker login -u ${{ secrets.DOCKER_USER }} -p ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Build awesome-uikit image
+        run: docker image build -t awesome-uikit .
+
+      - name: Tags & Push image
+        run: |
+          docker tag awesome-uikit ${{ secrets.DOCKER_USER }}/awesome-uikit:latest
+          docker push ${{ secrets.DOCKER_USER }}/awesome-uikit:latest
+
+      # Create Docker Image in Github
+      - name: Login to GitHub registry
+        run: echo ${{ github.token }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+
+      - name: Build docker image
+        run: docker build -t ghcr.io/jaywcjlove/awesome-uikit:latest .
+
+      - name: Publish to GitHub registry
+        run: docker push ghcr.io/jaywcjlove/awesome-uikit:latest
