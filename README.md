@@ -5,6 +5,7 @@ Awesome UIKit
 
 [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/jaywcjlove/awesome-uikit)
 [![CI](https://github.com/jaywcjlove/awesome-uikit/actions/workflows/ci.yml/badge.svg)](https://github.com/jaywcjlove/awesome-uikit/actions/workflows/ci.yml)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-uikit?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-uikit)
 
 Collect JS Frameworks, Web components library and Admin Template.
 
