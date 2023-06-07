@@ -573,6 +573,8 @@ Components for React Native applications
 - [vue-antd-pro](https://pro.loacg.com) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sendya/ant-design-pro-vue.svg?label=" /> - Use Ant Design Vue like a Pro! [![Open-Source Software][OSS Icon]](https://github.com/sendya/ant-design-pro-vue)
 - [vue-admin-next](https://github.com/openfext/vue-admin-next) <img align="bottom" height="13" src="https://img.shields.io/github/stars/openfext/vue-admin-next.svg?label=" /> - Professional enterprise application with Multi-Module Design, Vue Composition API and Friendly User Interface. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query) [![Open-Source Software][OSS Icon]](https://github.com/openfext/vue-admin-next)
 - [CoreUI Free Vue Admin & Dashboard Template](http://coreui.io/vue/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/coreui/coreui-free-vue-admin-template.svg?label=" /> - Free Admin Panel Template for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/coreui/coreui-free-vue-admin-template)
+- [Sneat-Free-Vuetify-Vuejs-Admin-Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) <img align="bottom" height="13" src="https://img.shields.io/github/stars/themeselection/sneat-vuetify-vuejs-admin-template-free.svg?label=" /> - Most developer-friendly & highly customizable Opensource & Free VueJS Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free)
+
 
 ### Angular
 
