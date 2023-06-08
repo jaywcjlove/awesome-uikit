@@ -57,7 +57,7 @@ Contents
 
 ## Frameworks
 
-Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://jsreport.io/the-ultimate-guide-to-javascript-frameworks/)
 
 ### The Big Three
 
@@ -74,7 +74,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 ### Notable
 
 - [Aurelia](http://aurelia.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/aurelia/framework.svg?label=" /> - Aurelia allows us to focus on business logic, not on the framework. [![Open-Source Software][OSS Icon]](https://github.com/aurelia)
-- [anu](https://rubylouvre.github.io/anu/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/RubyLouvre/anu.svg?label=" /> - he React16-compat mini library. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/anu)
+- ~~[anu](https://rubylouvre.github.io/anu/)~~ <img align="bottom" height="13" src="https://img.shields.io/github/stars/RubyLouvre/anu.svg?label=" /> - he React16-compat mini library. [![Open-Source Software][OSS Icon]](https://github.com/RubyLouvre/anu)
 - [Elm](http://elm-lang.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/elm/core.svg?label=" /> - Server and client code for the Elm website. [![Open-Source Software][OSS Icon]](https://github.com/elm/core)  
 - [FicusJS](https://docs.ficusjs.org) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ficusjs/ficusjs.svg?label=" /> - Lightweight functions for developing applications using web components. [![Open-Source Software][OSS Icon]](https://github.com/ficusjs/ficusjs)  
 - [HTM](https://github.com/developit/htm) <img align="bottom" height="13" src="https://img.shields.io/github/stars/developit/htm.svg?label=" /> - JSX alternative using standard tagged templates, with compiler support. [![Open-Source Software][OSS Icon]](https://github.com/developit/htm)
@@ -143,6 +143,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [petit-dom](https://github.com/yelouafi/petit-dom) <img align="bottom" height="13" src="https://img.shields.io/github/stars/yelouafi/petit-dom.svg?label=" /> - minimalist virtual dom library. [![Open-Source Software][OSS Icon]](https://github.com/yelouafi/petit-dom) ![hot][hot Icon]
 - [Picodom](https://github.com/picodom/picodom) <img align="bottom" height="13" src="https://img.shields.io/github/stars/picodom/picodom.svg?label=" /> - 1 KB VDOM builder and patch function. [![Open-Source Software][OSS Icon]](https://github.com/picodom/picodom) ![hot][hot Icon]
 - [Pux](http://purescript-pux.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/alexmingoia/purescript-pux.svg?label=" /> - Build type-safe web apps with PureScript. [![Open-Source Software][OSS Icon]](https://github.com/alexmingoia/purescript-pux/)
+- [RE:DOM](https://redom.js.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/redom/redom.svg?label=" /> - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/redom/redom)  
 - [Ractive](https://ractive.js.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ractivejs/ractive.svg?label=" /> - Next-generation DOM manipulation. [![Open-Source Software][OSS Icon]](https://github.com/ractivejs/ractive)
 - [react-lite](https://github.com/Lucifier129/react-lite) <img align="bottom" height="13" src="https://img.shields.io/github/stars/Lucifier129/react-lite.svg?label=" /> - an implementation of React that optimizes for small script size. [![Open-Source Software][OSS Icon]](https://github.com/Lucifier129/react-lite)
 - [RE:DOM](https://redom.js.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/redom/redom.svg?label=" /> - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/redom/redom) ![hot][hot Icon]
