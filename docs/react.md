@@ -13,7 +13,7 @@ Awesome React
 
 ## React Frameworks
 
-- [next.js](https://nextjs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vercel/next.js.svg?label=" /> - The React Framework. [![Open-Source Software][OSS Icon]](https://github.com/vercel/next.js)
+- [Next.js](https://nextjs.org/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/vercel/next.js.svg?label=" /> - The React Framework. [![Open-Source Software][OSS Icon]](https://github.com/vercel/next.js)
 - [Remix](https://remix.run/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/remix-run/remix.svg?label=" /> - Finally, a killer React framework from the creators of React Router. [![Open-Source Software][OSS Icon]](https://github.com/remix-run/remix)
 - [Gatsby](https://www.gatsbyjs.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/gatsbyjs/gatsby.svg?label=" /> - The fastest frontend for the headless web. Build modern websites with React. [![Open-Source Software][OSS Icon]](https://github.com/gatsbyjs/gatsby)
 - [Expo](https://expo.dev) <img align="bottom" height="13" src="https://img.shields.io/github/stars/expo/expo.svg?label=" /> - An open-source platform for making universal native apps with React. [![Open-Source Software][OSS Icon]](https://www.github.com/expo/expo)
