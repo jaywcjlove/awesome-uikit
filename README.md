@@ -556,6 +556,8 @@ Components for React Native applications
 - [reactSPA](https://muyunyun.github.io/reactSPA) <img align="bottom" height="13" src="https://img.shields.io/github/stars/MuYunyun/reactSPA.svg?label=" /> - 一个后台管理系统模板 [![Open-Source Software][OSS Icon]](https://github.com/MuYunyun/reactSPA)
 - [rsuite-management-system](https://rsuite-admin-template.vercel.app/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - A management system template based on React Suite. [![Open-Source Software][OSS Icon]](https://github.com/rsuite/rsuite-admin-template)
 - [~~Materio Free MUI React NextJS Admin Template~~](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) <img align="bottom" height="13" src="https://img.shields.io/github/stars/themeselection/materio-mui-react-nextjs-admin-template-free.svg?" /> -Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers . [![Open-Source Software][OSS Icon]](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)
+- [React Admin Templates Collection](https://www.wrappixel.com/templates/category/react-templates/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - Amazing Collection of React Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
+- [Amazing React Admin Templates](https://adminmart.com/templates/react/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - A Collection of React Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
 
 ### Vue
 
@@ -579,6 +581,8 @@ Components for React Native applications
 - [vue-admin-next](https://github.com/openfext/vue-admin-next) <img align="bottom" height="13" src="https://img.shields.io/github/stars/openfext/vue-admin-next.svg?label=" /> - Professional enterprise application with Multi-Module Design, Vue Composition API and Friendly User Interface. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query) [![Open-Source Software][OSS Icon]](https://github.com/openfext/vue-admin-next)
 - [CoreUI Free Vue Admin & Dashboard Template](http://coreui.io/vue/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/coreui/coreui-free-vue-admin-template.svg?label=" /> - Free Admin Panel Template for Vue.js. [![Open-Source Software][OSS Icon]](https://github.com/coreui/coreui-free-vue-admin-template)
 - [Sneat-Free-Vuetify-Vuejs-Admin-Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) <img align="bottom" height="13" src="https://img.shields.io/github/stars/themeselection/sneat-vuetify-vuejs-admin-template-free.svg?label=" /> - Most developer-friendly & highly customizable Opensource & Free VueJS Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free)
+- [Vue Admin Templates Collection](https://www.wrappixel.com/templates/category/vuejs-templates/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - Amazing Collection of Vue Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
+- [Amazing Vue Admin Templates](https://adminmart.com/templates/vuejs/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - A Collection of Vue Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
 
 
 ### Angular
@@ -590,6 +594,9 @@ Components for React Native applications
 - [ng-admin](http://marmelab.com/ng-admin-demo) <img align="bottom" height="13" src="https://img.shields.io/github/stars/marmelab/ng-admin.svg?label=" /> - Add an AngularJS admin GUI to any RESTful API. [![Open-Source Software][OSS Icon]](https://github.com/marmelab/ng-admin)
 - [rdash-angular](http://rdash.github.io/#) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rdash/rdash-angular.svg?label=" /> - AngularJS implementation of the RDash admin dashboard theme. [![Open-Source Software][OSS Icon]](https://github.com/rdash/rdash-angular)
 - [CoreUI Free Angular Admin & Dashboard Template](http://coreui.io/angular/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/coreui/coreui-free-angular-admin-template.svg?label=" /> - Free Admin Panel Template for Angular. [![Open-Source Software][OSS Icon]](https://github.com/coreui/coreui-free-angular-admin-template)
+- [Angular Admin Templates Collection](https://www.wrappixel.com/templates/category/angular-templates/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - Amazing Collection of Angular Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
+- [Amazing Angular Admin Templates](https://adminmart.com/templates/angular/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - A Collection of Angular Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
+
 
 ### Other
 
@@ -608,6 +615,9 @@ Components for React Native applications
 - [startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) <img align="bottom" height="13" src="https://img.shields.io/github/stars/StartBootstrap/startbootstrap-sb-admin-2.svg?label=" /> - A free, open source, Bootstrap admin theme created by Start Bootstrap. [![Open-Source Software][OSS Icon]](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)
 - [Vali Admin](http://pratikborsadiya.in/vali-admin) <img align="bottom" height="13" src="https://img.shields.io/github/stars/pratikborsadiya/vali-admin.svg?label=" /> - Vali is a free, modular and easy to customize admin theme built using Bootstrap, SASS and Pug.js. [![Open-Source Software][OSS Icon]](https://github.com/pratikborsadiya/vali-admin)
 - [Sneat Free Bootstrap HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/themeselection/sneat-html-admin-template-free.svg?label=" /> - Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/sneat-html-admin-template-free)
+- [Bootstrap Admin Templates Collection](https://www.wrappixel.com/templates/category/bootstrap-admin-dashboard-template/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - Amazing Collection of Bootstrap Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
+- [Amazing Bootstrap Admin Templates](https://adminmart.com/templates/bootstrap/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/rsuite/rsuite-admin-template.svg?label=" /> - A Collection of Bootstrap Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
+
 
 ## Tools
 
@@ -631,4 +641,3 @@ Made with [github-action-contributors](https://github.com/jaywcjlove/github-acti
 ## License
 
 Licensed under the MIT License.
-
