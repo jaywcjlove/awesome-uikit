@@ -45,12 +45,12 @@ jobs:
           docker tag awesome-uikit ${{ secrets.DOCKER_USER }}/awesome-uikit:latest
           docker push ${{ secrets.DOCKER_USER }}/awesome-uikit:latest
 
-      # Create Docker Image in Github
-      - name: Login to GitHub registry
-        run: echo ${{ github.token }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+#       # Create Docker Image in Github
+#       - name: Login to GitHub registry
+#         run: echo ${{ github.token }} | docker login ghcr.io -u ${{ github.actor }} --password-stdin
 
-      - name: Build docker image
-        run: docker build -t ghcr.io/jaywcjlove/awesome-uikit:latest .
+#       - name: Build docker image
+#         run: docker build -t ghcr.io/jaywcjlove/awesome-uikit:latest .
 
-      - name: Publish to GitHub registry
-        run: docker push ghcr.io/jaywcjlove/awesome-uikit:latest
+#       - name: Publish to GitHub registry
+#         run: docker push ghcr.io/jaywcjlove/awesome-uikit:latest
