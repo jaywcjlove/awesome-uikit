@@ -437,6 +437,7 @@ _Support [React](https://github.com/facebook/react), [Angular](https://github.co
 - [KPC](https://onsen.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ksc-fe/kpc.svg?label=" /> - A UI components library for Intact, Vue, React and Angular. [![Open-Source Software][OSS Icon]](https://github.com/ksc-fe/kpc)
 - [storybook](https://storybook.js.org) <img align="bottom" height="13" src="https://img.shields.io/github/stars/storybooks/storybook.svg?label=" /> - Interactive UI component dev & test: React, React Native, Vue, Angular [![Open-Source Software][OSS Icon]](https://github.com/storybooks/storybook)
 - [Zag](https://onsen.io/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/chakra-ui/zag.svg?label=" /> - Finite state machines for accessible JavaScript components. [![Open-Source Software][OSS Icon]](https://github.com/chakra-ui/zag)
+- [Konsta UI](https://konstaui.com/) Mobile UI components made with Tailwind CSS [![Open-Source Software][OSS Icon]](https://github.com/konstaui/konsta)
 
 ### Tradition
 
