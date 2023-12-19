@@ -421,6 +421,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [Sailboat UI](https://sailboatui.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/sailboatui/sailboatui.svg?label=" /> - Sailboat UI is a modern UI component library for Tailwind CSS. [![Open-Source Software][OSS Icon]](https://github.com/sailboatui/sailboatui)
 - [Tailwind-Elements](https://tailwind-elements.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/mdbootstrap/Tailwind-Elements.svg?label=" /> - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates [![Open-Source Software][OSS Icon]](https://github.com/mdbootstrap/Tailwind-Elements/)
 - [Konsta UI](https://konstaui.com/) Mobile UI components made with Tailwind CSS [![Open-Source Software][OSS Icon]](https://github.com/konstaui/konsta)
+- [Keep React](https://react.keepdesign.io/) Keep React is an open-source component library built on Tailwind CSS and React.js [![Open-Source Software][OSS Icon]](https://github.com/StaticMania/keep-react)
 
 ### San
 
