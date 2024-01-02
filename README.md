@@ -436,6 +436,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 
 ### Svelte
 
+- [Bits UI](https://www.bits-ui.com/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/huntabyte/bits-ui.svg?label=" /> - The headless components for Svelte. [![Open-Source Software][OSS Icon]](https://github.com/huntabyte/bits-ui)
 - [ikun-ui](https://ikun-ui-docs.vercel.app/) <img align="bottom" height="13" src="https://img.shields.io/github/stars/ikun-svelte/ikun-ui.svg?label=" /> - A Svelte.js based UnoCSS UI library that allows you to make websites [![Open-Source Software][OSS Icon]](https://github.com/ikun-svelte/ikun-ui)
 
 ### WebCell
