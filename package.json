@@ -12,6 +12,6 @@
     "url": "https://github.com/jaywcjlove/awesome-uikit.git"
   },
   "dependencies": {
-    "idoc": "^1.26.5"
+    "idoc": "^1"
   }
 }
