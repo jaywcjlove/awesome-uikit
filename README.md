@@ -97,7 +97,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 - [nativescript-vue](https://nativescript-vue.org/) <img align="bottom" height="13" src="https://badgen.net/github/stars/nativescript-vue/nativescript-vue?label=" /> - NativeScript with the ease of Vue. [![Open-Source Software][OSS Icon]](https://github.com/nativescript-vue/nativescript-vue)
 - [react-native](http://facebook.github.io/react-native/) <img align="bottom" height="13" src="https://badgen.net/github/stars/facebook/react-native?label=" /> - A framework for building native apps with React. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react-native) ![hot][hot Icon]
-- ~~[Weex](https://weex.apache.org/) <img align="bottom" height="13" src="https://badgen.net/github/stars/apache/incubator-weex?label=" /> - A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/apache/incubator-weex)~~
+- [Weex](https://weexapp.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/alibaba/weex?label=" /> - A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/alibaba/weex)
 
 ### Mini Program
 
