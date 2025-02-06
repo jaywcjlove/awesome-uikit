@@ -617,6 +617,7 @@ Components for React Native applications
 - [Sneat-Free-Vuetify-Vuejs-Admin-Template](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/sneat-vuetify-vuejs-admin-template-free?label=" /> - Most developer-friendly & highly customizable Opensource & Free VueJS Admin Dashboard Template. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/sneat-vuetify-vuejs-admin-template-free)
 - [Vue Admin Templates Collection](https://www.wrappixel.com/templates/category/vuejs-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of Vue Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
 - [Amazing Vue Admin Templates](https://adminmart.com/templates/vuejs/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of Vue Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
+- [Best VueJS Admin Template](https://themeselection.com/item/category/vuejs-admin-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Best Collection of VueJS Admin Templates by ThemeSelection Team. [![Open-Source Software][OSS Icon]](https://github.com/themeselection)
 
 
 ### Angular
@@ -651,6 +652,8 @@ Components for React Native applications
 - [Sneat Free Bootstrap HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/sneat-html-admin-template-free?label=" /> - Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/sneat-html-admin-template-free)
 - [Bootstrap Admin Templates Collection](https://www.wrappixel.com/templates/category/bootstrap-admin-dashboard-template/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of Bootstrap Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
 - [Amazing Bootstrap Admin Templates](https://adminmart.com/templates/bootstrap/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of Bootstrap Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
+- [Bootstrap Templates](https://themeselection.com/item/category/bootstrap-admin-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Awesome Collection of Bootstrap Admin Templates by ThemeSelection Team. [![Open-Source Software][OSS Icon]](https://github.com/themeselection)
+
 
 
 ## Tools
