@@ -620,7 +620,8 @@ Components for React Native applications
 - [vue-antd-pro](https://pro.antdv.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/vueComponent/ant-design-vue-pro?label=" /> - Use Ant Design Vue like a Pro! [![Open-Source Software][OSS Icon]](https://github.com/vueComponent/ant-design-vue-pro)
 - [vue-admin-next](https://github.com/openfext/vue-admin-next) <img align="bottom" height="13" src="https://badgen.net/github/stars/openfext/vue-admin-next?label=" /> - Professional enterprise application with Multi-Module Design, Vue Composition API and Friendly User Interface. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query) [![Open-Source Software][OSS Icon]](https://github.com/openfext/vue-admin-next)
 - [Vue Admin Templates Collection](https://www.wrappixel.com/templates/category/vuejs-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of Vue Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
-- [vue-admin-better](https://vuejs-core.cn/shop-vite/?form=github) <img align="bottom" height="13" src="https://badgen.net/github/stars/zxwk1998/vue-admin-better?label=" /> - Amazing Collection of Vue Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/zxwk1998/vue-admin-better)
+- [vue-admin-better](https://vuejs-core.cn/shop-vite/?form=github) <img align="bottom" height="13" src="https://badgen.net/github/stars/zxwk1998/vue-admin-better?label=" /> -  vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin [![Open-Source Software][OSS Icon]](https://github.com/zxwk1998/vue-admin-better)
+- [vue-pure-admin](https://pure-admin.github.io/vue-pure-admin) <img align="bottom" height="13" src="https://badgen.net/github/stars/pure-admin/vue-pure-admin?label=" /> - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） [![Open-Source Software][OSS Icon]](https://github.com/pure-admin/vue-pure-admin)
 
 ### Angular
 
@@ -633,7 +634,6 @@ Components for React Native applications
 - [CoreUI Free Angular Admin & Dashboard Template](http://coreui.io/angular/) <img align="bottom" height="13" src="https://badgen.net/github/stars/coreui/coreui-free-angular-admin-template?label=" /> - Free Admin Panel Template for Angular. [![Open-Source Software][OSS Icon]](https://github.com/coreui/coreui-free-angular-admin-template)
 - [Angular Admin Templates Collection](https://www.wrappixel.com/templates/category/angular-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of Angular Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
 - [Amazing Angular Admin Templates](https://adminmart.com/templates/angular/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of Angular Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
-
 
 ### Other
 
