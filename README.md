@@ -430,6 +430,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [Konsta UI](https://konstaui.com/) Mobile UI components made with Tailwind CSS [![Open-Source Software][OSS Icon]](https://github.com/konstaui/konsta)
 - [Keep React](https://react.keepdesign.io/) Keep React is an open-source component library built on Tailwind CSS and React.js [![Open-Source Software][OSS Icon]](https://github.com/StaticMania/keep-react)
 - [FlyonUI](https://flyonui.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/flyonui?label=" /> -  An open-source Tailwind CSS Components Library with semantic classes and powerful JS plugin. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/flyonui)
+- [Shadcn Studio](https://shadcnstudio.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/flyonui?label=" /> - Preview your theme changes across different components and layouts. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/shadcn-studio)
 
 
 ### San
