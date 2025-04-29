@@ -665,6 +665,7 @@ Components for React Native applications
 ### CheatSheet
 
 - [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/bootstrap-cheatsheet?label=" /> - An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/bootstrap-cheatsheet)
+- [tweakcn](https://tweakcn.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/jnsahaj/tweakcn?label=" /> - Beautiful themes for shadcn/ui. Customize colors, typography, and more in real-time.[![Open-Source Software][OSS Icon]](https://github.com/jnsahaj/tweakcn)
 
 [hot Icon]: https://jaywcjlove.github.io/sb/ico/min-hot.svg "Hot"
 [OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open source ui componet on Github"
