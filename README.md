@@ -85,6 +85,7 @@ Contents
   - [Vue](#vue-2)
   - [Angular](#angular-1)
   - [Other](#other)
+- [Icon Libraries](#icon-libraries)
 - [Tools](#tools)
   - [CheatSheet](#cheatsheet)
 <!--idoc:ignore:end-->
@@ -303,7 +304,6 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Grommet](https://v2.grommet.io) <img align="bottom" height="13" src="https://badgen.net/github/stars/grommet/grommet?label=" /> - Focus on the essential experience. [![Open-Source Software][OSS Icon]](https://github.com/grommet/grommet)
 - [Hack Club Design System](https://design.hackclub.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/hackclub/design-system?label=" /> - A react UIKit with nijigen style. [![Open-Source Software][OSS Icon]](https://github.com/hackclub/design-system)
 - [hana-ui](https://hana-ui.moe) <img align="bottom" height="13" src="https://badgen.net/github/stars/hana-group/hana-ui?label=" /> - A react UIKit with nijigen style.  [![Open-Source Software][OSS Icon]](https://github.com/hana-group/hana-ui)
-- [heroicons-animated](https://www.heroicons-animated.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Aniket-508/heroicons-animated?label=" /> - An open-source collection of 316 beautifully animated heroicons for your projects.  [![Open-Source Software][OSS Icon]](https://github.com/Aniket-508/heroicons-animated)
 - [HIUI](https://xiaomi.github.io/hiui/) <img align="bottom" height="13" src="https://badgen.net/github/stars/XiaoMi/hiui?label=" /> This is a solution that is adequate for the fomulation and implementation of interaction and UI design standard for front, middle and backend. [![Open-Source Software][OSS Icon]](https://github.com/XiaoMi/hiui)
 - [Instructure UI](https://instructure.design/) <img align="bottom" height="13" src="https://badgen.net/github/stars/instructure/instructure-ui?label=" /> - A UI Component Library made by Instructure, Inc. [![Open-Source Software][OSS Icon]](https://github.com/instructure/instructure-ui)
 - [ICE DISIGN](https://alibaba.github.io/ice/) <img align="bottom" height="13" src="https://badgen.net/github/stars/alibaba/ice?label=" /> - 海量可复用物料，通过 GUI 工具极速构建中后台应用. [![Open-Source Software][OSS Icon]](https://github.com/alibaba/ice)
@@ -700,6 +700,19 @@ Components for React Native applications
 - [Bootstrap Templates](https://themeselection.com/item/category/bootstrap-admin-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Awesome Collection of Bootstrap Admin Templates by ThemeSelection Team. [![Open-Source Software][OSS Icon]](https://github.com/themeselection)
 
 
+## Icon Libraries
+
+- [Feather](https://feathericons.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/feathericons/feather?label=" /> - Simply beautiful open source icons. [![Open-Source Software][OSS Icon]](https://github.com/feathericons/feather)
+- [Font Awesome](https://fontawesome.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/FortAwesome/Font-Awesome?label=" /> - The iconic SVG, font, and CSS toolkit. [![Open-Source Software][OSS Icon]](https://github.com/FortAwesome/Font-Awesome)
+- [Heroicons](https://heroicons.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/tailwindlabs/heroicons?label=" /> - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. [![Open-Source Software][OSS Icon]](https://github.com/tailwindlabs/heroicons)
+- [heroicons-animated](https://www.heroicons-animated.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Aniket-508/heroicons-animated?label=" /> - An open-source collection of 316 beautifully animated heroicons for your projects.  [![Open-Source Software][OSS Icon]](https://github.com/Aniket-508/heroicons-animated)
+- [Iconoir](https://iconoir.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/iconoir-icons/iconoir?label=" /> - An open source icons library with 1500+ icons. [![Open-Source Software][OSS Icon]](https://github.com/iconoir-icons/iconoir)
+- [Ionicons](https://ionicons.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ionic-team/ionicons?label=" /> - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere. [![Open-Source Software][OSS Icon]](https://github.com/ionic-team/ionicons)
+- [Lucide](https://lucide.dev/) <img align="bottom" height="13" src="https://badgen.net/github/stars/lucide-icons/lucide?label=" /> - Beautiful & consistent icon toolkit made by the community. [![Open-Source Software][OSS Icon]](https://github.com/lucide-icons/lucide)
+- [Material Icons](https://fonts.google.com/icons) <img align="bottom" height="13" src="https://badgen.net/github/stars/google/material-design-icons?label=" /> - Material Design icons by Google. [![Open-Source Software][OSS Icon]](https://github.com/google/material-design-icons)
+- [Remix Icon](https://remixicon.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Remix-Design/remixicon?label=" /> - Open source neutral style icon system. [![Open-Source Software][OSS Icon]](https://github.com/Remix-Design/remixicon)
+- [React Icons](https://react-icons.github.io/react-icons/) <img align="bottom" height="13" src="https://badgen.net/github/stars/react-icons/react-icons?label=" /> - Popular icons in your React projects easily. [![Open-Source Software][OSS Icon]](https://github.com/react-icons/react-icons)
+- [Tabler Icons](https://tabler-icons.io/) <img align="bottom" height="13" src="https://badgen.net/github/stars/tabler/tabler-icons?label=" /> - A set of over 2200 free MIT-licensed high-quality SVG icons. [![Open-Source Software][OSS Icon]](https://github.com/tabler/tabler-icons)
 
 ## Tools
 
