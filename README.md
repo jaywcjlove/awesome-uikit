@@ -473,7 +473,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [Keep React](https://react.keepdesign.io/) Keep React is an open-source component library built on Tailwind CSS and React.js [![Open-Source Software][OSS Icon]](https://github.com/StaticMania/keep-react)
 - [FlyonUI](https://flyonui.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/flyonui?label=" /> -  An open-source Tailwind CSS Components Library with semantic classes and powerful JS plugin. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/flyonui)
 - [Shadcn Studio](https://shadcnstudio.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/flyonui?label=" /> - Preview your theme changes across different components and layouts. [![Open-Source Software][OSS Icon]](https://github.com/themeselection/shadcn-studio)
-
+- [Shadcn Space](https://shadcnspace.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/shadcnspace/shadcnspace?label=" /> - Craft modern UIs faster with our extra-ordinary designed Shadcn UI components, blocks & templates. [![Open-Source Software][OSS Icon]](https://github.com/shadcnspace/shadcnspace)
 
 ### San
 
@@ -637,6 +637,7 @@ Components for React Native applications
 - [~~Materio Free MUI React NextJS Admin Template~~](https://github.com/themeselection/materio-mui-nextjs-admin-template-free) <img align="bottom" height="13" src="https://badgen.net/github/stars/themeselection/materio-mui-nextjs-admin-template-free?label=" /> -Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers . [![Open-Source Software][OSS Icon]](https://github.com/themeselection/materio-mui-nextjs-admin-template-free)
 - [React Admin Templates Collection](https://www.wrappixel.com/templates/category/react-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of React Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
 - [Amazing React Admin Templates](https://adminmart.com/templates/react/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of React Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
+- [Tailwindadmin](https://tailwind-admin.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tailwind-Admin/free-tailwind-admin-dashboard-template?label=" /> - Free Shadcn Dashboard Template Built On React and Tailwind CSS. [![Open-Source Software][OSS Icon]](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template)
 
 ### Vue
 
