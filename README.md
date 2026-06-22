@@ -640,6 +640,7 @@ Components for React Native applications
 - [React Admin Templates Collection](https://www.wrappixel.com/templates/category/react-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of React Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
 - [Amazing React Admin Templates](https://adminmart.com/templates/react/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of React Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
 - [Tailwindadmin](https://tailwind-admin.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tailwind-Admin/free-tailwind-admin-dashboard-template?label=" /> - Free Shadcn Dashboard Template Built On React and Tailwind CSS. [![Open-Source Software][OSS Icon]](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template)
+- [UnfoldCMS](https://unfoldcms.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/hpakdaman/unfoldcms?label=" /> - Self-hosted CMS with a React 19 + shadcn/ui admin panel (51 components), Laravel 12 backend, REST API v1, and headless mode for Next.js, Astro & SvelteKit. [![Open-Source Software][OSS Icon]](https://github.com/hpakdaman/unfoldcms)
 
 ### Vue
 
