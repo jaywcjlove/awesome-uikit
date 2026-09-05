@@ -237,7 +237,6 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 ### Components
 
 - [amp](https://amp.dev/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ampproject/amphtml?label=" /> - The AMP web component framework. [![Open-Source Software][OSS Icon]](https://github.com/ampproject/amphtml)
-- [bolt](https://github.com/boltdesignsystem/bolt) <img align="bottom" height="13" src="https://badgen.net/github/stars/boltdesignsystem/bolt?label=" /> The Bolt Design System provides robust Twig and Web Component. [![Open-Source Software][OSS Icon]](https://github.com/boltdesignsystem/bolt)
 - [~~Clarity~~](http://clarity.design) <img align="bottom" height="13" src="https://badgen.net/github/stars/vmware-archive/clarity?label=" /> - Clarity is an open source design system that brings together UX guidelines, design resources, and coding implementations with Web Components. [![Open-Source Software][OSS Icon]](https://github.com/vmware-archive/clarity)
 - [Material Web](https://github.com/material-components/material-web) <img align="bottom" height="13" src="https://badgen.net/github/stars/material-components/material-web?label=" /> - Material Design Web Components. [![Open-Source Software][OSS Icon]](https://github.com/material-components/material-web)
 - [Fast](https://www.fast.design) <img align="bottom" height="13" src="https://badgen.net/github/stars/microsoft/fast?label=" /> - The adaptive interface system for modern web experiences. [![Open-Source Software][OSS Icon]](https://github.com/microsoft/fast)
