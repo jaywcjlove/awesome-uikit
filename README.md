@@ -643,6 +643,7 @@ Components for React Native applications
 - [React Admin Templates Collection](https://www.wrappixel.com/templates/category/react-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of React Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
 - [Amazing React Admin Templates](https://adminmart.com/templates/react/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of React Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
 - [Tailwindadmin](https://tailwind-admin.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tailwind-Admin/free-tailwind-admin-dashboard-template?label=" /> - Free Shadcn Dashboard Template Built On React and Tailwind CSS. [![Open-Source Software][OSS Icon]](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template)
+- [shadcn-vite-starter](https://github.com/7ovr/shadcn-vite-starter) <img align="bottom" height="13" src="https://badgen.net/github/stars/7ovr/shadcn-vite-starter?label=" /> - Vite and React app shell starter on shadcn/ui and Base UI, set up so coding agents follow its patterns. [![Open-Source Software][OSS Icon]](https://github.com/7ovr/shadcn-vite-starter)
 
 ### Vue
 
