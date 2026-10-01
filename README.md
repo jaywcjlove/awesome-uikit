@@ -108,7 +108,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 - [React](https://reactjs.org/) <img align="bottom" height="13" src="https://badgen.net/github/stars/facebook/react?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/react?label=" /> - A JavaScript library for building user interfaces. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react)
 - [Angular](https://angular.io/) <img align="bottom" height="13" src="https://badgen.net/github/stars/angular/angular?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/angular?label=" /> - One framework. Mobile & desktop. [![Open-Source Software][OSS Icon]](https://github.com/angular/angular)
-- [Vue.js](https://vuejs.org/) <img align="bottom" height="13" src="https://badgen.net/github/stars/vuejs/vue?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/vue?label=" /> - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. [![Open-Source Software][OSS Icon]](https://github.com/vuejs/vue)
+- [Vue.js](https://vuejs.org/) <img align="bottom" height="13" src="https://badgen.net/github/stars/vuejs/vue?label=" /> <img align="bottom" height="13" src="https://img.shields.io/npm/dm/vue?label=" /> - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. [![Open-Source Software][OSS Icon]](https://github.com/vuejs/vue)
 
 ### Historically Significant
 
