@@ -499,6 +499,10 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [ikun-ui](https://ikun-ui-docs.vercel.app/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ikun-svelte/ikun-ui?label=" /> - A Svelte.js based UnoCSS UI library that allows you to make websites [![Open-Source Software][OSS Icon]](https://github.com/ikun-svelte/ikun-ui)
 - [Melt UI](https://melt-ui.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/melt-ui/melt-ui?label=" /> - A set of headless, accessible component builders for Svelte. [![Open-Source Software][OSS Icon]](https://github.com/melt-ui/melt-ui)
 
+### Rust
+
+- [GPUI Kit](https://gpui-kit.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/longbridge/gpui-kit?label=" /> - Rust GUI components for cross-platform desktop apps built with GPUI. [![Open-Source Software][OSS Icon]](https://github.com/longbridge/gpui-kit)
+
 ### WebCell
 
 *<a href="https://web-cell.dev/"><img src="https://github.com/EasyWebApp.png" height="16px" /></a> [WebCell](https://web-cell.dev/) is a Web Components engine based on JSX & TypeScript*
