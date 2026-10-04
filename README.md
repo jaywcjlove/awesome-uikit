@@ -502,6 +502,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 ### Rust
 
 - [GPUI Kit](https://gpui-kit.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/longbridge/gpui-kit?label=" /> - Rust GUI components for cross-platform desktop apps built with GPUI. [![Open-Source Software][OSS Icon]](https://github.com/longbridge/gpui-kit)
+- [GPUIX](https://github.com/remorses/gpuix) <img align="bottom" height="13" src="https://badgen.net/github/stars/remorses/gpuix?label=" /> - Build native GPUI interfaces with React or Solid and TypeScript. [![Open-Source Software][OSS Icon]](https://github.com/remorses/gpuix)
 
 ### WebCell
 
