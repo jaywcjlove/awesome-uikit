@@ -236,6 +236,7 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 
 ## Desktop Apps
 
+- [Electron](https://github.com/electron/electron) <img align="bottom" height="13" src="https://badgen.net/github/stars/electron/electron?label=" /> - Build cross-platform desktop apps with JavaScript, HTML, and CSS. [![Open-Source Software][OSS Icon]](https://github.com/electron/electron)
 - [GPUI Kit](https://gpui-kit.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/longbridge/gpui-kit?label=" /> - Rust GUI components for cross-platform desktop apps built with GPUI. [![Open-Source Software][OSS Icon]](https://github.com/longbridge/gpui-kit)
 - [GPUIX](https://github.com/remorses/gpuix) <img align="bottom" height="13" src="https://badgen.net/github/stars/remorses/gpuix?label=" /> - Build native GPUI interfaces with React or Solid and TypeScript. [![Open-Source Software][OSS Icon]](https://github.com/remorses/gpuix)
 - [MyGo](https://github.com/egoist/mygo) <img align="bottom" height="13" src="https://badgen.net/github/stars/egoist/mygo?label=" /> - Build desktop apps with a web frontend or native UI in Go. [![Open-Source Software][OSS Icon]](https://github.com/egoist/mygo)
