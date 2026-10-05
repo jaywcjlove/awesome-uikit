@@ -64,6 +64,7 @@ Contents
   - [Mini Program](#mini-program)
   - [Rest of the Pack](#rest-of-the-pack)
   - [State of the React](#state-of-the-react)
+- [Desktop Apps](#desktop-apps)
 - [Web Components](#web-components)
   - [Components](#components)
   - [Tools](#tools)
@@ -232,6 +233,12 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [useStateMachine](https://github.com/cassiozen/useStateMachine) <img align="bottom" height="13" src="https://badgen.net/github/stars/cassiozen/useStateMachine?label=" /> - The ½ kb state machine hook for React. [![Open-Source Software][OSS Icon]](https://github.com/cassiozen/useStateMachine)
 - [Valtio](http://valtio-demo.pmnd.rs/) <img align="bottom" height="13" src="https://badgen.net/github/stars/pmndrs/valtio?label=" /> - Valtio makes proxy-state simple for React and Vanilla. [![Open-Source Software][OSS Icon]](https://github.com/pmndrs/valtio)
 - [zustand](https://zustand.surge.sh/) <img align="bottom" height="13" src="https://badgen.net/github/stars/pmndrs/zustand?label=" /> - Bear necessities for state management in React. [![Open-Source Software][OSS Icon]](https://github.com/pmndrs/zustand)
+
+## Desktop Apps
+
+- [GPUI Kit](https://gpui-kit.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/longbridge/gpui-kit?label=" /> - Rust GUI components for cross-platform desktop apps built with GPUI. [![Open-Source Software][OSS Icon]](https://github.com/longbridge/gpui-kit)
+- [GPUIX](https://github.com/remorses/gpuix) <img align="bottom" height="13" src="https://badgen.net/github/stars/remorses/gpuix?label=" /> - Build native GPUI interfaces with React or Solid and TypeScript. [![Open-Source Software][OSS Icon]](https://github.com/remorses/gpuix)
+- [MyGo](https://github.com/egoist/mygo) <img align="bottom" height="13" src="https://badgen.net/github/stars/egoist/mygo?label=" /> - Build desktop apps with a web frontend or native UI in Go. [![Open-Source Software][OSS Icon]](https://github.com/egoist/mygo)
 
 ## Web Components
 
@@ -499,10 +506,6 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [ikun-ui](https://ikun-ui-docs.vercel.app/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ikun-svelte/ikun-ui?label=" /> - A Svelte.js based UnoCSS UI library that allows you to make websites [![Open-Source Software][OSS Icon]](https://github.com/ikun-svelte/ikun-ui)
 - [Melt UI](https://melt-ui.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/melt-ui/melt-ui?label=" /> - A set of headless, accessible component builders for Svelte. [![Open-Source Software][OSS Icon]](https://github.com/melt-ui/melt-ui)
 
-### Rust
-
-- [GPUI Kit](https://gpui-kit.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/longbridge/gpui-kit?label=" /> - Rust GUI components for cross-platform desktop apps built with GPUI. [![Open-Source Software][OSS Icon]](https://github.com/longbridge/gpui-kit)
-- [GPUIX](https://github.com/remorses/gpuix) <img align="bottom" height="13" src="https://badgen.net/github/stars/remorses/gpuix?label=" /> - Build native GPUI interfaces with React or Solid and TypeScript. [![Open-Source Software][OSS Icon]](https://github.com/remorses/gpuix)
 
 ### WebCell
 
