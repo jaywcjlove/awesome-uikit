@@ -60,11 +60,11 @@ Contents
   - [The Big Three](#the-big-three)
   - [Historically Significant](#historically-significant)
   - [Notable](#notable)
-  - [Mobile](#mobile)
-  - [Mini Program](#mini-program)
   - [Rest of the Pack](#rest-of-the-pack)
   - [State of the React](#state-of-the-react)
 - [Desktop Apps](#desktop-apps)
+- [Mobile](#mobile)
+- [Mini Program](#mini-program)
 - [Web Components](#web-components)
   - [Components](#components)
   - [Tools](#tools)
@@ -135,29 +135,6 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [Solid](https://github.com/ryansolid/solid) <img align="bottom" height="13" src="https://badgen.net/github/stars/ryansolid/solid?label=" /> - A declarative, efficient, and flexible JavaScript library for building user interfaces.. [![Open-Source Software][OSS Icon]](https://github.com/ryansolid/solid) ![hot][hot Icon]
 - [VanJS](https://github.com/vanjs-org/van) <img align="bottom" height="13" src="https://badgen.net/github/stars/vanjs-org/van?label=" /> - World's smallest reactive UI framework... [![Open-Source Software][OSS Icon]](https://github.com/vanjs-org/van)
 
-
-### Mobile
-
-- [Angular Native](https://ng-native.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ng-native/ng-native?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ng-native/ng-native?style=flat&label=" /> - A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/ng-native/ng-native)
-- [Flutter](https://flutter.dev/) <img align="bottom" height="13" src="https://badgen.net/github/stars/flutter/flutter?label=" /> - Google's UI toolkit for building mobile, web, and desktop apps from one codebase. [![Open-Source Software][OSS Icon]](https://github.com/flutter/flutter)
-- [Lynx](https://lynxjs.org) <img align="bottom" height="13" src="https://badgen.net/github/stars/lynx-family/lynx?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lynx-family/lynx?style=flat&label=" /> - Empower the Web community and invite more to build across platforms. [![Open-Source Software][OSS Icon]](https://github.com/lynx-family/lynx)
-- [nativescript-vue](https://nativescript-vue.org/) <img align="bottom" height="13" src="https://badgen.net/github/stars/nativescript-vue/nativescript-vue?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nativescript-vue/nativescript-vue?style=flat&label=" /> - NativeScript with the ease of Vue. [![Open-Source Software][OSS Icon]](https://github.com/nativescript-vue/nativescript-vue)
-- [react-native](http://facebook.github.io/react-native/) <img align="bottom" height="13" src="https://badgen.net/github/stars/facebook/react-native?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/facebook/react-native?style=flat&label=" /> - A framework for building native apps with React. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react-native) ![hot][hot Icon]
-- [Weex](https://weexapp.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/alibaba/weex?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alibaba/weex?style=flat&label=" /> - A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/alibaba/weex)
-
-### Mini Program
-
-- ~~[alita](https://areslabs.github.io/alita) <img align="bottom" height="13" src="https://badgen.net/github/stars/skyFi/weapp-native?label=" /> - 把 React Native 代码转换成微信小程序代码的转换引擎工具。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)~~
-- ~~[Antmove](https://ant-move.github.io/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ant-move/Antmove?label=" /> - 编译型跨端解决方案，基于支付宝/微信小程序，轻松地转换成其它平台的小程序。 [![Open-Source Software][OSS Icon]](https://github.com/ant-move/Antmove)~~
-- ~~[Anna Remax UI](https://github.com/AnnaSearl/anna-remax-ui) <img align="bottom" height="13" src="https://badgen.net/github/stars/ant-move/Antmove?label=" /> - 一款基于 Remax 框架开发的小程序 UI 组件库。 [![Open-Source Software][OSS Icon]](https://github.com/AnnaSearl/anna-remax-ui)~~
-- ~~[Chameleon](http://cml.didi.cn/) - <img align="bottom" height="13" src="https://badgen.net/github/stars/didi/chameleon?label=" /> 一套代码运行多端，一端所见即多端所见 [![Open-Source Software][OSS Icon]](https://github.com/didi/chameleon)~~
-- [mpx](https://didi.github.io/mpx/) <img align="bottom" height="13" src="https://badgen.net/github/stars/didi/mpx?label=" /> - 滴滴开源小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/didi/mpx)
-- ~~[mpvue](http://mpvue.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/Meituan-Dianping/mpvue?label=" /> - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 [![Open-Source Software][OSS Icon]](https://github.com/Meituan-Dianping/mpvue)~~
-- [taro](https://taro.jd.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/NervJS/taro?label=" /> - 多端统一开发框架，支持小程序、H5、React Native 等的应用。[![Open-Source Software][OSS Icon]](https://github.com/NervJS/taro)
-- ~~[weapp-native](https://github.com/skyFi/weapp-native) <img align="bottom" height="13" src="https://badgen.net/github/stars/skyFi/weapp-native?label=" /> - 像 React 组件开发一样来开发微信小程序，开发微信小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)~~
-- ~~[wepy](https://wepyjs.gitee.io/wepy-docs/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tencent/wepy?label=" /> - 小程序组件化开发框架 [![Open-Source Software][OSS Icon]](https://github.com/Tencent/wepy)~~
-- ~~[Remax](https://remaxjs.org) <img align="bottom" height="13" src="https://badgen.net/github/stars/remaxjs/remax?label=" /> - 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发 [![Open-Source Software][OSS Icon]](https://github.com/remaxjs/remax)~~
-- [uni-app](https://uniapp.dcloud.io/) <img align="bottom" height="13" src="https://badgen.net/github/stars/dcloudio/uni-app?label=" /> 使用 Vue 语法开发小程序、H5、App的统一框架 [![Open-Source Software][OSS Icon]](https://github.com/dcloudio/uni-app)
 
 ### Rest of the Pack
 
@@ -234,6 +211,29 @@ Most of this comes from: [The Ultimate Guide to JavaScript Frameworks](https://j
 - [useStateMachine](https://github.com/cassiozen/useStateMachine) <img align="bottom" height="13" src="https://badgen.net/github/stars/cassiozen/useStateMachine?label=" /> - The ½ kb state machine hook for React. [![Open-Source Software][OSS Icon]](https://github.com/cassiozen/useStateMachine)
 - [Valtio](http://valtio-demo.pmnd.rs/) <img align="bottom" height="13" src="https://badgen.net/github/stars/pmndrs/valtio?label=" /> - Valtio makes proxy-state simple for React and Vanilla. [![Open-Source Software][OSS Icon]](https://github.com/pmndrs/valtio)
 - [zustand](https://zustand.surge.sh/) <img align="bottom" height="13" src="https://badgen.net/github/stars/pmndrs/zustand?label=" /> - Bear necessities for state management in React. [![Open-Source Software][OSS Icon]](https://github.com/pmndrs/zustand)
+
+## Mobile
+
+- [Angular Native](https://ng-native.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ng-native/ng-native?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ng-native/ng-native?style=flat&label=" /> - A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/ng-native/ng-native)
+- [Flutter](https://flutter.dev/) <img align="bottom" height="13" src="https://badgen.net/github/stars/flutter/flutter?label=" /> - Google's UI toolkit for building mobile, web, and desktop apps from one codebase. [![Open-Source Software][OSS Icon]](https://github.com/flutter/flutter)
+- [Lynx](https://lynxjs.org) <img align="bottom" height="13" src="https://badgen.net/github/stars/lynx-family/lynx?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lynx-family/lynx?style=flat&label=" /> - Empower the Web community and invite more to build across platforms. [![Open-Source Software][OSS Icon]](https://github.com/lynx-family/lynx)
+- [nativescript-vue](https://nativescript-vue.org/) <img align="bottom" height="13" src="https://badgen.net/github/stars/nativescript-vue/nativescript-vue?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nativescript-vue/nativescript-vue?style=flat&label=" /> - NativeScript with the ease of Vue. [![Open-Source Software][OSS Icon]](https://github.com/nativescript-vue/nativescript-vue)
+- [react-native](http://facebook.github.io/react-native/) <img align="bottom" height="13" src="https://badgen.net/github/stars/facebook/react-native?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/facebook/react-native?style=flat&label=" /> - A framework for building native apps with React. [![Open-Source Software][OSS Icon]](https://github.com/facebook/react-native) ![hot][hot Icon]
+- [Weex](https://weexapp.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/alibaba/weex?label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alibaba/weex?style=flat&label=" /> - A framework for building Mobile cross-platform UI. [![Open-Source Software][OSS Icon]](https://github.com/alibaba/weex)
+
+## Mini Program
+
+- ~~[alita](https://areslabs.github.io/alita) <img align="bottom" height="13" src="https://badgen.net/github/stars/skyFi/weapp-native?label=" /> - 把 React Native 代码转换成微信小程序代码的转换引擎工具。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)~~
+- ~~[Antmove](https://ant-move.github.io/) <img align="bottom" height="13" src="https://badgen.net/github/stars/ant-move/Antmove?label=" /> - 编译型跨端解决方案，基于支付宝/微信小程序，轻松地转换成其它平台的小程序。 [![Open-Source Software][OSS Icon]](https://github.com/ant-move/Antmove)~~
+- ~~[Anna Remax UI](https://github.com/AnnaSearl/anna-remax-ui) <img align="bottom" height="13" src="https://badgen.net/github/stars/ant-move/Antmove?label=" /> - 一款基于 Remax 框架开发的小程序 UI 组件库。 [![Open-Source Software][OSS Icon]](https://github.com/AnnaSearl/anna-remax-ui)~~
+- ~~[Chameleon](http://cml.didi.cn/) - <img align="bottom" height="13" src="https://badgen.net/github/stars/didi/chameleon?label=" /> 一套代码运行多端，一端所见即多端所见 [![Open-Source Software][OSS Icon]](https://github.com/didi/chameleon)~~
+- [mpx](https://didi.github.io/mpx/) <img align="bottom" height="13" src="https://badgen.net/github/stars/didi/mpx?label=" /> - 滴滴开源小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/didi/mpx)
+- ~~[mpvue](http://mpvue.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/Meituan-Dianping/mpvue?label=" /> - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。 [![Open-Source Software][OSS Icon]](https://github.com/Meituan-Dianping/mpvue)~~
+- [taro](https://taro.jd.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/NervJS/taro?label=" /> - 多端统一开发框架，支持小程序、H5、React Native 等的应用。[![Open-Source Software][OSS Icon]](https://github.com/NervJS/taro)
+- ~~[weapp-native](https://github.com/skyFi/weapp-native) <img align="bottom" height="13" src="https://badgen.net/github/stars/skyFi/weapp-native?label=" /> - 像 React 组件开发一样来开发微信小程序，开发微信小程序框架。 [![Open-Source Software][OSS Icon]](https://github.com/skyFi/weapp-native)~~
+- ~~[wepy](https://wepyjs.gitee.io/wepy-docs/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tencent/wepy?label=" /> - 小程序组件化开发框架 [![Open-Source Software][OSS Icon]](https://github.com/Tencent/wepy)~~
+- ~~[Remax](https://remaxjs.org) <img align="bottom" height="13" src="https://badgen.net/github/stars/remaxjs/remax?label=" /> - 将 React 运行在小程序环境中，让你可以使用完整的 React 进行开发 [![Open-Source Software][OSS Icon]](https://github.com/remaxjs/remax)~~
+- [uni-app](https://uniapp.dcloud.io/) <img align="bottom" height="13" src="https://badgen.net/github/stars/dcloudio/uni-app?label=" /> 使用 Vue 语法开发小程序、H5、App的统一框架 [![Open-Source Software][OSS Icon]](https://github.com/dcloudio/uni-app)
 
 ## Desktop Apps
 
