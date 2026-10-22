@@ -729,6 +729,7 @@ Components for React Native applications
 
 ## Icon Libraries
 
+- [Aria Icons](https://icons.leularia.com) <img align="bottom" height="13" src="https://badgen.net/github/stars/LeulAria/Aria-Icons?label=" /> - Catalog of ~1.4M open-source SVG icons with a CLI that writes them as SVG or React/Vue/Svelte/Solid components. [![Open-Source Software][OSS Icon]](https://github.com/LeulAria/Aria-Icons)
 - [Feather](https://feathericons.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/feathericons/feather?label=" /> - Simply beautiful open source icons. [![Open-Source Software][OSS Icon]](https://github.com/feathericons/feather)
 - [Font Awesome](https://fontawesome.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/FortAwesome/Font-Awesome?label=" /> - The iconic SVG, font, and CSS toolkit. [![Open-Source Software][OSS Icon]](https://github.com/FortAwesome/Font-Awesome)
 - [Heroicons](https://heroicons.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/tailwindlabs/heroicons?label=" /> - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. [![Open-Source Software][OSS Icon]](https://github.com/tailwindlabs/heroicons)
