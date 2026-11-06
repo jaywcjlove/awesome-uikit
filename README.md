@@ -663,6 +663,8 @@ Components for React Native applications
 - [Amazing React Admin Templates](https://adminmart.com/templates/react/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of React Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
 - [Tailwindadmin](https://tailwind-admin.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tailwind-Admin/free-tailwind-admin-dashboard-template?label=" /> - Free Shadcn Dashboard Template Built On React and Tailwind CSS. [![Open-Source Software][OSS Icon]](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template)
 - [shadcn-vite-starter](https://github.com/7ovr/shadcn-vite-starter) <img align="bottom" height="13" src="https://badgen.net/github/stars/7ovr/shadcn-vite-starter?label=" /> - Vite and React app shell starter on shadcn/ui and Base UI, set up so coding agents follow its patterns. [![Open-Source Software][OSS Icon]](https://github.com/7ovr/shadcn-vite-starter)
+- [AdminKit for React](https://adminkit.io/react/) <img align="bottom" height="13" src="https://badgen.net/github/stars/adminkit/adminkit-react?label=" /> - Free Bootstrap 5 admin template for React 19, TypeScript and Vite, with light and dark mode. [![Open-Source Software][OSS Icon]](https://github.com/adminkit/adminkit-react)
+- [AdminKit for Next.js](https://adminkit.io/nextjs/) <img align="bottom" height="13" src="https://badgen.net/github/stars/adminkit/adminkit-nextjs?label=" /> - Free Bootstrap 5 admin template for the Next.js 16 App Router, React 19 and TypeScript, with light and dark mode. [![Open-Source Software][OSS Icon]](https://github.com/adminkit/adminkit-nextjs)
 
 ### Vue
 
@@ -725,6 +727,7 @@ Components for React Native applications
 - [Bootstrap Admin Templates Collection](https://www.wrappixel.com/templates/category/bootstrap-admin-dashboard-template/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Amazing Collection of Bootstrap Admin Templates by WrapPixel Team. [![Open-Source Software][OSS Icon]](https://github.com/wrappixel)
 - [Amazing Bootstrap Admin Templates](https://adminmart.com/templates/bootstrap/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - A Collection of Bootstrap Admin Templates by AdminMart Team. [![Open-Source Software][OSS Icon]](https://github.com/adminmart)
 - [Bootstrap Templates](https://themeselection.com/item/category/bootstrap-admin-templates/) <img align="bottom" height="13" src="https://badgen.net/github/stars/rsuite/rsuite-admin-template?label=" /> - Awesome Collection of Bootstrap Admin Templates by ThemeSelection Team. [![Open-Source Software][OSS Icon]](https://github.com/themeselection)
+- [AdminKit](https://adminkit.io/bootstrap/) <img align="bottom" height="13" src="https://badgen.net/github/stars/adminkit/adminkit?label=" /> - Free Bootstrap 5 admin template in plain HTML, Sass and JavaScript, with light and dark mode and no jQuery. [![Open-Source Software][OSS Icon]](https://github.com/adminkit/adminkit)
 
 
 ## Icon Libraries
