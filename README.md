@@ -503,6 +503,7 @@ React Material Design - React components built with sass. [![Open-Source Softwar
 - [UIAble](https://uiable.com/) <img align="bottom" height="13" src="https://badgen.net/github/stars/codedthemes/uiable?label=" /> - A is a component library built with Tailwind CSS, Shadcn-style architecture, and Base UI principles.[![Open-Source Software][OSS Icon]](https://github.com/codedthemes/uiable)
 - [AI Canvas](https://aicanvas.me/) <img align="bottom" height="13" src="https://badgen.net/github/stars/uiNerd16/aicanvas?label=" /> - Open-source (MIT) registry of animated React components, blocks and design systems built with Tailwind CSS and Motion, installable with the shadcn CLI. [![Open-Source Software][OSS Icon]](https://github.com/uiNerd16/aicanvas)
 - [qodesign-free](https://teodoravadani.github.io/qodesign-free/) <img align="bottom" height="13" src="https://badgen.net/github/stars/teodoravadani/qodesign-free?label=" /> - MIT animated React components and the Orbit and Ledger dashboards built with Tailwind CSS and Motion, installable with the shadcn CLI or used as single HTML files. [![Open-Source Software][OSS Icon]](https://github.com/teodoravadani/qodesign-free)
+- [Klar](https://klar.run) <img align="bottom" height="13" src="https://badgen.net/github/stars/klar-run/klar?label=" /> - 110 React chart components in plain SVG with light and dark themes, installable with npm or the shadcn CLI. [![Open-Source Software][OSS Icon]](https://github.com/klar-run/klar)
  
 ### San
 
